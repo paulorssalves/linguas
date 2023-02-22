@@ -1,5 +1,7 @@
 ## O papel da gramática {-}
 
+- [ ] Criticar e aperfeiçoar o argumento da osmose
+
 A gramática pode ser aprendida por osmose. Melhor dizendo: o que as gramáticas normativas (esses manuais de gramática que você pode comprar na Internet ou numa livraria) fazem é _tornar o implícito explícito_. Elas mostram as regras subjacentes que explicam por que as coisas são como são, e qual a lógica por trás dessas regras.
 
 A gramática funciona, entre outras coisas, para estabelecer a regra entre como os termos se relacionam; diferencia uma frase que faz sentido e uma que não faz, e dá poder de precisão ao seu usuário. Sem domínio da gramática, você pode, sem querer, ser ambíguo. 

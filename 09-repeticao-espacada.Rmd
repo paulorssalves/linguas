@@ -1,1 +1,23 @@
-# A repetição espaçada {-}
+# Ferramentas auxiliares no aprendizado de línguas {-} 
+
+## O uso de aplicativos {-}
+
+Aplicativos são úteis, mas a utilidade principal dos aplicativos é uma só: aumentar seu vocabulário. A exceção, óbvio, são os aplicativos em que você conversa com pessoas reais.^[Esses podem ser um pouco perigosos, e eu recomendo que, se você quiser conversar com pessoas na sua L2, sejam eles estranhos, sejam eles professores, que você ou o faça em chats públicos como esses do Discord, ou você pague por um tutor em uma plataforma como o Preply.]
+
+Se a utilidade dos aplicativos é te ajudar a aumentar seu vocabulário, por que perder tempo com um aplicativo como Duolingo? O Duolingo (ou outros aplicativos do mesmo tipo) têm uma utilidade inegável: eles te ajudam a entender _mais ou menos_ as estruturas frasais da língua, mas, na minha experiência, cada árvore de habilidades do Duolingo só útil até a primeira metade. A segunda costuma trazer resultados diminutos em comparação com a primeira. 
+
+Se você vai usar um aplicativo, você quer então usar um que te forneça o maior custo-benefício. Ao meu ver, estes são os aplicativos voltados para aumentar o seu vocabulário. Os melhores aplicativos desse tipo são os que empregam um _sistema de repetição espaçada_.
+
+## Sistemas de repetição espaçada {-}
+
+O nosso cérebro tende a esquecer coisas por uma questão econômica. O que ele por algum motivo não considera importante, ele esquece. E isso é bom! Entretanto, entre as coisas que ele esquece por mera economia estão aquelas que usamos pouco, mas que mesmo assim gostaríamos de lembrar. Palavras em uma língua estrangeira (ou mesmo na nossa própria), se pouco utilizadas, entram nessa categoria.
+
+Existe uma forma simples de impedir isso de acontecer: lembrar do que não queremos esquecer. Nossa, jura mesmo? É, o princípio é estupidamente simples, mas não é algo que podemos fazer (razoavelmente) se apenas apostarmos na potência das nossas memórias. É necessário então criar um sistema _fora de nós_. Aí nós fazemos anotações, ou criamos outro tipo de ferramenta para nos lembrarmos, bem, do que precisamos lembrar. Costuma-se utilizar para isso flashcards: cartas com uma pergunta ou palavra na frente, e a resposta ou significado da palavra no verso. 
+
+O desafio destas ferramentas é o seguinte: ao ver a palavra (ou pergunta) você é capaz de _lembrar_ do significado dela sem olhar no verso? Se sim, você olha no verso e vê se você lembrou corretamente. Em caso afirmativo, você guarda essa carta pro futuro. Caso você não tenha lembrado, ou tenha lembrado incorretamente, você deixa ela pra rever daqui a alguns minutos.
+
+Porém as línguas têm milhares de palavras. Eu já criei baralhos de flashcards com mais de 6000 cartas! Ficar revendo 6000 cartas por dia não tem nada a ver com bom-senso; eu teria que viver só para aprender línguas. Seria chato, seria infernal. 
+
+Para resolver esse problema foi criado o Anki, um programa de computador ou aplicativo de celular cujo propósito é te ajudar a fazer esse gerenciamento. Assim, enquanto eu tinha 6000 cartas em um baralho que eu usava para estudar russo, eu trabalhava com algo entre 30 a 80 cartas por dia (e isso variava por uma série de fatores). Eu explico como utilizar o Anki [aqui][Sistemas de repetição espaçada].
+
+Você **não deve** se apoiar apenas nos sistemas de repetição espaçada. Na verdade, é possível prescindir deles. Eu reconheço que eles podem ser um pouco chatos, mas eles _agilizam_ o processo para nós. Sem eles, demoraria muito mais para adquirirmos a nossa L2 desejada. Todavia, eles sozinhos não bastam. O ideal é utilizá-los _junto_ com a imersão, como exposto [alguns parágrafos atrás][Como compreender algo na L2 desejada].

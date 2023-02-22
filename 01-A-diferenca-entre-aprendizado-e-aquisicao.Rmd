@@ -1,17 +1,20 @@
 # A diferença entre aprendizado e aquisição {-}
 
-É necessário diferenciar o aprendizado de uma língua da aquisição de uma língua. Quando você diz que quer saber falar ou compreender uma língua, você afirma querer adquirir uma língua. A aquisição implica na habilidade prática de compreender e de se comunicar. O aprendizado implica em saber sobre a língua, e não ela mesma.
+É comum chamarmos a língua que queremos aprender de "L2", que significa "Língua 2" ou simplesmente "Segunda Língua". Daqui para frente chamarei a língua que queremos aprender de "L2", seja ela qual for.
 
-Por exemplo, eu sei utilizar o verbo "ser". Sei também falar sobre o verbo "ser". São coisas diferentes. Quando estudamos gramáticas, regras e outras coisas do gênero, não estamos aprendendo a língua exatamente, mas sobre a língua.
+Entre os estudiosos do processo de aprendizado de L2, faz-se a distinção do que se chama de "aprendizado" e "aquisição". 
 
-Existe uma diferença entre saber dissecar uma língua e de fato dominá-la e poder navegar por ela. Se quando leio grego preciso esmiuçar o texto para compreender as declinações e a função sintática de cada palavra, então o meu acesso ao grego não é direto. Eu só acesso o grego por meio de um cálculo, de um raciocínio esmiuçante. E isso é válido, é digno, ainda mais porque, em se tratando do grego antigo, não tem ninguém que o fale (salvo alguns padres ortodoxos e helenistas, creio eu).
+Veja bem, antes mesmo de ir para a escola para estudar a língua portuguesa você já a tinha adquirido (supondo que você é brasileiro e tem o português como língua nativa). Você já sabia falar, já sabia se comunicar, já sabia se expressar, perguntar, tirar dúvidas. Quando você ouvisse alguém dizer algo como "eu como isso todo dia", você é capaz de entender que a palavra "como" nessa frase está relacionada com o verbo "comer". Você não precisava saber o que diabos é um verbo pra entender isso. Você também sabe que a forma em que esse verbo está flexionado ("como", e não "comi"; "como, e não "comia") indica algo relacionado ao presente, e talvez também a hábitos. Existe algo de comum entre a palavra "como", "faço", "visto", "torço", "gosto", "odeio". Na escola a gente aprende que todas essas palavras estão na _primeira pessoa do singular do tempo presente do indicativo_.
 
-Mas você não quer isso para falar inglês ou outra língua contemporânea. Você quer rapidez, quer falar sem ter que calcular, ou calculando muito pouco.
+Antes de ir para escola, então, você já tinha adquirido a compreensão de como se comunicar. Essa capacidade de falar e entender uma língua é o que os estudiosos do campo do aprendizado de línguas chama de "aquisição". Quando você aprende _sobre_ a língua, como o que é um verbo, sujeito, objeto, tempos presente, pretérito e futuro e outras coisas mais, você está fazendo o que se chama de "aprendizado".
 
-Por isso eu sou contra o aprendizado da língua *pela* gramática. Não sou *contra* a gramática -- ela tem seu lugar e vamos tratar dela --, mas se você aprende língua pela gramática, você não tem um acesso direto à língua, e sim precisa calcular e arquitetar suas frases de forma exageradamente cerebral. É como ter que pagar pedágio: antes de qualquer avanço é necessário parar.
+A competência que vem Aquisição é algo intuitivo e estético. Quando você ouve (ou lê) algo que parece errado, você tem uma compreensão mais ou menos visceral, instintiva de que tá fora do comum. Se eu digo, "eu comerei isso ontem" ou "eu comia isso ano que vem", você sabe que tem algo de errado. Você sabe que esses verbos estão fora do contexto em que eles deveriam ser usados. Você não precisa invocar o seu conhecimento de que "comerei" é incongruente com "ontem" pois esta denota pretérito enquanto o verbo está flexionado na primeira pessoa do futuro do presente do indicativo.
 
-A alternativa é a aquisição. Para adquirir uma língua, é necessário imersão. Vamos tratar disso posteriormente.
+O Aprendizado serve para explicar o que é Adquirido. Logo, se você quer falar, ler, ouvir uma L2, os seus focos devem se voltar para Adquirir a língua, e não aprender sobre ela.
 
-## Resumo
+Pouco te servirá saber que o verbo "is" não deve ser usado com "you" porque este serve para a segunda pessoa (do singular ou do plural) enquanto o "is" serve para a terceira pessoa do singular. Se você ficar se preocupando com isso na hora de falar, você vai ficar calculando, e sua fala vai pagar pedágios. Você quer falar de forma fluida. Como isso é possível?
 
--   yadda yadda
+O que é necessário fazer é desenvolver intuição, instinto, senso estético sobre a língua. Você tem que ser capaz de ver a frase "you's an strange dog" e saber que ela está errada porque ela é, bem, feia, tal como você julgaria como feia a frase "o chuveiros tá quebrados". Tem algo de errado com essa frase e você sente isso no estômago.
+
+Como então podemos desenvolver essa sensibilidade? Veremos na próxima página.
+

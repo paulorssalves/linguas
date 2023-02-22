@@ -1,1 +1,68 @@
 # Como aprender uma língua {-}
+
+Aprender línguas é um processo estranho, e de certo modo paradoxal. Língua se aprende através da compreensão: você aprende uma língua quando você a entende. Isso pode parecer um problema: como vou aprender uma língua se para aprender tenho que compreendê-la? É como se o objetivo final fosse um requisito para começar, o que o torna completamente inalcançável.
+
+Sim, para aprender uma língua é necessário compreendê-la. Mas isso não deve servir como um sinal de "pare" ou um motivo de hesitação, mas nos fornecer uma ideia do que nos espera: o objetivo da jornada é a própria jornada. O meio e o fim têm mais ou menos a mesma cara, e as práticas pouco mudam em diferentes partes da trajetória.
+
+Vamos nos debruçar agora sobre como aprendemos de fato uma língua.
+
+## Motivação 
+
+Primeiro de tudo, para aprender uma língua você só precisa passar tempo com ela. Quanto mais tempo você passar na língua, prestando atenção e (mais importante) se divertindo, mais você vai aprendê-la. [Isso obviamente vai exigir motivação][A motivação]. Aprender uma língua leva tempo. Para alcançar algo mais próximo da perfeição (que é de fato inalcançável) são necessários anos. Então é necessário ter um bom motivo pra fazer isso. Mas mesmo que você pare na metade do caminho, não terá sido inútil. Conhecimento de uma língua é útil em todos os níveis: se você sabe muito ou se você sabe pouco, é sempre melhor do que não saber nada.
+
+## Imersão 
+
+Mas pra aprender uma língua você [precisa entendê-la em algum grau][Como adquirir uma língua]. Todavia, se você estiver entendendo tudo, 100%, você não está aprendendo nada: o conteúdo está muito fácil. [Não é interessante que você entenda tudo, mas também não é interessante que você não entenda nada.][Melhores conteúdos para aprender uma língua]
+
+Então você quer algo que seja interessante e que te desafie. Os meios de aprender língua que têm maior custo-benefício são as mídias audiovisuais: jogos, filmes e séries. Documentários e noticiários também podem ser úteis, mas estes costumam ser mais difíceis de compreender. Você precisa passar muito tempo assistindo essas coisas. Jogos são os mais úteis porque eles exigem que você preste atenção, mas se você não gosta de jogos, filmes e séries têm utilidade inegável.
+
+## Características do conteúdo para imersão 
+
+### Audiovisual: jogos, filmes e séries
+
+Os jogos não devem ser multiplayer, mas sim de um único jogador e voltados para enredo. Jogar FIFA em inglês com um amigo não vai te ajudar em nada para aprender esse idioma. O mesmo se aplica a ficar horas jogando Minecraft sozinho. Mais vale que você jogue um jogo cheio de história, como Metal Gear, God of War, The Last of Us, The Witcher 3, entre outros. Contudo, é importante que ele seja interessante para você; que o enredo, que a história te provoque curiosidade, esse tipo de coisa.
+
+Tanto os jogos quanto os filmes e as séries **devem ter tanto dublagem na língua que você quer aprender como legenda nessa mesma língua**. Não coloque a legenda em uma língua que você sabe, nem o áudio. Não tire a legenda para "se desafiar a treinar suas habilidades de escuta". Se algo te ajuda a entender mais a língua que você quer aprender, **sem sair da língua**, tanto melhor.
+
+Conteúdo audiovisual é extremamente útil porque as cenas vão te ajudar a entender o que as palavras querem dizer. O contexto vai revelar o significado do que você não compreende. Se você insistir nisso, você logo verá resultados.
+
+### Livros e Podcasts
+
+A leitura também é útil, embora seja difícil encontrar textos que sejam amigáveis ao nível de um iniciante. Leituras niveladas são a solução, neste caso. Pode ser que não haja tanta leitura nivelada disponível pro idioma que você quer aprender (caso você queira aprender um idioma menos "famoso", como, digamos, a língua maltesa), mas é fácil de encontrar conteúdo para línguas como inglês, francês, espanhol, russo, entre outras. Recomendo sites como o [English e-Reader](https://english-e-reader.net/findbook/) (apenas para o inglês) e o [Lingua.com](https://www.lingua.com/) (para diversas línguas). Falo mais sobre isso [aqui][O uso da leitura nivelada]. Você pode encontrar mais coisas pesquisando online em inglês, usando as palavras chave "[LÍNGUA] graded readers". Por exemplo: "russian graded readers", ou "italian graded readers".
+
+Tudo o que é verdadeiro para a leitura, também o é para podcasts. Você pode encontrar podcasts nivelados por aí. Se você pesquisar coisas como "Beginner English Podcast" (Podcast para iniciantes no inglês) ou "Beginner French Podcast" (Podcast para iniciantes no francês) você encontra podcasts para iniciantes nas línguas do seu interesse. 
+
+## Ferramentas auxiliares
+
+Pode ser que só a leitura e/ou os podcasts esteja disponível para você, caso você não tenha acesso a conteúdo audiovisual, seja por não ter acesso a serviços de streaming, ser deficiente visual ou simplesmente achá-los insuportáveis. Se esse for o seu caso, você também precisará suplementar sua prática com [alguma ferramenta para aumentar o seu vocabulário][Ferramentas auxiliares no aprendizado de línguas]. Para este propósito, o [Anki][O uso de aplicativos] é perfeito. [Neste link][O uso de aplicativos] eu explico mais sobre o que o Anki é e como como utilizá-lo.
+
+Mesmo que você também vá utilizar conteúdo audiovisual, o Anki é de extrema utilidade. Ele pode acelerar _muito_ o processo de aprendizado para você. Você vai descobrir logo que, principalmente com o uso recorrente, que ele é um pouco chato, mas ele é extremamente útil. Ele por si só não basta, mas ele vai tornar o processo bem mais rápido.
+
+## A habilidade da fala
+
+[Quanto à habilidade da fala][O desenvolvimento da fala], é simples: a fala depende da sua compreensão. Se você quiser falar bem, você deve primeiro ser capaz de compreender bem. Quando você for capaz de entender livros inteiros, você provavelmente estará numa boa condição para trabalhar a fala. Claro, você pode fazer isso antes, mas:
+
+- É mentira que para melhorar a suas habilidade discursivas você precisa treinar mais fala;
+- A melhor forma de melhorar a sua fala (e a sua escrita) é pela leitura e pela escuta.
+
+A fala é resultado do que você consome, e você deve consumir tanto em quantidade como em qualidade. Falar cedo demais pode resultar em vícios.
+
+Para te ajudar a desenvolver a fala, é bom ter um _language parent_, que é um tutor que vai se dedicar a falar com você na habilidade. Atenção: tutor, e não "um colega". Se falar cedo demais pode resultar em vícios, isso pode igualmente acontecer se você falar com alguém que está no mesmo nível com você, ou abaixo, ou apenas um pouco acima. Você quer alguém que realmente domine o idioma. Cabe _pagar_ alguém para conversar contigo. Aqui se encontra [o valor dos professores e dos cursos, e também as ressalvas a respeito dos mesmos][Cursos e professores].
+
+## O papel da gramática
+
+Não se preocupe com gramática. Ela tem o seu lugar, mas você pode deixá-la para depois. O motivo disso é o seguinte: [a gramática serve para firmar o que está bambo][O papel da gramática]; serve para aperfeiçoar o que já existe. Você precisa ter substância, e muita substância, para poder dar pra ela alguma estrutura. Focar-se em gramática desde o princípio é colocar a carroça na frente dos pois. Se você não tem areia, para que você vai querer um molde? Deixe para utilizar o molde para quando você tiver areia de sobra. 
+
+O que é essa areia? Horas e horas -- centenas de horas -- de exposição a conteúdo na língua que você aprendeu. 
+
+## A importância do interesse
+
+E qual é o melhor tipo de conteúdo? Aquele que é interessante para você. Como foi falado anteriormente, o conteúdo não deve ser nem difícil demais, nem fácil demais -- mas se ele for muito difícil e mesmo assim muito interessante, continue com ele.
+
+## Conclusão
+
+Isso é tudo o que você precisa saber. Caso julgue necessário, siga a leitura do site. Cada um desses pontos será destrinchado minuciosamente nas próximas páginas. Se preferir, vá lendo aos poucos. O texto escrito acima está repleto de links para outras páginas do site, e você não precisa lê-lo linearmente: se apenas um ou outro te causam dúvida neste momento, leia estes e, caso necessário, volte para ler os outros.
+
+E vá. Mergulhe. Imerja-se na língua que você quer aprender. Não fique se preparando eternamente. Não existe isso de "estar preparado" para a imersão. É a imersão que te prepara para ela, e se você quer falar, é ela que vai te dar essa capacidade.
+
+A próxima página trata de uma distinção bem básica que é necessária fazer quando queremos aprender uma língua: a diferença entre _aprendizado_ e _aquisição_.
