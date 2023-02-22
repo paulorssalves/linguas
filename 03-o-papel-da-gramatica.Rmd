@@ -1,0 +1,23 @@
+## O papel da gramática {-}
+
+A gramática pode ser aprendida por osmose. Melhor dizendo: o que as gramáticas normativas (esses manuais de gramática que você pode comprar na Internet ou numa livraria) fazem é _tornar o implícito explícito_. Elas mostram as regras subjacentes que explicam por que as coisas são como são, e qual a lógica por trás dessas regras.
+
+A gramática funciona, entre outras coisas, para estabelecer a regra entre como os termos se relacionam; diferencia uma frase que faz sentido e uma que não faz, e dá poder de precisão ao seu usuário. Sem domínio da gramática, você pode, sem querer, ser ambíguo. 
+
+Então por que eu me posiciono contra o aprendizado da língua _pela_ gramática?
+
+Não sou contra a gramática, veja bem. Eu acho ela necessária e importante, mas me oponho a aprender línguas por meio dela. E penso assim porque o que a gramática faz é _dar forma_ às coisas, ou para estabilizar uma estrutura.
+
+Como posso estabilizar uma estrutura se ela ainda não existe?
+
+É preciso ter _alguma coisa_ para estabilizar; é preciso ter um conteúdo para dar a ele forma. É aqui que entra a imersão: por meio dela nós ganhamos conteúdo e adquirimos _intuição_. Nós ganhamos uma _compreensão intuitiva_ de como a língua deve se comportar. Sem saber por quê, sabemos que uma frase está incorreta. É uma sensação visceral, pouco racional, possibilitada pelo conhecimento de múltiplos casos, mas sem conhecer a regra geral que os explica. 
+
+Ora, nós sabemos falar português. Muitos dos meus alunos sequer sabem o que é um verbo, um sujeito e um objeto, e mesmo assim são fluentes. Conheço pessoas que sabem utilizar a crase mas não sabem como sabem: só têm uma compreensão intuitiva, sentem que é errado utilizá-las em uma situação e necessário em outras, mas não sabem explicar por quê. E é **aí** que a gramática brilha: ela dá forma ao que está cambaleante, torna explícita a compreensão intuitiva e implícita.
+
+Então, resumindo, como aprender gramática?
+
+Em um primeiro momento, não se preocupe com isso. Aprenda a entender, procure compreender, e então procure falar e/ou escrever. Você vai perceber que _sabe_ como falar algumas coisas, que elas estão certas mas você não sabe por quê, e que outras, pelo mesmo motivo, você sabe que estão erradas. É _nesses_ casos que cabe a gramática. Quando sabe como algo funciona, mas não sabe por que sabe; quando você sabe o certo, mas não sabe _por que_ esse é o certo.
+
+O estudo da gramática é essencialmente o _estudo sobre_ a língua. É diferente da aquisição da língua. Uma coisa pode auxiliar a outra, entretanto. Aprender sobre uma língua e adquirir uma língua são processos distintos, mas ambos podem auxiliar um ao outro. Este é o próximo tópico a ser tratado.
+
+## Resumo

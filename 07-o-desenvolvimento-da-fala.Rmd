@@ -1,0 +1,44 @@
+# O desenvolvimento da fala {-}
+
+Uma experiência peculiar que é comum entre as pessoas que aprendem um idioma sem falarem durante o processo do aprendizado é a de estarem "enferrujadas". Como é que eu posso estar enferrujado em algo que eu nunca fiz? Como posso estar enferrujado em andar de bicicleta sem nunca ter andado? Não faz sentido lógico a princípio, mas não raro é essa a experiência que as pessoas têm.
+
+E por que que isso acontece? Porque já temos o vocabulário "guardado" dentro de nós. O desenvolvimento da fala é como que um aquecimento. Nós conhecemos já uma miríade de palavras -- inclusive na nossa língua materna -- que não utilizamos. Agora cabe a nós "criar um caminho" das palavras que usaremos: esse é o nosso estilo. E esse processo é desconfortável, porque vai exigir de nós que nos esforcemos para lembrar das palavras que "já sabemos"; a sensação de elas estarem "na ponta da língua" será frequente.
+
+Mas como falar _corretamente?_ Para falar _corretamente_, é necessário dominar duas coisas:
+1. A gramática
+2. Vocabulário
+
+### Gramática
+Mas como falamos anteriormente, esse domínio da gramática não necessita ser um domínio explícito. Necessita, sim, ser um domínio _intuitivo_, mas também _estético_. Intuitivo pelas razões que já foram faladas, mas estético por um motivo muito simples: perceberemos quando algo soa feio, quando algo soa errado, por conta de uma comparação com o que nós já experienciamos como sendo o comum. Não existe essa coisa de um "erro objetivo" na língua. O erro é um erro dentro de um contexto, e esse contexto é os costumes linguísticos das pessoas que falam essa língua. Se a língua fosse um jogo de xadrez, um erro de gramática seria fazer o cavalo andar em linha reta, ou a torre andar em L. É um erro pois é dissonante com o resto do jogo, com o resto dos costumes. São o costume e a experiência que vão informar o certo e o errado.[^1]
+
+[^1]: Não tenho a intenção aqui de criar uma discussão sobre gramática prescritiva e descritiva, sobre o certo e o errado objetivo ou subjetivo em uma língua. Também não estou tratando de coisas como se devemos nos ater a uma norma culta ou a uma pré-definição de como a língua deve ser. Porém, para o aprendiz de língua o objetivo é bem simples: falar como os nativos falam. O certo é falar de um modo mais próximo de um nativo, não obstante o sotaque, de modo que a comunicação não seja maculada por ambiguidades não-intencionadas e por imprecisões acidentais, nem por palavras deslocadas do seu devido lugar, isto é, usar uma palavra quando a opção correta para as intenções do locutor seria outra.
+
+Então para falar bem, é necessário entender bem. É necessário estar familiarizado com como as pessoas _já falam_. Para este propósito, é necessário muita exposição: leitura e escuta. O objetivo dessas coisas é imprimir (no sentido de "deixar uma impressão") na gente a memória de como as pessoas falam, de que palavras se unem às outras para dizer isso ou aquilo. Não é necessário saber que "does" é usado pra "he" porque estas são a forma da terceira pessoa do singular do tempo presente simples, mas sim saber, de forma automática, por experiência, por tanto ter lido e ouvido as pessoas falarem assim, que "does" e "he" vêm juntas, e que "he do", ou "does you" soa estranho. Fere a nossa noção estética; vai contra a nossa intuição.
+
+### Vocabulário
+
+Agora, para ter essa compreensão gramatical e estética é necessário compreender cada unidade do que é falado. O remédio é o mesmo: exposição, exposição, exposição. Para esse propósito, séries, filmes, jogos e livros são de altíssimo valor. Livros têm um valor especial, mas são difíceis de entrar, e para esse propósito é bom que utilizemos a _leitura nivelada_. Falo disso em um \[post diferente\]. 
+
+Temos que compreender muito para compreender como as coisas funcionam. Repito: para entender a língua é necessário entender a língua. Parece um círculo fechado e sem ponto de entrada, mas os contextos que nos são apresentados por séries, filmes, jogos, a própria semelhança de uma língua com a(s) que já conhecemos nos oferecem esses pontos.
+
+O domínio de um amplo vocabulário é crucial para que possamos absorver a gramática. É pelo domínio do vocabulário que percebemos como um verbo é flexionado assim ou assado dependendo do contexto em que ele é usado, em que tipo de situação uma palavra é usada (e não outras), e podemos compreender a relação entre as palavras e penetrar de fato na forma como as palavras estabelecem relações entre si, e _deste modo_ compreender a relação gramatical entre elas e o contexto.
+
+Não se aprende língua num vácuo. Não existe palavra fora de contexto. Da mesma forma, não existe construto gramatical que não se apresenta em um determinado contexto e não em outros. Se vejo alguém falando sobre um plano, um sonho a ser realizado, posso ver construtos condicionais ou flexões verbais orientadas ao futuro sendo empregadas. Em inglês, poderei ver coisas como "If I..." (se eu...) e "I will become..." (eu me tornarei...). A gramática está entranhada no contexto e nas próprias palavras. Se eu aprendo a usar o "if", aprendo a parte da gramática relacionada às locuções condicionais. Assim, se eu vejo, múltiplas vezes, pessoas utilizando construções condicionais para falar de planos no futuro, sempre empregando palavras que eu conheço, eu aprenderei a _falar_ dessa forma também.
+
+Mas existe _mais uma coisa_ que é necessária para dominar a fala.
+
+----
+
+### Prática: _language parents_
+
+Se existe um grande valor em professores e tutores de línguas, ele está aqui. O _language parent_ (algo traduzido como "pai/mãe linguístico", implicando alguém que te ajuda a "dar os primeiros passos na língua") não é alguém que vai te corrigir (o tempo todo) quando você fala errado. Ele é alguém que vai se comunicar contigo, vai te ajudar a encontrar as palavras corretas, e vai se preocupar em se comunicar com você da forma que você entenda.
+
+O processo de falar, ao meu ver, não deve ser apressado. Pode-se deixar isso para depois, para _o último_. Mas se você tiver um _language parent_, você pode fazer isso desde o princípio. Mas mais importante do que _falar_ desde o princípio é _ouvir e compreender_. Um _language parent_ é alguém que vai se esforçar para falar de modo que você entenda, e por isso essa pessoa vai verdadeiramente te habilitar a navegar pela língua. É inevitável: podemos pegar alguns dos trejeitos de fala dessas pessoas (e por isso acho questionável a prática dos cursos de colocar gentes de várias níveis diferentes para conversarem entre si; falo mais disso em \[Faulty language siblings\]), e por isso é de alta importância que a pessoa com quem você esteja falando seja _ou_ um nativo _ou_ uma pessoa altamente habilidosa na língua -- pode ser um professor, pode ser um amigo, pode ser um parente. É questionável praticar com pessoas que estão abaixo ou apenas pouco acima de você, ou no seu nível. Isso me remete ao evento de pais que mandam seus filhos para a escola e eles voltam falando errado palavras e fonemas que já tinham dominado: a criança que antes falava "prato" volta falando "plato", ou acaba lançando um "a gente vamos"; ela pega os vícios dos amiguinhos.
+
+É por causa desses vícios que eu também acho que não devemos nos apressar para falar. É importante absorvermos muito primeiro, ouvirmos muito, lermos muito, compreendermos muito. Se falarmos cedo demais, acontece que poderemos criar _nossos próprios_ vícios, os quais vamos ter que desaprender mais tarde. Como um bom _language parent_ não vai te corrigir o tempo todo, esses vícios podem acabar sendo excessivamente nutridos. Não vejo problema em falar com um _language parent_ na sua língua nativa e ser respondido por ele na sua língua-alvo. Entretanto, se você já entende 90% do que ele fala na maior parte do tempo, acho que já é hora de dar o salto e começar a _desenferrujar_.
+
+**Resumo**:
+1. Preocupe-se em falar quando já estiver entendendo quase tudo; preocupe-se em ouvir e ler mais primeiro. Um bom professor ou tutor se preocupará em fazer com que você entenda mais do que que você domine de antemão. Língua não é estratégia, não é plano, não _schematica_ de projeto de engenharia militar.
+2. A fala correta depende da compreensão correta;
+3. Falar é desenferrujar; falar é criar um caminho pelas palavras que você já conhece. A experiência de "perder palavras na ponta da língua" será frequente, mesmo que você já compreenda tudo do que ouve e do que lê;
+4. Arrume alguém para falar com você, um _language parent_. Pode ser um professor, um tutor, um amigo. Pagar alguém para este propósito é válido. É crucial que essa pessoa domine bem o idioma. Não precisa ser um nativo, mas um nativo não faria mal também. O papel dessa pessoa é _falar de modo que você entenda_ e _te ajudar a dar os primeiros passos na língua_... Ou te ajudar a desenferrujar, simplesmente.  
