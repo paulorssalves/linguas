@@ -2,7 +2,11 @@
 
 - [ ] Trabalhar
 	- [ ] O medo de se expor
+		- expor-se a conteúdo e não entendê-lo
+		- expor-se a cometer erros por meio da fala e da escrita
+		- expor-se ao outro
 	- [ ] O medo de não entender
+	- [ ] O medo de falar errado
 	- [ ] Sentir-se burro por não estar já entendo
 	- [ ] Pensar "eu já deveria saber disso"
 	- [ ] "Eu já deveria entender isso"

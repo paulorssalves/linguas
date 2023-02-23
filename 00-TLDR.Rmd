@@ -6,15 +6,19 @@ Sim, para aprender uma língua é necessário compreendê-la. Mas isso não deve
 
 Vamos nos debruçar agora sobre como aprendemos de fato uma língua.
 
-## Motivação 
+## Motivação {-}
 
-Primeiro de tudo, para aprender uma língua você só precisa passar tempo com ela. Quanto mais tempo você passar na língua, prestando atenção e (mais importante) se divertindo, mais você vai aprendê-la. [Isso obviamente vai exigir motivação][A motivação]. Aprender uma língua leva tempo. Para alcançar algo mais próximo da perfeição (que é de fato inalcançável) são necessários anos. Então é necessário ter um bom motivo pra fazer isso. Mas mesmo que você pare na metade do caminho, não terá sido inútil. Conhecimento de uma língua é útil em todos os níveis: se você sabe muito ou se você sabe pouco, é sempre melhor do que não saber nada.
+Primeiro de tudo, para aprender uma língua você só precisa passar tempo com ela. Quanto mais tempo você passar na língua, prestando atenção e (mais importante) se divertindo, mais você vai aprendê-la. [Isso obviamente vai exigir motivação][A motivação]. Aprender uma língua leva tempo. Para alcançar algo mais próximo da perfeição (que é de fato inalcançável) são necessários anos. Então é necessário ter um bom motivo pra fazer isso. Mas mesmo que você pare na metade do caminho, não terá sido inútil. Conhecimento de uma língua é útil em todos os níveis: se você sabe muito ou se você sabe pouco, é sempre melhor do que não saber nada. 
 
-## Imersão 
+## Imersão {-}
 
-Mas pra aprender uma língua você [precisa entendê-la em algum grau][Como adquirir uma língua]. Todavia, se você estiver entendendo tudo, 100%, você não está aprendendo nada: o conteúdo está muito fácil. [Não é interessante que você entenda tudo, mas também não é interessante que você não entenda nada.][Melhores conteúdos para aprender uma língua]
+Mas pra aprender uma língua você [precisa entendê-la em algum grau][Como adquirir uma língua]. Todavia, se você estiver entendendo tudo, 100%, você não está aprendendo nada: o conteúdo está muito fácil. [Não é interessante que você entenda tudo, mas também não é interessante que você não entenda nada.][Melhores conteúdos para aprender uma língua].
 
-Então você quer algo que seja interessante e que te desafie. Os meios de aprender língua que têm maior custo-benefício são as mídias audiovisuais: jogos, filmes e séries. Documentários e noticiários também podem ser úteis, mas estes costumam ser mais difíceis de compreender. Você precisa passar muito tempo assistindo essas coisas. Jogos são os mais úteis porque eles exigem que você preste atenção, mas se você não gosta de jogos, filmes e séries têm utilidade inegável.
+Se você está aprendendo uma língua que usa outro sistema de escrita, como russo ou grego, é importante que você aprenda logo (e talvez primeiro) esse modo diferente de escrever. Aprender sistemas de escrita não é difícil, e provavelmente pode ser a parte mais fácil da língua. Há uma página neste site que mostra justamente isso. A exceção, óbvio, são as línguas que usam ideogramas (como japonês e mandarim). No caso destas você vai ter que fazer um esforço paralelo para aprender os símbolos individuais. Existem sistemas desenvolvidos para aprender esses modos de escrever. Se este for o seu caso, sugiro que faça uma pesquisa para encontrar um que se adeque às suas necessidades.
+
+Dito isso, o conteúdo que você quer é algo que seja interessante e que te desafie. Os meios de aprender língua que têm maior custo-benefício são as mídias audiovisuais: jogos, filmes e séries. Documentários e noticiários também podem ser úteis, mas estes costumam ser mais difíceis de compreender. Você precisa passar muito tempo assistindo essas coisas. Jogos são os mais úteis porque eles exigem que você preste atenção, mas se você não gosta de jogos, filmes e séries têm utilidade inegável. Livros e podcasts também são ferramentas válidas para o aprendizado, principalmente os que são elaborados para leitores e ouvintes de níveis específicos de desenvoltura no idioma.
+
+Esse processo de imersão, assim como o de começar a falar na língua-alvo, pode causar certa ansiedade e insegurança. No capítulo sobre [ansiedade de exposição][Ansiedade de exposição] eu trato um pouco mais a respeito desses sentimentos que, diga-se de passagem, são muitíssimo comuns.
 
 ## Características do conteúdo para imersão 
 

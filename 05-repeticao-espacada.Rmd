@@ -21,3 +21,10 @@ Porém as línguas têm milhares de palavras. Eu já criei baralhos de flashcard
 Para resolver esse problema foi criado o Anki, um programa de computador ou aplicativo de celular cujo propósito é te ajudar a fazer esse gerenciamento. Assim, enquanto eu tinha 6000 cartas em um baralho que eu usava para estudar russo, eu trabalhava com algo entre 30 a 80 cartas por dia (e isso variava por uma série de fatores). Eu explico como utilizar o Anki [aqui][Sistemas de repetição espaçada].
 
 Você **não deve** se apoiar apenas nos sistemas de repetição espaçada. Na verdade, é possível prescindir deles. Eu reconheço que eles podem ser um pouco chatos, mas eles _agilizam_ o processo para nós. Sem eles, demoraria muito mais para adquirirmos a nossa L2 desejada. Todavia, eles sozinhos não bastam. O ideal é utilizá-los _junto_ com a imersão, como exposto [alguns parágrafos atrás][Como compreender algo na L2 desejada].
+
+# Anki: primeiros passos
+- [ ] No final deste capítulo fazer o meu jabá
+
+# Anki: plugins e AwesomeTTS
+
+# Anki: customização de baralhos 

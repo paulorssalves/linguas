@@ -1,0 +1,131 @@
+# Melhores conteúdos para aprender uma língua 
+
+Como foi falado em [Imersão], é importante que você entenda algum grau da língua para que a imersão seja proveitosa. O que vou propor aqui é o uso da "imersão digital". Em tempos passados, para praticar a imersão seria necessário viajar para outro país ou contratar tutores fluentes no idioma. 
+
+Hoje em dia, porém, é possível praticá-la por meio da Internet. O consumo de conteúdo audiovisual já é por si só capaz de fomentar a nossa compreensão, por causa do fato de que as cenas nos ajudam a entender o significado das palavras por contexto. 
+
+Entretanto, isso às vezes pode não ser engajante, em virtude da dificuldade que vem com não entender aquilo que estamos assistindo. Nós precisamos estar interessados, e pode ser frustrante gastar de trinta minutos a algumas horas por dia assistindo coisas das quais entendemos muito pouco. Por isso eu acho que jogos são muito proveitosos: eles têm a capacidade de serem divertidos mesmo se não entendemos o que os personagens estão falando. Séries e filmes não costumam ter essa característica. Livros, então, nem se fala: qual o sentido de abrir um livro e não entender nada? O trabalho de imersão se tornaria um esforço quase arqueológico de encontrar padrões, e isso não é interessante.
+
+E isso nos coloca numa saia justa. Ora, a tese é a de que para adquirirmos uma língua precisamos entendê-la. Como posso entender a língua se já não a entendo? Como falei anteriormente, _o contexto basta_. Se você passar horas vendo séries e filmes, prestando atenção nas legendas (no idioma da língua) e no que as pessoas falam, inevitavelmente você vai entender algo por contexto. Mas também falei: isso pode ser frustrante. 
+
+Essa frustração, ao meu ver, é algo mais inicial. Nós não gostamos de passar horas não entendendo nada. Sinceramente, entretanto, isso passa: depois das primeiras tantas horas você se acostuma a não entender mais, relaxa e absorve. Se você prestar atenção, vai continuar sendo proveitoso. **Confie em mim: o processo é um tanto mágico**. É normal sentir-se ansioso, entretanto. Trabalho mais a respeito disso na página sobre [Ansiedade de exposição].
+
+Faça o experimento: escolha algum filme, série ou jogo no idioma que você quer aprender, mas cujas falas você entende pouco. Assista um ou dois episódios, ou assista o filme ou parte dele, ou uma ou duas horinhas do jogo, e deixe-o de lado. Agora vá e passe algumas horas se expondo a _outro_ conteúdo nessa mesma língua: jogue outro jogo (até o final) na língua; assista vários filmes ou uma série inteira nesse idioma, e depois disso volte para aquele primeiro filme, série ou jogo que você abandonou. Será surpreendente: você entenderá muito mais, e talvez nem perceba que terá aprendido tanto durante esse período.
+
+Claro, tudo isso supõe que você vai fazer isso com o áudio **e a legenda** na língua escolhida. Lembre-se: **não tire legendas nem as traduza, e o mesmo se aplica ao áudio.** Também cabe dizer que se a língua que você quer aprender usa outro sistema de escrita, é necessário que você o aprenda. Aprender sistemas de escrita pode parecer assustador, mas acredite: é uma das partes mais fáceis de uma língua. As exceções a essa regra são as línguas que utilizam ideogramas (tais como japonês e mandarim), mas mesmo sistemas de escrita muito diferentes do nosso (como árabe, hebraico e russo) são relativamente fáceis de compreender. Em um capítulo futuro, darei uma prova da simplicidade do aprendizado de sistemas de escrita, usando o russo e o árabe como exemplos.
+
+## I+1
+
+Mas não dá pra fazer isso que eu falei com conteúdo que não seja audiovisual. Se eu não gosto ou não tenho acesso a esse tipo de conteúdo, restam-me duas opções: contratar um tutor ou fazer uso de leitura e de ouvir podcasts. Mas quanto a esses dois últimos, simplesmente não dá pra entender nada se eu já não sei alguma coisa, já que não há cenas. Ou no caso dos livros, eu mal entendo as descrições das cenas.
+
+Pensando tanto na frustração de passar tempo assistindo séries e filmes e entendendo pouco ou quase nada (principalmente no início), e no fato de que a compreensão é importante para o aprendizado, convido você a conhecer o conceito de "I+1". Este é um conceito presente no estudo de aquisição de línguas.
+
+Vamos desmembrar esta ideia. Considere o seu atual domínio na língua que você quer aprender. Este seu nível atual é o valor da variável "I", ou seja, 
+
+$I=o seu nível atual na língua.$ 
+
+I+1, então, significa "o seu nível atual" mais "um pequeno incremento". Você fala bem o português brasileiro. Digamos que você pegue para ler um texto do Machado de Assis. Vou usar como exemplo um breve parágrafo de Memórias Póstumas de Brás Cubas:
+
+>Bom e fiel amigo! Não, não me arrependo das vinte **apólices** que lhe deixei. E foi assim que cheguei à cláusula dos meus dias; foi assim que me encaminhei para o _undiscovered country_ de Hamlet, sem as ânsias nem as dúvidas do moço príncipe, mas pausado e **trôpego** como quem se retira tarde do espetáculo. Tarde e aborrecido. Viram-me ir umas nove ou dez pessoas, entre elas três senhoras, minha irmã Sabina, casada com o Cotrim, a filha, — um lírio do vale, — e... Tenham paciência! Daqui a pouco lhes direi quem era a terceira senhora. Contentem-se de saber que essa anônima, ainda que não parenta, padeceu mais do que as parentas. É verdade, padeceu mais. Não digo que se **carpisse**, não digo que se deixasse rolar pelo chão, convulsa. Nem o meu óbito era coisa altamente dramática... Um solteirão que expira aos sessenta e quatro anos, não parece que reúna em si todos os elementos de uma tragédia. E dado que sim, o que menos convinha a essa anônima era aparentá-lo. De pé, à cabeceira da cama, com os olhos estúpidos, a boca entreaberta, a triste senhora mal podia crer na minha extinção.
+
+Marquei em negrito as três palavras que julguei mais incomuns. Pode ser que você tenha tenha entendido todo esse parágrafo, e pode ser também que você não tenha entendido outras palavras além das três, ou tenha entendido essas três mas não tenha entendido outras. De qualquer modo, suponha comigo que você tenha entendido todo esse parágrafo com exceção destas três palavras. Ora, são apenas _três_ palavras, e algumas delas nós podemos entender pelo contexto. O importante é que dá pra entender _quase tudo_. Esse texto está apenas _um pouco_ acima do nosso (hipotético) nível.
+
+Esse é o ponto ideal para um texto, pra uma série, pra um filme, pra um jogo... Para qualquer conteúdo numa língua estrangeira que utilizamos para aprendê-la. É o nosso nível atual (I) mais um incremento. É o nosso _I+1_.
+
+Esse é o nível _ideal_. O mais importante é que você mantenha _interesse_ no conteúdo. Se você consegue continuar interessado em algo mesmo que ele não seja o seu I+1, mas o seu I+10, tudo bem. Algumas pessoas se focam excessivamente em se ater ao I+1, e se torturam por horas assistindo Masha e o Urso,  Teletubbies e Peppa Pig, já que essas coisas são fáceis de entender, porque estão de fato apenas um pouco acima dos seus níveis atuais no idioma.
+
+Se você conseguir encontrar conteúdo interessante e dentro do seu I+1, ótimo. O mais provável, entretanto, é que você tenha que fazer alguma concessão, principalmente se você quiser trabalhar com a leitura: ora consumir conteúdo mais interessante, mas menos compreensível, ora consumir conteúdo mais compreensível, mas menos interessante. 
+
+A seguir vou falar um pouco mais sobre _os tipos de conteúdo_, especificamente. Apesar de dividi-los em categorias, você não deve "escolher uma". Utiliza quantos destes meios a sua energia o seu interesse permitirem.
+
+## Tipos de conteúdo 
+
+### Jogos
+
+Conteúdo audiovisual -- séries, filmes e jogos digitais --, então, tem um certo privilégio. Ele apresenta as palavras em _cenas_, e as _cenas_ nos ajudam a entender o que essas palavras significam. Eu acredito pessoalmente que os jogos digitais são os mais úteis meios de adquirir uma língua, já que eles exigem mais da sua atenção do que séries e filmes, e conseguem ser divertidos e engajantes mesmo a mercê da compreensão. 
+
+**Mas atenção**: nem todos os jogos têm o mesmo valor. De nada serve que você fique horas jogando FIFA com um amigo no seu PlayStation, já que nesse jogo tem pouco ou nenhum diálogo na língua que você aprender. O mesmo se aplica a jogar jogos online em que não há interação entre jogadores, ou se os jogadores, em sua maioria, falam a mesma língua que você. O interessante são jogos _single-player_ (para apenas um jogador) e ricos em enredo, em história. Ou seja, nada de passar horas jogando Minecraft ,também. Dou alguns exemplos de jogos que preenchem esse requisito: God of War, The Witcher, The Last of Us, Metro Exodus. 
+
+Claro, não precisam ser apenas jogos AAA e de última geração. Jogos antigos mais antigos também preenchem esse requisito: The Elder Scrolls Oblivion, Warcraft 3 (no modo campanha), Age of Mythology (campanha), Metal Gear Solid. É interessante que os jogos tenham dublagem (na língua em que você está aprendendo, não na que você já sabe!) para que eles sejam mais proveitosos, de modo que jogos como Morrowind, que têm ampla legendagem mas pouca dublagem, são sim úteis, mas não tanto quanto as alternativas com dublagem.
+
+E óbvio: não pule os diálogos e os trechos cinematográficos em que o jogador não participa.
+
+
+### Filmes, séries, documentários, noticiários etc.
+
+Perdoe-me por insistir nos jogos, principalmente se você não gosta deles. Sei que para alguns eles são intragáveis, mas faço isso justamente por reconhecer o poder didático que eles têm. Tratemos agora de outras mídias audiovisuais.
+
+O procedimento para aproveitar estes não difere muito de como se faria com jogos: apenas escolha algo do seu interesse, coloque a dublagem no idioma do seu interesse e a legenda **no mesmo idioma**. Preste atenção (nada de ficar no celular durante a imersão) e não se preocupe em ficar voltando e tentando entender e traduzir toda e qualquer passagem. Cabe, com certeza, pausar e rebobinar e tentar traduzir com mais afinco (talvez até mesmo sacar um tradutor) durante aquelas cenas que parecem ser mais intensas e importantes para o desenvolvimento da trama. Afinal, nós queremos entender também.
+
+Não existem proibições. Você _pode_ voltar, repetir, analisar cada frase. Apenas sublinho que você _não precisa_ fazer isso minuciosamente. Isso pode tornar o processo cansativo. Então, se for fazer isso, faça apenas quando julgar realmente necessário -- quando o interesse te cobrar -- e não se cobre em fazer isso a cada vez que a linha da legenda muda.
+
+Dito isso, apenas assista e confie. Mesmo não entendendo tudo, você estará aprendendo. Você talvez nem perceba que está aprendendo, mas está. Lembre-se do experimento que propus no início desta página (no quinto parágrafo, especificamente).
+
+#### Séries
+
+Não é possível ignorar o potencial que as séries fornecem aos espectadores. _Sitcoms_ como Friends, Two and a Half Man e The Big Bang Theory (em se tratando da língua inglesa; diferentes países produzem conteúdos diferentes, às vezes análogos)^[Penso por exemplo em HaShoter HaTov, série israelense de humor policial, em hebraico, e Kukhnia, sitcom russa que se passa na cozinha de um restaurante gourmet.] possuem enorme valor, tanto que estudantes de curso de inglês frequentemente reclamam do quanto seus professores passam cenas de Friends para os alunos. 
+
+Esse tipo de série é especialmente útil pois elas tratam do cotidiano. Elas utilizam o linguajar mais comum, que é recorrentemente usado no dia a dia. Elas também costumam ter uma infinidade de temporadas, o que resulta em mais conteúdo para nossa exposição. 
+
+Mas é claro, existem alternativas. Talvez você não goste tanto de séries de comédia com _samples_ de risadas após cada piadinha ou sorriso amarelo. Séries "mais sérias" como Breaking Bad, Spartacus ou Black Sails^[E claro, podemos pensar em idiomas diferentes também: Dérapages, no francês, ou Luchshe Tshem Lyudi ("Better than us") no russo.] também têm imenso valor.
+
+Falo primeiro das séries porque: 
+
+1. Elas têm maior duração do que filmes, e portanto elas nos concedem um maior volume de conteúdo;
+2. Elas costumam girar mais ou menos em torno de um mesmo tema, então o vocabulário dessas séries vão variar menos _dentro da série_ do que _entre séries_, o que pode nos ajudar na compreensão. 
+	 - Exemplo: digamos que você esteja vendo uma série que trata da rotina militar, e uma série que trata da rotina em um restaurante gourmet. Obviamente, cada uma dessas séries vai ser repleta de palavras diferentes, pois a militar vai gozar de um vocabulário referente a artigos bélicos, patentes e a noção de dever e hierarquia, enquanto a série culinária vai passar mais tempo falando sobre ingredientes, sobre modos de agradar os clientes etc.
+
+#### Filmes e documentários
+
+Filmes não ficam atrás: basta que você encontre um tema que você goste e procurar os filmes. Certamente é mais fácil encontrar filmes do que séries na Internet. Os serviços de _streaming_ como a Netflix e a HBO (ou plataformas como CrunchyRoll, no caso de você estar aprendendo japonês) são de extrema valia. Não é tão fácil encontrar conteúdo pra todas as línguas nos serviços de streaming, e nem todo streaming tem um leque de línguas distribuído de forma igualitária. Pode ser mais fácil encontrar conteúdo em russo no Mubi e no YouTube do que na Netflix, por exemplo. O inglês, entretanto, é ubíquo, e onde quer quer você buscar você vai encontrar. Filmes em inglês, entretanto, não costumam ser tão fáceis de encontrar no YouTube do que filmes em outras línguas, uma vez que nos países anglófonos as leis de direitos autorais são mais rigorosamente observadas.
+
+Documentários não têm um valor tão diferente dos filmes quanto ao seu potencial didático. Eles costumam ser mais técnicos, entretanto, e podem não ter tantos diálogos (diálogos costumam ser mais fáceis de entender). Isso pode ser útil se estiver em conformidade com os seus interesses.
+
+#### Noticiários
+
+Noticiários costumam ser mais difíceis, pois eles não tratam exatamente do dia a dia, e costumam fazer uso de vocabulário técnico -- tratando de coisas como economia, política, acidentes; fazendo uso de vocabulário jurídico e científico etc. Se isso for do seu interesse e necessidade, óbvio que haverá utilidade, mas em geral o vocabulário em noticiários costuma ser mais os mais rebuscados e formais (no tocante à mídia audiovisual).
+
+### Livros e podcasts
+
+Há pessoas que não gostam e/ou que não tem acesso a conteúdo audiovisual. _Se você não gosta, eu te aconselho a fazer uma forcinha_, mas se você não tem acesso (seja pelo motivo que for), é possível trabalhar com podcasts e livros. 
+
+Esse tipo de prática frequentemente precisa ser apoiada por alguma [ferramenta auxiliar][Sistemas de repetição espaçada]. Isso é especialmente verdade caso você esteja aprendendo uma língua muito diferente da nossa (como o alemão), mas se você estiver aprendendo algo como o espanhol é possível ler artigos e livros inteiros com um grau tolerável de dificuldade e incompreensão.
+
+Existem, entretanto, livros e podcasts nivelados, cujo intuito é justamente oferecer conteúdo I+1 para leitores e ouvintes em diferentes níveis de compreensão na língua. Vamos tratar destes agora. 
+
+#### Livros
+
+Existem sites como o [lingua.com](https://www.lingua.com/) que disponibilizam conteúdos por escrito, separados por níveis que estão de acordo com a categorização do Quadro Europeu Comum de Referências para Línguas (CEFR). Pode-se compreender esta classificação da seguinte forma:
+
+- A1 - iniciante absoluto
+- A2 - iniciante  
+- B1 - intermediário 
+- B2 - alto intermediário 
+- C1 - avançado 
+- C2 - proficiente 
+
+Para a língua inglesa, o melhor site que conheço é o [English e-Reader](https://english-e-reader.net/findbook/), que fornece uma gradação ainda maior de textos (tendo oito classificações -- em comparação com as seis da CEFR --, de "starter" a "unabridged"), e apresenta versões adaptadas de textos originais.
+
+Após passar um tempo lendo textos nivelados, você provavelmente vai querer testar seu progresso em textos originais, isto é, feitos não com fins didáticos, mas para nativos no idioma. Para este fim, acredito que os conteúdos mais convenientes para imersão são contos ("_short stories_") e peças teatrais. 
+
+Ler um romance inteiro pode ser muito pesado para um iniciante ou para alguém que ainda não se sente tão confortável com a língua. Assim, contos se mostram muito convenientes para aqueles que abordam a literatura com fins de aprendizado. Estes textos podem ter trechos difíceis e até mesmo incompreensíveis, mas como eles são curtos tais dificuldades se tornam mais toleráveis.
+
+Da mesma forma, peças teatrais costumam ser repletas de conversas, o que deixa de fora as complicadas descrições de cenários e as longas e complexas exposições dos estados de espírito particulares dos personagens. Claro, existem trabalhos teatrais mais complicados, como os de Shakespeare, e estes convém deixar para quando nos sentirmos mais confortáveis com a língua em questão. Por outro lado, há peças riquíssimas e muito interessantes que não fazem uso de um vocabulário tão rebuscado, como as de George Bernard Shaw.
+
+#### Podcasts
+
+Quanto aos podcasts, existem também produções voltadas justamente para estudantes da língua, ou seja, podcasts nivelados. Eu não consegui encontrar nenhum tão bom para o inglês ou qualquer outra língua quanto o do _Russian with Max_ é útil para o russo: ele realmente preenche todos os requisitos e é o que mais se aproxima do ideal. Você o verá falando de múltiplos assuntos, em um russo lento e simples, e ocasionalmente, quando necessário e em conformidade com o assunto, ele apresentará uma palavra nova e a explicará _em russo_, utilizando palavras comuns.
+
+Você pode pesquisar por podcasts do seu interesse no YouTube e em plataformas de _streaming_ como o Spotify. Dito isso, volto de novo a fazer referência ao _Russian with Max_: muitos podcasts caem no vício de _não falarem na língua_, mas sim de _falarem sobre a língua._ O YouTube está repleto de podcasts que reproduzem este erro, e eles são incrivelmente numerosos no caso da língua inglesa. Tais podcasts vão criar múltiplos vídeos e capítulos falando de detalhes gramaticais, sobre como usar esta ou aquela partícula, e vão dedicar pouquíssimo tempo a de fato apresentar conversas, histórias ou tópicos no idioma em questão.
+
+O que você quer, então, é simples: podcasts que falam na língua que você quer aprender; que falam devagar; que falam sobre múltiplos tópicos ou sobre tópicos do seu interesse; e que, ao apresentar uma palavra nova, expliquem-na sem sair da língua em questão. Pode ser difícil encontrar um podcast com _todas_ essas qualidades, então se preocupe se você não encontrar um tão próximo do ideal.
+
+E claro, é perfeitamente válido utilizar podcasts que não sejam didáticos, mas sim podcasts "normais", voltados para falantes comuns da sua língua desejada. Se mesmo com compreensão imperfeita você conseguir manter o interesse neles, não há nenhuma ressalva a ser feita.
+
+## Necessidade de ferramentas de apoio para a imersão
+
+No caso do inglês e de quaisquer outras mais diferentes da língua portuguesa que o Espanhol, inevitavelmente será necessário suplementar com algum tipo de ferramenta auxiliar. Fiz menção a elas no início do trecho sobre livros e podcasts, mas todos podem se beneficiar destas ferramentas -- e, estrategicamente falando, é melhor utilizá-las do que deixar de fazê-lo, por qualquer que seja o motivo.
+
+Todos podem se beneficiar destas ferramentas. O benefício que elas trazem é justamente tornar o processo de aprendizado _mais rápido_. Elas podem ser imprescindíveis no caso da leitura e do uso de podcasts, mas o fato de ser possível contorná-las por meio do consumo de mídia audiovisual não faz com que seja inteligente fazê-lo.
+
+Elas são os chamados "sistemas de repetição espaçada". Irei apresentá-las e demonstrar como utilizá-las nos capítulos seguintes. 

@@ -1,3 +1,0 @@
-# O uso da leitura nivelada {-}
-
-- [ ] Terminar esse capítulo com um gancho para falar da utilidade da repetição espaçada
