@@ -18,23 +18,23 @@ Claro, tudo isso supõe que você vai fazer isso com o áudio **e a legenda** na
 
 Mas não dá pra fazer isso que eu falei com conteúdo que não seja audiovisual. Se eu não gosto ou não tenho acesso a esse tipo de conteúdo, restam-me duas opções: contratar um tutor ou fazer uso de leitura e de ouvir podcasts. Mas quanto a esses dois últimos, simplesmente não dá pra entender nada se eu já não sei alguma coisa, já que não há cenas. Ou no caso dos livros, eu mal entendo as descrições das cenas.
 
-Pensando tanto na frustração de passar tempo assistindo séries e filmes e entendendo pouco ou quase nada (principalmente no início), e no fato de que a compreensão é importante para o aprendizado, convido você a conhecer o conceito de "I+1". Este é um conceito presente no estudo de aquisição de línguas.
+Pensando tanto na frustração de passar tempo assistindo séries e filmes e entendendo pouco ou quase nada (principalmente no início), e no fato de que a compreensão é importante para o aprendizado, convido você a conhecer o conceito de "$I+1$". Este é um conceito presente no estudo de aquisição de línguas.
 
-Vamos desmembrar esta ideia. Considere o seu atual domínio na língua que você quer aprender. Este seu nível atual é o valor da variável "I", ou seja, 
+Vamos desmembrar esta ideia. Considere o seu atual domínio na língua que você quer aprender. Este seu nível atual é o valor da variável "$I$", ou seja, 
 
-$I=o seu nível atual na língua.$ 
+$I=$ $o$ $seu$ $nível$ $atual$ $na$ $língua$ 
 
-I+1, então, significa "o seu nível atual" mais "um pequeno incremento". Você fala bem o português brasileiro. Digamos que você pegue para ler um texto do Machado de Assis. Vou usar como exemplo um breve parágrafo de Memórias Póstumas de Brás Cubas:
+$I+1$, então, significa "o seu nível atual" mais "um pequeno incremento". Você fala bem o português brasileiro. Digamos que você pegue para ler um texto do Machado de Assis. Vou usar como exemplo um breve parágrafo de Memórias Póstumas de Brás Cubas:
 
 >Bom e fiel amigo! Não, não me arrependo das vinte **apólices** que lhe deixei. E foi assim que cheguei à cláusula dos meus dias; foi assim que me encaminhei para o _undiscovered country_ de Hamlet, sem as ânsias nem as dúvidas do moço príncipe, mas pausado e **trôpego** como quem se retira tarde do espetáculo. Tarde e aborrecido. Viram-me ir umas nove ou dez pessoas, entre elas três senhoras, minha irmã Sabina, casada com o Cotrim, a filha, — um lírio do vale, — e... Tenham paciência! Daqui a pouco lhes direi quem era a terceira senhora. Contentem-se de saber que essa anônima, ainda que não parenta, padeceu mais do que as parentas. É verdade, padeceu mais. Não digo que se **carpisse**, não digo que se deixasse rolar pelo chão, convulsa. Nem o meu óbito era coisa altamente dramática... Um solteirão que expira aos sessenta e quatro anos, não parece que reúna em si todos os elementos de uma tragédia. E dado que sim, o que menos convinha a essa anônima era aparentá-lo. De pé, à cabeceira da cama, com os olhos estúpidos, a boca entreaberta, a triste senhora mal podia crer na minha extinção.
 
 Marquei em negrito as três palavras que julguei mais incomuns. Pode ser que você tenha tenha entendido todo esse parágrafo, e pode ser também que você não tenha entendido outras palavras além das três, ou tenha entendido essas três mas não tenha entendido outras. De qualquer modo, suponha comigo que você tenha entendido todo esse parágrafo com exceção destas três palavras. Ora, são apenas _três_ palavras, e algumas delas nós podemos entender pelo contexto. O importante é que dá pra entender _quase tudo_. Esse texto está apenas _um pouco_ acima do nosso (hipotético) nível.
 
-Esse é o ponto ideal para um texto, pra uma série, pra um filme, pra um jogo... Para qualquer conteúdo numa língua estrangeira que utilizamos para aprendê-la. É o nosso nível atual (I) mais um incremento. É o nosso _I+1_.
+Esse é o ponto ideal para um texto, pra uma série, pra um filme, pra um jogo... Para qualquer conteúdo numa língua estrangeira que utilizamos para aprendê-la. É o nosso nível atual ($I$) mais um incremento. É o nosso $I+1$.
 
-Esse é o nível _ideal_. O mais importante é que você mantenha _interesse_ no conteúdo. Se você consegue continuar interessado em algo mesmo que ele não seja o seu I+1, mas o seu I+10, tudo bem. Algumas pessoas se focam excessivamente em se ater ao I+1, e se torturam por horas assistindo Masha e o Urso,  Teletubbies e Peppa Pig, já que essas coisas são fáceis de entender, porque estão de fato apenas um pouco acima dos seus níveis atuais no idioma.
+Esse é o nível _ideal_. O mais importante é que você mantenha _interesse_ no conteúdo. Se você consegue continuar interessado em algo mesmo que ele não seja o seu $I+1$, mas sim o seu $I+10$, tudo bem. Algumas pessoas se focam excessivamente em se ater ao $I+1$, e se torturam por horas assistindo Masha e o Urso,  Teletubbies e Peppa Pig, já que essas coisas são fáceis de entender, porque estão de fato apenas um pouco acima dos seus níveis atuais no idioma.
 
-Se você conseguir encontrar conteúdo interessante e dentro do seu I+1, ótimo. O mais provável, entretanto, é que você tenha que fazer alguma concessão, principalmente se você quiser trabalhar com a leitura: ora consumir conteúdo mais interessante, mas menos compreensível, ora consumir conteúdo mais compreensível, mas menos interessante. 
+Se você conseguir encontrar conteúdo interessante e dentro do seu $I+1$, ótimo. O mais provável, entretanto, é que você tenha que fazer alguma concessão, principalmente se você quiser trabalhar com a leitura: ora consumir conteúdo mais interessante, mas menos compreensível, ora consumir conteúdo mais compreensível, mas menos interessante. 
 
 A seguir vou falar um pouco mais sobre _os tipos de conteúdo_, especificamente. Apesar de dividi-los em categorias, você não deve "escolher uma". Utiliza quantos destes meios a sua energia o seu interesse permitirem.
 
