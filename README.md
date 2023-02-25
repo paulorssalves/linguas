@@ -25,7 +25,9 @@
 		- [ ] Árabe
 			- [ ] Comparar a ausência de vogais no árabe com a loucura fonética do inglês
 		- [ ] Russo
-- [ ] Escrever "resumo" para cada capítulo 
+- [ ] Escrever "resumo" para cada capítulo
+- [ ] Acrescentar adendo ao trecho sobre _meios de praticar a imersão_ para explicitar que a _leitura_ é o melhor método, e se deve ser postergado até certo ponto, é simplesmente por questão de conforto: tão logo o aluno se vê capaz de entender textos simples, deve ele passar a lê-los. Ao mesmo tempo, o método audiovisual de um modo ou de outro se apoia sobre a leitura, graças às legendas. Então assistir séries e filmes e jogar jogos pode ajudar o aluno a alcançar inegável capacidade, mas é a leitura que o fará voar. Pode ser que a leitura seja um voo cedo demais certas vezes, mas é inegável que o potencial que ela confere ao estudante é maior do que a do consumo audiovisual de conteúdo.
+- No capítulo sobre gramática, apontar para o benefício de estudar a gramática após ter nutrido suas capacidades de leitura. A gramática deve ser estudada _in-vivo_ e mediante uma capacidade já estruturada de leitura.
 
 ### Ordem: 
 1.	(00) TL;DR
