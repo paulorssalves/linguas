@@ -12,7 +12,9 @@ Essa frustração, ao meu ver, é algo mais inicial. Nós não gostamos de passa
 
 Faça o experimento: escolha algum filme, série ou jogo no idioma que você quer aprender, mas cujas falas você entende pouco. Assista um ou dois episódios, ou assista o filme ou parte dele, ou uma ou duas horinhas do jogo, e deixe-o de lado. Agora vá e passe algumas horas se expondo a _outro_ conteúdo nessa mesma língua: jogue outro jogo (até o final) na língua; assista vários filmes ou uma série inteira nesse idioma, e depois disso volte para aquele primeiro filme, série ou jogo que você abandonou. Será surpreendente: você entenderá muito mais, e talvez nem perceba que terá aprendido tanto durante esse período.
 
-Claro, tudo isso supõe que você vai fazer isso com o áudio **e a legenda** na língua escolhida. Lembre-se: **não tire legendas nem as traduza, e o mesmo se aplica ao áudio.** Também cabe dizer que se a língua que você quer aprender usa outro sistema de escrita, é necessário que você o aprenda. Aprender sistemas de escrita pode parecer assustador, mas acredite: é uma das partes mais fáceis de uma língua. As exceções a essa regra são as línguas que utilizam ideogramas (tais como japonês e mandarim), mas mesmo sistemas de escrita muito diferentes do nosso (como árabe, hebraico e russo) são relativamente fáceis de compreender. Em um capítulo futuro, darei uma prova da simplicidade do aprendizado de sistemas de escrita, usando o russo e o árabe como exemplos.
+Claro, tudo isso supõe que você vai fazer isso com o áudio **e a legenda** na língua escolhida. Lembre-se: **não tire legendas nem as traduza, e o mesmo se aplica ao áudio.** A compreensão das vozes é facilitada pelas legendas, e a compreensão das características fonéticas na língua na sua forma escrita é auxiliada pelo áudio.
+
+Também cabe dizer que se a língua que você quer aprender usa outro sistema de escrita, é necessário que você o aprenda. Aprender sistemas de escrita pode parecer assustador, mas acredite: é uma das partes mais fáceis de uma língua. As exceções a essa regra são as línguas que utilizam ideogramas (tais como japonês e mandarim), mas mesmo sistemas de escrita muito diferentes do nosso (como árabe, hebraico e russo) são relativamente fáceis de compreender. Em um capítulo futuro, darei uma prova da simplicidade do aprendizado de sistemas de escrita, usando o russo e o árabe como exemplos.
 
 ## I+1
 
@@ -93,6 +95,7 @@ Esse tipo de prática frequentemente precisa ser apoiada por alguma [ferramenta 
 
 Existem, entretanto, livros e podcasts nivelados, cujo intuito é justamente oferecer conteúdo I+1 para leitores e ouvintes em diferentes níveis de compreensão na língua. Vamos tratar destes agora. 
 
+
 #### Livros
 
 Existem sites como o [lingua.com](https://www.lingua.com/) que disponibilizam conteúdos por escrito, separados por níveis que estão de acordo com a categorização do Quadro Europeu Comum de Referências para Línguas (CEFR). Pode-se compreender esta classificação da seguinte forma:
@@ -111,6 +114,24 @@ Após passar um tempo lendo textos nivelados, você provavelmente vai querer tes
 Ler um romance inteiro pode ser muito pesado para um iniciante ou para alguém que ainda não se sente tão confortável com a língua. Assim, contos se mostram muito convenientes para aqueles que abordam a literatura com fins de aprendizado. Estes textos podem ter trechos difíceis e até mesmo incompreensíveis, mas como eles são curtos tais dificuldades se tornam mais toleráveis.
 
 Da mesma forma, peças teatrais costumam ser repletas de conversas, o que deixa de fora as complicadas descrições de cenários e as longas e complexas exposições dos estados de espírito particulares dos personagens. Claro, existem trabalhos teatrais mais complicados, como os de Shakespeare, e estes convém deixar para quando nos sentirmos mais confortáveis com a língua em questão. Por outro lado, há peças riquíssimas e muito interessantes que não fazem uso de um vocabulário tão rebuscado, como as de George Bernard Shaw.
+
+##### Características especiais da leitura {-}
+
+Mas apesar de a leitura pode ser mais difícil de adentrar do que o conteúdo audiovisual, ela possui certas potencialidades que não são comuns às outras mídias.
+
+O motivo que torna a leitura mais difícil para iniciantes (principalmente se não utilizamos material nivelado) é também o motivo que a torna o melhor método para enriquecermos nosso vocabulário: nela encontramos palavras que não encontramos na língua falada.
+
+Todos nós conhecemos um número maior de palavra do que utilizamos. Esse é o chamado _vocabulário passivo_, enquanto as palavras que habitualmente empregamos constitui o nosso _vocabulário ativo_. Este último só pode crescer em função do primeiro: quanto maior o nosso vocabulário passivo, maior em potencial se torna o nosso vocabulário ativo, e com ele a nossa capacidade de precisão; e quanto maior nosso vocabulário passivo, maior nossa compreensão.
+
+Ao ler uma história, você entrará em contato com termos pouco utilizados em conversas cotidianas: "abobadado", "pé-direito", "conspícuo", "sanguíneo", "marmóreo" etc. Durante descrições de cenários, pessoas, situações, pensamentos privados e outros espaços e outras coisas é comum deparar-se com um volume maior de palavras raras. 
+
+Tais palavras, quando compreendidas, não necessariamente adentrarão o nosso vocabulário ativo, mas farão parte do pano de fundo com que compreenderemos o que dizem _os outros_. Quando você sabe o que é uma "abóbada", pode se comunicar com maior facilidade, sem precisar apelar para termos como "teto arredondado", "telhado recurvo", "teto em forma do lado de dentro de uma cebola oca" ou coisa do gênero; "inconspícuo" não é a mesma coisa que "escondido", nem que "imperceptível", e pode servir melhor em um contexto do que "difícil de perceber".
+
+As palavras muitas vezes compartilham uma estrutura, seja ela implícita ou explícita. Ao conhecer um grande número de palavras e expressões incomuns, é possível compreendermos um maior número de palavras mais ou menos comuns que são a elas relacionadas. As palavras compartilham radicais, prefixos e sufixos, e a compreensão das partes das palavras pode nos auxiliar na compreensão de outras que têm essas partículas em comum. Isso nos habilita a perceber os usos mais sutis que podem ser feitos de termos que aparentemente possuem um só sentido: "_awesome_" é uma palavra geralmente atribuída a coisas boas, excitantes, positivamente incríveis. Todavia, "_awe_" é um termo que implica tanto em "pavor" quando em "reverência" e "surpresa". Assim, é possível ver a palavra "_awesome_" sendo utilizada para descrever coisas ou situações amedrontadoras, o que pode ser uma surpresa para quem não conhece apenas a partícula "_awe_". 
+
+Esse tipo de uso, seja da palavra, seja de parte dela, não é comum na língua falada, e pode mais facilmente (às vezes unicamente) ser acessado pela via da leitura. E por que diabos alguém pode querer saber dessas coisas? Simples: para ter flexibilidade, alcance e precisão. O que a língua não alcança é difícil de descrever, é difícil de entender, e é difícil de compartilhar.
+
+Pode então ser mais confortável utilizar apenas métodos audiovisuais para aprender, principalmente no início, mas o alcance que eles nos conferem não é equiparável ao da leitura, principalmente nos níveis mais avançados. Assim, não tome a leitura como uma obrigação, principalmente no início, mas saiba que existe um certo grau de domínio sobre a língua que só pode ser acessado pela literatura.
 
 #### Podcasts
 
