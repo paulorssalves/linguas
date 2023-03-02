@@ -20,10 +20,173 @@ Porém as línguas têm milhares de palavras. Eu já criei baralhos de flashcard
 
 Para resolver esse problema foi criado o Anki, um programa de computador ou aplicativo de celular cujo propósito é te ajudar a fazer esse gerenciamento. Assim, enquanto eu tinha 6000 cartas em um baralho que eu usava para estudar russo, eu trabalhava com algo entre 30 a 80 cartas por dia (e isso variava por uma série de fatores). Eu explico como utilizar o Anki [aqui][Sistemas de repetição espaçada].
 
-Você **não deve** se apoiar apenas nos sistemas de repetição espaçada. Na verdade, é possível prescindir deles. Eu reconheço que eles podem ser um pouco chatos, mas eles _agilizam_ o processo para nós. Sem eles, demoraria muito mais para adquirirmos a nossa L2 desejada. Todavia, eles sozinhos não bastam. O ideal é utilizá-los _junto_ com a imersão, como exposto [alguns parágrafos atrás][Como compreender algo na L2 desejada].
+Você **não deve** se apoiar apenas nos sistemas de repetição espaçada. Na verdade, é possível prescindir deles. Eles podem ser um pouco chatos, mas eles _agilizam_ o processo para nós. Sem eles, demoraria muito mais para adquirirmos a nossa L2 desejada. Todavia, eles sozinhos não bastam. O ideal é utilizá-los _junto_ com a imersão. Se a imersão sem eles é mais lenta quanto ao fornecimento de resultados, usá-los sem a imersão é esforçar-se inutilmente. **Eles são para a imersão**, e portanto não há motivo nenhum para utilizá-los que não seja para aumentar a potência da imersão.
 
 # Anki: primeiros passos
-- [ ] No final deste capítulo fazer o meu jabá
+
+Antes de mais nada, o que é o Anki? 
+
+O Anki é um programa feito pra te ajudar a _memorizar coisas_. As pessoas o utilizam para memorizar poemas, matérias na faculdade (o Anki é muito comum entre estudantes de medicina), teoria e notação musical e -- o nosso caso -- palavras em uma língua estrangeira. 
+
+Ele funciona por meio de flashcards digitais. Como foi dito anteriormente, flashcards são cartas com uma pergunta na frente e sua resposta no verso. Uma exemplo de pergunta na frente pode ser "Qual é o maior músculo da metade inferior do corpo", diante da qual o verso seria o "Glúteo Máximo". No estudo de línguas, o lado da frente da carta poderia ser simplesmente algo como "Actually", diante do qual o verso seria "Na verdade"; frente: "Wreak havoc", verso: "Causar caos; causar destruição". É possível adicionar mais informação além de só uma pergunta, como diretrizes de pronúncia, desenhos, ilustrações ou que quer que seja considerado útil.
+
+![img/bas0102.png][Frente (à direita) de um _flashcard_ no Anki e frente e verso (à esquerda). Repare no painel na parte de baixo da tela: ao se mostrar o verso da carta, ele muda.]
+
+Mas isso pode ser muito trabalhoso de fazer à mão, e por conta disso o Anki foi desenvolvido para alavancar o mundo digitial em benefício desta tarefa.
+
+Vamos agora à prática.
+
+----
+
+A primeira coisa que é necessária é fazer o download do Anki. Isso pode ser feito tanto em um smartphone quanto em um computador. O Anki pode ser utilizado em qualquer um dos dois e é possível criar uma conta no [AnkiWeb](https://ankiweb.net/) para sincronizar os dois aparelhos, de modo que você possa retomar no celular o que você começou no computador e vice-versa.
+
+Embora ele possa ser utilizado em qualquer aparelho, algumas coisas ou são tornadas mais fáceis com o uso do computador, ou necessitam dele para sem realizadas. Por conta disso, começaremos falando dos computadores.
+
+## Utilizando o Anki no computador 
+
+### Instalação
+
+É necessário antes de mais nada falar o download do Anki. Isso pode ser feito pelo site, https://apps.ankiweb.net/. Logo ao entrar no site você vai se deparar com um grande botão azul em que está escrito "Download". 
+
+![Download][img/tut01_download.png]
+
+Ao clicar nesse botão, você será levado para uma área da página com várias opções para download. O site provavelmente conseguirá discernir qual sistema operacional você está utilizando (se Windows, Mac ou Linux). 
+
+![Download][tut02_download02.png]
+
+Clique no primeiro ou segundo botão e baixe uma das versões. A diferença entre Qt5 e Qt6 é majoritariamente técnica^[Qt é o conjunto de ferramentas utilizados pelos desenvolvedores do Anki para elaborar a interface gráfica do programa. A diferença entre esses pacotes é relevante apenas para quem utiliza certos plugins extras (que não serão abordados aqui), ou para quem os desenvolve.] e (pelo menos neste momento) não diferença qual você escolhe.
+
+Após ter feito o download do programa, abra o arquivo que você baixou e siga a instalação normalmente.(**detalhar mais essa parte**)
+
+## O menu de baralhos 
+
+Ao abri-lo, você verá algo que se parecerá mais ou menos com isso:
+
+![Menu principal][img/tut03_default.png]
+
+Em cima você tem uma `barra de menu` em que se lê: "Arquivo", "Editar", "Exibir", "Ferramentas", "Ajuda". Vamos abordar este apenas quando formos trabalhar com customizações mais detalhadas das nossas cartas.
+
+Logo abaixo há um menu com cinco opções: "Baralhos", "Adicionar", "Painel", "Estatísticas" e "Sincronizar". O menu "**Baralhos**" é onde você está agora. Não veremos com detalhes cada um deles -- você pode explorá-los por conta própria -- mas nos debruçaremos sobre alguns.
+
+Em "**Adicionar**" nós podemos adicionar novas cartas". Trabalharemos neste adiante. 
+
+Em "**Painel**" nós podemos ver todas as cartas criadas. Podemos também efetuar modificações sobre elas, excluí-las ou utilizar plugins que façam alterações em massa em nossas cartas. Vamos abordar este menu quando formos utilizar o plugin _AwesomeTTS_ para adicionar som às nossas cartas de forma automatizada.
+
+Em "**Estatísticas**" é possível ver o nosso progresso, e ver um relatório da forma como utilizamos o Anki: nossa assiduidade em usá-lo;  previsões acerca do tempo que levaremos para terminar um (ou todos os) baralho(s) em função da nossa frequência de estudo; quantas cartas faltam, quantas são fáceis e quantas são difíceis, e outras coisas. Se você nunca utilizou o Anki, esta área provavelmente estará vazia.
+
+No menu "**Sincronizar**" você será convidado a fazer uma conta do AnkiWeb. Recomendo registrar-se. A utilidade em fazer isso é poder ter o mesmo material, no mesmo estado, tanto no seu atual computador como em outros computadores e também em smartphones. Isso elimina a redundância de ter que estudar a mesma coisa mais vezes do que o necessário, caso você utilize aparelhos diferentes.
+
+### Baralhos 
+
+O Anki não é um programa como o Duolingo, em que você já tem um "curso" pronto para você. Aqui você monta o seu material. Por isso você pode ver um Baralho chamado _Padrão_, que está vazio. Se você clicar nele você será recebido com uma mensagem que diz "Parabéns! Você terminou este baralho por enquanto", o que é um pouco fora do tom, já que ele está vazio.
+
+Mas você pode adicionar coisas a ele ou pode, olhando para o menu na parte inferior da tela, clicar em `Criar baralho` para criar um novo. Deste modo você pode organizar baralhos por tema da forma que você achar mais conveniente. Logo logo veremos como fazer isso.
+
+Há duas opções ao lado de `Criar baralho`: "Obter compartilhados" e "Importar arquivo". Ao clicar na primeira você será levado a uma página no AnkiWeb em que as pessoas compartilham os baralhos que elas criam, e lá você pode procurar pelo tipo de coisa que chama a sua atenção. Se pesquisarmos, por exemplo, por "Inglês", poderemos encontrar algo assim:
+
+![AnkiWeb][img/tut04_ankiweb.png]
+
+Se você clicar em qualquer um desses decks, ao rolar para baixo você encontrará o botão para Download:
+
+![AnkiWeb][img/tut05_deck-download.png]
+
+É aqui que entra a utilidade do outro botão, `Importar arquivo`. Nele você pode importar os baralhos que você baixa pela Internet, ou pode importar arquivos `.csv` contendo as cartas que você quer criar. Trabalharemos adiante.
+
+## Adicionar: Criando cartas 
+
+Você pode explorar baixar um baralho qualquer, ou criar o seu próprio. Há grande vantagem em baixar baralhos prontos: eles nos poupam de um grande trabalho -- criar baralhos à mão leva tempo.
+
+Contudo, há uma grande vantagem em criar seus baralhos por conta própria: eles refletem os seus interesses e a sua própria jornada ao longo da língua. Se você gosta de psicologia, você utilizará cotidianamente palavras diferentes das que utilizarão um economista, e vice-versa.
+
+No início pode ser útil aprender as palavras mais comuns. Convém utilizar um baralho pronto com esse conteúdo e ir gradualmente adicionando as palavras que refletem nossas jornadas individuais. Para facilitar este propósito, ofereço [o conjunto de decks que eu elaborei][Apoie este projeto], que vão das 500 às 2000 palavras mais comuns, _excluindo cognatos verdadeiros_ (você não precisa que o Anki te diga que a tradução de "Justice" é "Justiça", nem que a de "Constitution" é "Constituição") ^[há falsos cognatos, entretanto, como "Actually", que **não** quer dizer "Atualmente", mas sim "Na verdade"].
+
+Dito isso, vamos aprender agora como elaborar nossas próprias cartas.
+
+----
+
+Há duas formas de criar cartas: dentro do Anki (processo mais lento, mas mais controlado) e por meio de planilhas. Comecemos com o primeiro.
+
+### Criando cartas pelo Anki
+
+Ao clicar em "Adicionar", você se deparará com a seguinte tela:
+
+![Adicionar][img/tut06_adicionar.png]
+
+Na parte superior você pode ver o `Tipo`, que provavelmente está como "Básico" e também o `Baralho`. O `Tipo` "Básico" de cartas tem o que você vê no centro da tela -- dois campos: `Frente` e `Verso`.  É possível adicionar mais campos para incluir coisas como imagens, áudio, exemplos de frases em que a palavra é contextualizada etc. Nós aprenderemos a editar e criar os `Tipos` de baralhos no capítulo [Anki: customização de baralhos].
+
+Ao clicar em um desses campos, `Frente` ou `Verso`, é habilitado o editor de texto. Você pode adiconar negrito, itálico, mudar as clores das palavras, adicionar tags em HTML, fazer listas, importar imagens, gravar áudio. Após criar a frente e o verso da carta, clique em "Adicionar" na parte inferior do menu. 
+
+Os campos foram esvaziados, mas sua carta foi criada. Para ilustrar o exemplo, vou criar seis cartas:
+
+- Actually: na verdade
+- Tough: duro, difícil
+- Thought: pensei, pensou, pensam, pensa; pensamento
+- Though: entretanto; a despeito de
+- Through: através
+- Thorough: completamente; completo; rigoroso
+
+Os exemplos são simplificados; algumas dessas palavras possuem mais significados. Para "aumentar" o tamanho de um dos campos, basta apertar a tecla `Enter` no teclado que ele se ajusta.
+
+![Thorough][img/tut07_thorough.png]
+
+Não se preocupe em fazer os flashcards com perfeição. Eles são importantes, mas o mais importante é a imersão -- lembre-se disso. Vale a pena investir tempo, entretanto, em construí-los, principalmente quando nós sabemos que elas podem nos ajudar a cumprir um objetivo de curto prazo -- lembre-se da importância de elaborar objetivos, trabalhada no capítulo sobre [motivação][A motivação]. Tratarei mais acerca disso em [Diretrizes para elaborar flashcards].
+
+----
+
+Ao ter criado as cartas, você verá que agora há um número (aqui são seis, pois criei seis cartas) ao lado do baralho "Padrão" (que foi o que eu selecionei; pode ser diferente para você, caso tenha criado outro ou baixado um do AnkiWeb), sob a coluna "Novos". Clicando no baralho, veremos a seguinte tela:
+
+![Estudar][img/tut08_estudar.png]
+
+Vamos desmembrar o que significa essa tela:
+
+- São seis novas cartas que estão previstas para serem estudadas hoje. Se eu tivesse um baralho com 6000 cartas, o Anki não me imporia tudo no mesmo dia: ele me passaria um número pré-definido (por mim) de cartas. 
+- Há 0 cartas marcadas como "Aprendizagem". Estas são as cartas que eu errei ou que ainda não acertei ao menos duas vezes seguidas hoje.
+- Há 0 cartas marcadas como "A Revisar". Estas são as cartas que eu acertei ao menos duas vezes seguidas no passado.
+
+O Anki é um sistema de repetição espçada. Ele foi elaborado para nos ajudar a dar conta de grandes quantidades de informação que precisam ser memorizadas. Se eu tivesse 6000 cartas em um baralho, eu não deveria ter que revisá-las todos os dias. 
+
+O Anki percebe, pela forma como estudamos, quais cartas são mais fáceis e quais são mais difíceis para nós. Às cartas mais fáceis são atribuídos intervalos maiores. Assim, você pode ter 10 cartas para aprender hoje, 30 para revisar hoje, e o restante das 6000 cartas espalhadas em um intervalo de 2 anos. As que você erra mais serão apresentadas mais cedo (hoje ou amanhã) e as que você acerta sucessivamente ganham intervalos cada vez maiores: 2 dias, 5 dias, 11 dias, 3 semanas, 1 mês e meio, três meses, seis, um ano, dois, e assim por diante. Deste modo, é perfeitamente concebível dar conta de um baralho com 6000 cartas ou mais.
+
+Recomendo começar com 10 cartas novas por dia. Para configurar o Anki deste modo, clique em `Opções` na parte inferior da . Você verá um campo denominado "Novos cartões/dia". Mude de 20 para 10 e clique em `Salvar`.
+
+Agora vamos clicar em `Estudar agora`.
+
+----
+
+Você será recebido com a primeira carta que você criou. Na imagem abaixo podemos ver a frente da carta "Tough".
+
+![tough][img/tut10_tough.png]
+
+O que você pode ver a princípio é apenas a palavra-desafio. Essa tela te pergunta o seguinte: _o que significa "tough"?_
+
+O que você quer fazer é _tentar lembrar_, ou ao menos adivinhar, utilizando o conhecimento que você já tem. Tendo conseguido fazer isso ou não, clique em `Mostrar resposta`.
+
+![tough][img/tut10_tough2.png] 
+
+Agora você vê a resposta, logo abaixo da pergunta. O painel em que você clicou em `Mostrar resposta` agora mudou. Há quatro opções agora: `Errei`, `Difícil`, `Bom` e `Fácil`. Cada uma delas com um intervalo de tempo: _<1min(s), <6min(s), < 10min(s), 4dia(s)_. Cada uma delas representa o intervalo entre a o clique nesta opção e a próxima vez em que você terá que revisar esta carta. 
+
+Se eu clico em "Bom", "Difícil" ou "Errei", você verá o número de cartas marcadas como "Aprendizagem" aumentar: este é o significado do número vermelho acima de "Mostrar resposta". O número azul são as que ainda terei que aprender, e o número verde são as que terei que terei que revisar em decorrência de estudos futuros.
+
+A menos que você altere as configurações do Anki, os intervalos vão todos mudando, com exceção do "Errei". A lógica é a seguinte:
+
+- Fácil: acrescentar intervalo longo até a próxima revisão desta carta
+- Bom: acrescentar intervalo normal
+- Difícil: acrescentar intervalo curto
+- Errei: zerar intervalo; revisá-la daqui a um minuto ou pouco mais.
+
+De modo que mesmo a carta "Difícil" pode ser revisada apenas daqui a um mês, dependendo da sua frequência e qualidade de estudo.
+
+A ideia é que você responda **com sinceridade**. Mentir para o Anki é mentir para si mesmo. Assim, clique em Fácil se você acha fácil, clique em Bom se estiver tudo ok, em Difícil se você achou difícil mas acertou, e em Errei caso tenha errado ou não tenha conseguido se lembrar.
+
+Faça isso com todas as cartas do dia. Ao abrir o Anki novamente amanhã (pois utilizar o Anki deve ser um hábito diário), você verá que o número verde (A Revisar) corresponderá às cartas que você estudou ontem.
+
+----
+
+A aparência das cartas do Anki pode ser... simples demais. É possível customizá-la para torná-la mais rica. Vamos ver como fazer isso em [Anki: customização de baralhos].
+
+## Criando cartas em planilhas
+
+## Práticas para elaborar flashcards
 
 # Anki: plugins e AwesomeTTS
 
