@@ -10,7 +10,6 @@
   - [ ] Escrever sobre "Práticas para elaborar flashcards"
 - [ ] Aperfeiçoar o capítulo 06 (porém fazê-lo apenas após terminar de escrever o capítulo 05 (sobre repetição espaçada))
 	- Este deve ser deixado para depois do capítulo sobre ferramentas auxiliares. O texto sobre ferramentas auxiliares pode ser apresentado como um exemplo de aprendizado em contraste com a noção de aquisição. Aqui posso reaproveitar esse texto e usá-lo como exemplo de como o aprendizado pode ser utilizado para auxiliar na aquisição.
-	- Talvez eu possa usar como exemplo a relação do brasileiro falante de português com a obra de Machado de Assis, e do versado na obra de Machado em relação à obra de Camões. A distância do português brasileiro cotidiano em relação à obra de Machado é mais ou menos a distância entre "I" e "I+1". Tenho que ver isso. Talvez eu tenha que enxugar, espremer, torcer. É preciso testar e averiguar.
 - [ ] Enxugar o capítulo sobre o desenvolvimento da fala, uma vez que parte dele será melhor elaborado no capítulo sobre gramática 
 - [ ] Elaborar capítulo sobre aprender sistemas de escrita
 	- [ ] Dar exemplos:
