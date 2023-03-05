@@ -11,11 +11,12 @@
 - [ ] Aperfeiçoar o capítulo 06 (porém fazê-lo apenas após terminar de escrever o capítulo 05 (sobre repetição espaçada))
 	- Este deve ser deixado para depois do capítulo sobre ferramentas auxiliares. O texto sobre ferramentas auxiliares pode ser apresentado como um exemplo de aprendizado em contraste com a noção de aquisição. Aqui posso reaproveitar esse texto e usá-lo como exemplo de como o aprendizado pode ser utilizado para auxiliar na aquisição.
 - [ ] Enxugar o capítulo sobre o desenvolvimento da fala, uma vez que parte dele será melhor elaborado no capítulo sobre gramática 
-- [ ] Elaborar capítulo sobre aprender sistemas de escrita
-	- [ ] Dar exemplos:
-		- [ ] Árabe
-			- [ ] Comparar a ausência de vogais no árabe com a loucura fonética do inglês
-		- [ ] Russo
+- [X] Elaborar capítulo sobre aprender sistemas de escrita
+	- [X] Dar exemplos:
+		- [X] Árabe
+			- [X] Comparar a ausência de vogais no árabe com a loucura fonética do inglês
+		- [X] Russo
+    - Revisar para tornar mais didático
 - [ ] No capítulo sobre gramática, apontar para o benefício de estudar a gramática após ter nutrido suas capacidades de leitura. A gramática deve ser estudada _in-vivo_ e mediante uma capacidade já estruturada de leitura.
 - [ ] Escrever "resumo" para cada capítulo
 
