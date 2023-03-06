@@ -125,8 +125,8 @@ Desmembrando-a, cada parte corresponde ao seguinte:
 
 Manter as coisas dessa forma, porém, poderia tornar o japonês muito "bagunçado" para ler. Repare como não há espaços entre as palavras. Assim, é necessário empregar os _kanji_:
 
-- 私 - わたし - watashi, "eu"
-- 日本人 - にほんじん - "japonês"
+- わたし, watashi, "eu", é escrito como 私 
+- にほんじん, nihon-jin, "japonês", é escrito como 日本人 
 
 O resultado tem a mesma pronúncia, mas outra escrita:
 
