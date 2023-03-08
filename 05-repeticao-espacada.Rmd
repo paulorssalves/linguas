@@ -277,9 +277,7 @@ Vou utilizar o AnkiDroid como exemplo.
 
 A lógica interna do AnkiDroid é a mesma que a do Anki para computador: você tem os seus baralhos com as suas cartas, e você as marca de acordo com quão fácil ou difícil você as considera. Abaixo há uma imagem de uma carta criada para estudo do francês, com campos extras, áudio e exemplos da frase em contexto. 
 
-![](img/tut18_damour.jpg){width=30%}
-
-Esta carta tem certas peculiaridades que serão trabalhadas no capítulo sobre [customização de baralhos][Anki: customização de baralhos]. A bandeira da França atrás é uma edição opcional, assim como os campos extras em que se encontra a palavra _d'amour_ sendo utilizada em diferentes contextos.
+![Esta carta tem certas peculiaridades que serão trabalhadas no capítulo sobre customização de baralhos. A bandeira da França atrás é uma edição opcional, assim como os campos extras em que se encontra a palavra _d'amour_ sendo utilizada em diferentes contextos.](img/tut18_damour.jpg){width=30%}
 
 Mas o importante aqui é que essa carta não foi criada no AnkiDroid, mas no computador, o qual foi _sincronizado_ com o AnkiDroid pela nuvem. É aqui que ele brilha de verdade. Para sincronizar é necessário ter uma conta no AnkiWeb, que pode ser criada de forma simple -- algo que você talvez já tenha feito --. Para entrar ou criar na conta, basta fazer o seguinte: 
 
