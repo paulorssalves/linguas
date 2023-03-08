@@ -1,7 +1,9 @@
 ---
 title: "Língua Própria"
 site: bookdown::bookdown_site
-output: bookdown::gitbook
+output: 
+  bookdown::gitbook:
+    fig_caption: true
 documentclass: book
 ---
 
