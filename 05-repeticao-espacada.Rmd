@@ -3,7 +3,6 @@
 ## O uso de aplicativos {-}
 
 Aplicativos são úteis, mas a utilidade principal dos aplicativos é uma só: aumentar seu vocabulário. A exceção, óbvio, são os aplicativos em que você conversa com pessoas reais.^[Esses podem ser um pouco perigosos, e eu recomendo que, se você quiser conversar com pessoas na sua L2, sejam eles estranhos, sejam eles professores, que você ou o faça em chats públicos como esses do Discord, ou você pague por um tutor em uma plataforma como o Preply.]
-
 Se a utilidade dos aplicativos é te ajudar a aumentar seu vocabulário, por que perder tempo com um aplicativo como Duolingo? O Duolingo (ou outros aplicativos do mesmo tipo) têm uma utilidade inegável: eles te ajudam a entender _mais ou menos_ as estruturas frasais da língua, mas, na minha experiência, cada árvore de habilidades do Duolingo só útil até a primeira metade. A segunda costuma trazer resultados diminutos em comparação com a primeira. 
 
 Se você vai usar um aplicativo, você quer então usar um que te forneça o maior custo-benefício. Ao meu ver, estes são os aplicativos voltados para aumentar o seu vocabulário. Os melhores aplicativos desse tipo são os que empregam um _sistema de repetição espaçada_.
@@ -104,7 +103,7 @@ Dito isso, vamos aprender agora como elaborar nossas próprias cartas.
 
 ----
 
-Há duas formas de criar cartas: dentro do Anki (processo mais lento, mas mais controlado) e por meio de planilhas. Comecemos com o primeiro.
+Há duas formas de criar cartas: dentro do Anki (processo mais lento, mas mais controlado) e por meio de planilhas. Acredito que o segundo é mais conveniente e confortável, mas, para nos familiarizarmos mais com a interface do Anki, comecemos com o primeiro.
 
 ### Criando cartas pelo Anki
 
@@ -186,7 +185,130 @@ A aparência das cartas do Anki pode ser... simples demais. É possível customi
 
 ## Criando cartas em planilhas
 
+Uma forma mais rápida de criar múltiplas cartas de uma só vez é usando um programa de edição de planilhas como o Microsoft Excel, LibreOffice Calc ou Google Sheets. Por motivos de acessibilidade, usarei aqui o Google Sheets.
+
+Mas antes de criar as cartas, é necessário considerarmos _que tipo_ de carta nós vamos criar. É necessário pensar no que haverá nessas cartas.
+
+No menu "Adicionar" do Anki, você pode ver a possibilidade de escolher o `Tipo` de carta. O `Tipo` Básico só tem dois campos: "Frente" e "Verso". 
+
+![Invertido][img/tut11_invertido.png]
+
+Se você clicar no nome do `Tipo` e escolher a opção "Básico (cartão invertido opcional)", você verá um cartão com _três_ campos. Mais para frente veremos como criar um cartão com quantos campos for necessário. A relevância disso para nós agora, entretanto, é uma: a nossa planilha deve corresponder ao `Tipo` da nossa carta. Se ele tem dois campos, ela deve ter duas colunas.
+
+Vamos ver como fazer isso no Google Sheets. O procedimento é o mesmo em qualquer outro editor de planilhas -- usarei este por ser o mais acessível.  Caso queira acompanhar, basta ir em https://sheets.google.com e clicar em "Branco" (se você já tem uma conta no Google) para abrir uma planilha nova.
+
+![Planilha][img/tut12_planilha.png]
+
+Como o nosso baralho do `Tipo` "Básico" tem apenas duas colunas, vamos utilizar apenas as colunas A e B -- destacadas em azul na imagem acima -- para montar nossas cartas.
+
+A vantagem de utilizar uma planilha em vez de utilizar a própria interface do Anki é que planilhas são mais navegáveis. Pode-se preencher os campos da planilha mais rapidamente utilizando atalhos do teclado do que se pode fazer dentro do próprio programa de flashcards. Apertando "Tab" no teclado nós podemos ir para a célula à direita da atual (e "Shift+Tab" para ir para a célula À esquerda); apertando "Enter" nós podemos mover o cursor uma célula para baixo, e "Shift+Enter" faz o movimento inverso. Nós precisamos coletar os dados que nos são necessários até que tenhamos algo mais ou menos assim:
+
+![English][img/tut15_english.png]
+
+Quando obtivermos isso, precisamos baixar a planilha, ou salvá-la em formato `.csv`. No Google Sheets, isso pode ser feito clicando em "Arquivo" (na barra de menu na parte superior da tela), "Fazer download" e então "Valores separados por vírgula (.csv)": 
+
+![Download][img/tut16_download.png]
+
+Basta então abrir o Anki e `Importar Arquivo`, o que pode ser feito pelo botão de mesmo nome na parte inferior do menu "Baralhos" ou então clicando em "Arquivos" (na barra de menu, na parte superior da tela) e então em "Importar".
+
+![Import][img17_import.png]
+
+Eis a importância de fazer as colunas das planilhas coincidirem com os campos do seu baralho. A primeira coluna corresponde à "Frente" e a segunda coluna corresponde ao "Verso". Na seção sobre [customização de baralhos][Anki: customização de baralhos] nós veremos como usar isso ao nosso favor, mas a princípio o necessário é simples: manter o `Tipo` como "Básico" e escolher o `Baralho` em que desejamos inserir estas cartas.
+
+Ao utilizar a interface do próprio Anki para adicionar as cartas, nós podemos usar o editor de texto interno para deixar as palavras em negrito, itálico e coisa do tipo. Nós também podemos fazer isso aqui, mas precisamos marcar a opção "Permitir HTML em campos", e inserirmos o HTML manualmente nas nossas planilhas. Veremos isso também na seção sobre [customização de baralhos][Anki: customização de baralhos].
+
+---
+
+Planilhas são mais convenientes. Você pode preenchê-las no computador ou no celular, ao passo que utilizar o aplicativo do Anki para smartphones para adicionar cartas não é tão prático. Além disso, você pode simplesmente ir acumulando apenas uma parte das cartas, em vez de ser obrigado a preencher os dois campos de uma vez só, e ir preenchendo o restante conforme necessidade. 
+
+Por exemplo, imagine que você esteja aprendendo alemão para estudar filosofia. Existe um certo número de palavras que você conhece na sua língua, mas que desconhece no alemão, que você quer aprender. Neste caso, você pode ir coletando essas palavras aos poucos, no seu tempo, e quando você julgar pertinente você vai atrás do significado delas para então importá-las para o Anki. Neste meio tempo, você vai apenas colecionando os campos do "Verso":
+
+![Alemao][img/tut13_alemao.png]
+
+Por outro lado, digamos que você tenha assistido uma peça francesa e percebido várias palavras que se repetem, mas não conseguiu ainda pegar o significado delas. Neste caso, você vai apenas coletando, no seu ritmo, as palavras do campo da "Frente", e preenche o "Verso" quando julgar pertinente:
+
+![French][img/tut14_french.png]
+
+(Inspirado no vídeo "[Le pape des fous](https://www.youtube.com/watch?v=DYWP5dnLxCM)".)
+
+Eu pessoalmente acho que utilizar uma planilha para montar as cartas é mais conveniente do que a própria interface do Anki. Aqui, você pode fazer as coisas de forma mais cômoda.
+
 ## Práticas para elaborar flashcards
+
+Nesta página tem uma coisa que ficou subentendida: é necessário que você pesquise e monte suas próprias cartas. Sim, mesmo que você utilize um baralho disponibilizado online, é interessante que você monte as suas próprias cartas com o tempo. Esses baralhos vão abordar o que é _comum_ na língua. Os [próprios baralhos que eu elaborei] têm como orientação a frequência das palavras na língua.
+
+Mas existe uma diferença entre as palavras mais frequentemente utilizadas na língua _pelas pessoas como um todo_ e há as que são mais frequentes _no seu_ vocabulário. Isso depende das coisas que você considera importantes. Isso vai depender do seu hobby, da sua profissão, dos seus interesses e das suas necessidades.
+
+Se você for aprender em um curso de inglês, você vai aprender as mesmas palavras que todas as outras. A lógica é encontrar _algo de comum_. Veja bem: é importante ter algo de comum, justamente para que você possa compreender o que os outros falam e para que os outros possam te compreender de volta, mas é necessário também cultivar _o que lhe é peculiar_. Se você é um psicólogo, as palavras "mente", "comportamento", "ambiente", "inconsciente", "pesquisa" e outras coisas do tipo vão ser partes importantes e recorrentes do seu vocabulário. Em inglês, as palavras que a estas correspondem, -- "_mind, behavior, environment, unconscious, research_" -- não figuram entre as palavras mais comuns da língua. Esse é o tipo de coisa que você teria que buscar por conta própria.
+
+Claro, você pode ir pela via da insanidade: vou pegar o maior deck que eu encontrar online, digamos, um com 12.000 palavras, e vou aprender todas, na ordem de frequência. Embora eu não ache que isso seja uma má ideia se isso for _parte_ do seu plano, certamente não é uma prática boa se é nisso que consiste todo o seu sistema auxiliar de repetição espaçada.
+
+Ok, como assim? Qual seria a melhor via, então? Exponho: faça paralelamente o seguinte:
+
+1. Aprenda palavras comuns, estabelecidas _por frequência_;
+2. Trace um objetivo -- ler um conto, um texto curto; aprender certas palavras que me são importantes; aprender um determinado número de músicas ou poemas, entre outros -- e crie um baralho que te aproxime dele.
+
+Enquanto você rotineiramente aprende as palavras mais comuns, você paralelamente estabelece seus objetivos de curto prazo. Digamos que você queira ler **uma**^[É importante que os objetivos sejam facilmente alcançáveis para manter a motivação, ainda mais considerando que **elaborar flashcards é trabalhoso**. Se você traçar a meta de ler as cem primeiras fábulas de Esopo, isto seria um peso muito grande sobre os ombros. Se você é um dos tipos que gosta de traçar metas grandiosas, talvez seja bom proceder da seguinte forma: aprender as cinco primeiras, depois as próximas cinco, depois as próxima cinco... E assim por diante. Assim você equilibra a tensão entre "buscar" e "alcançar", de modo que não seja tão fácil alcançar (e portanto chato) e nem muito longa a busca (e portanto estressante)] das [Fábulas de Ésopo](https://read.gov/aesop/001.html), o que você poderia fazer é:
+
+1. Dar uma primeira lida (imprimir o texto pode ser útil aqui)
+2. Marcar as palavras desconhecidas
+3. Anotá-las todas numa planilha
+4. Aos poucos, no seu tempo, procurar pelo significado delas
+5. Importá-las para o Anki
+6. Estudá-las até ter aprendido todas 
+7. Reler o texto
+
+Deste modo, você estabelece os ganchos e as metas e então busca por elas. É um  processo bem simples: você aprende as palavras associadas às coisas que são do seu interesse. A chave aqui é o fato de que **elas são do seu interesse**. É importante traçar metas, pois buscá-las e alcançá-las mantém a nossa motivação. A pura imersão e o aprendizado de vocabulário por frequência pode ser muito produtivo, mas acredito que muitos podem se sentir meio "largados" e "jogados" se não tiverem uma forma mais clara de medir o próprio progresso. Estabelecer esse tipo de objetivo é uma dessas formas.
+
+Portanto, é simples: **os flashcards que você monta devem estar associados aos seus objetivos, necessidades e interesses.** Você pode ter múltiplos baralhos, digamos: um com as palavras do seu interesse, um frases interessantes que você tenha visto por aí, um com palavras selecionados por frequência, entre outros. Cuidado para não se sobrecarregar, criando múltiplos baralhos com um alto número de cartas novas por dia. Se você for utilizar múltiplos baralhos, module a quantidade de cartas que são reveladas diariamente -- lembre-se: **o Anki é um esforço diário!** -- para que isso se encaixe na sua rotina e você não fique sobrecarregado.
+
+Não recomendo, entretanto, aprender múltiplas línguas simultaneamente se a sua intenção for alcançar um nível de compreensão e expressão avançados em ambas as línguas. O motivo disso é simples: aprender uma língua só é trabalho o suficiente, e exige esforço. Aprender duas ou mais ao mesmo tempo apenas resultaria numa difusão dos nossos esforços, o que pode nos deixar sobrecarregados e/ou fazer com que tenhamos um progresso mais lento. Todavia, se um progresso mais lento não for um problema para você, ou se você não quer exatamente "alcançar" um nível de expressão ou compreensão, mas apenas aprender um ou mais textos (digamos, aprender a letra do Ode à Alegria de Beethoven em alemão e alguns poemas em francês), não há por que se preocupar com isso.
+
+## Utilizando o Anki pelo celular
+
+Para encerrar esta sessão, vou abordar como empregar esse sistema auxiliar para uso em um smartphone. Se você usa Android, o Anki pode ser baixado gratuitamente pelo nome de _AnkiDroid_ na [Play Store](https://play.google.com/store/apps/details?id=com.ichi2.anki). Entretanto, se você usa iOS, será necessário comprar o aplicativo _AnkiMobile_ na [App Store](https://apps.apple.com/us/app/ankimobile-flashcards/id373493387). Uma alternativa para os usuários de iPhone que não querem pagar é acessar o AnkiWeb pelo navegador e fazer os seus estudos por lá -- menos confortável, mas certamente válido.
+
+Eu penso que o Anki deve ser utilizado no celular para o simples fim de **estudar com comodidade**: na cama, no transporte público, no sofá -- onde quer que se possa usar o celular tranquilamente. Deste modo não precisamos nos deslocar para o computador para dar cabo na nossa cota diária de estudo.
+
+Dito isso, não acho que o Anki em sua versão _mobile_ deve ser utilizado para _criar cartas_. Ele não é comodo para esse propósito. Claro, você pode, mas eu recomendo altamente que você deixe para fazer isso no computador se for possível. De qualquer modo, você pode utilizar um aplicativo de planilhas no celular para criar cartas caso esse seja o seu objetivo, e então importá-las para o Anki pela função de importação que também está presente no aplicativo. Porém, a versão _mobile_ do Anki não tem a capacidade de utilizar _plugins_ como o AwesomeTTS (que veremos na próxima página), o que de fato o faz figurar especialmente não como um programa para criação de material, mas sim como um para estudá-lo.
+
+Vou utilizar o AnkiDroid como exemplo. 
+
+A lógica interna do AnkiDroid é a mesma que a do Anki para computador: você tem os seus baralhos com as suas cartas, e você as marca de acordo com quão fácil ou difícil você as considera. Abaixo há uma imagem de uma carta criada para estudo do francês, com campos extras, áudio e exemplos da frase em contexto. 
+
+![damour][img]
+
+Esta carta tem certas peculiaridades que serão trabalhadas no capítulo sobre [customização de baralhos][Anki: customização de baralhos]. A bandeira da França atrás é uma edição opcional, assim como os campos extras em que se encontra a palavra _d'amour_ sendo utilizada em diferentes contextos.
+
+Mas o importante aqui é que essa carta não foi criada no AnkiDroid, mas no computador, o qual foi _sincronizado_ com o AnkiDroid pela nuvem. É aqui que ele brilha de verdade. Para sincronizar é necessário ter uma conta no AnkiWeb, que pode ser criada de forma simple -- algo que você talvez já tenha feito --. Para entrar ou criar na conta, basta fazer o seguinte: 
+
+1. Repare no botão de "Sincronizar", com as setas em círculo e um ponto de exclamação vermelho, na parte superior direita da tela.
+![sinc01][img/sinc01.jpg]
+
+2. O aplicativo pedirá que você faça um login. Clique em "Logar".
+![sinc02][img/sinc02.jpg]
+
+3. Coloque o seu e-mail e senha.
+![sinc03][img/sinc03.jpg]
+
+Caso você não tenha criado uma conta ainda, clicar em "Inscreva-se" e esta tela será aberta.
+
+![sinc04][img/sinc04.jpg]
+
+Após ter preenchido com as suas credenciais, basta acessar o seu e-mail e confirmar a conta recém-criada.
+
+Com as mesmas credenciais que você criar nesta tela, você deverá fazer o _login_ tanto no computador quanto no celular. Feito isto, você poderá sincronizar livremente, de modo que você não precisará se preocupar em manter o estudo separadamente. 
+
+O Anki na versão para computador, se você tiver feito o login, sincronizará sempre que você abrir ou fechar o programa. No celular, é necessário sincronizar manualmente, apertando no ícone de sincronização (as setinhas em círculo em que clicamos para fazer o login). É possível habilitar a sincronização automática no menu de configurações, fazendo o seguinte:
+
+1. Apertar as três barras horizontais no canto superior esquerdo da tela;
+2. Selecionar o menu "Configurações"
+3. Selecionar "AnkiDroid -- Configurações Gerais"
+4. Habilitar a "Sincronização automática".
+
+E _voilà!_ Tudo está pronto. Agora sempre você abrir ou fechar o aplicativo ele efetuará a sincronização. 
+
+**Atenção**: se você não sincronizar sempre que estudar, seja no computador, seja no celular, você pode ter problemas de conflito com o estado do seu baralho. Se houver conflito, você vai ter que apagar um dos estados (ou o que está na Nuvem, ou o que está no aparelho que você está utilizando). Sempre que você sincronizar, o que você acabou de estudar terá ido para a nuvem. Se a última alteração que você tiver feito no seu baralho for a versão que está na nuvem, diante de um tal conflito, selecione "Fazer o Download do AnkiWeb". Se não for -- caso você tenha feito alterações locais que ainda não foram enviadas para a nuvem, e estas forem mais recentes e/ou importantes do que o que está na nuvem -- então selecione "Enviar para o AnkiWeb". Na versão Mobile, ele te perguntará: "qual versão você deseja manter", e então você deverá selecionar _AnkiWeb_ (o que está na nuvem) ou _AnkiDroid_ (a versão local). O estado diferente do que for selecionado será deletado. É necessário cuidado aqui. Para evitar isso, convém habilitar a sincronização automática, como exposto acima.
 
 # Anki: plugins e AwesomeTTS
 

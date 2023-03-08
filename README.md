@@ -2,12 +2,21 @@
 
 (Nome temporário.)
 
-## Capítulos a trabalhar
+## Tarefas a fazer 
 
+- [ ] Corrigir os erros que eu cometi em relação ao Coreano
 - [ ] Linkar todos os capítulos na página de resumo
 - [ ] Escrever o capítulo 05
-  - [ ] Escrever sobre como criar cartas em planilhas
-  - [ ] Escrever sobre "Práticas para elaborar flashcards"
+  - [X] Escrever sobre como criar cartas em planilhas
+  - [X] Escrever sobre "Práticas para elaborar flashcards"
+  - [X] Escrever sobre como utilizar o Anki no Celular
+  - [ ] Escrever sobre como utilizar Plugins e AwesomeTTS
+  - [ ] Escrever sobre como customizar baralhos
+	- [ ] Customizar campos
+	- [ ] Customizar cartas
+		- [ ] HTML
+		- [ ] CSS 
+	- [ ] Como isso se aplica às planilhas
 - [ ] Aperfeiçoar o capítulo 06 (porém fazê-lo apenas após terminar de escrever o capítulo 05 (sobre repetição espaçada))
 	- Este deve ser deixado para depois do capítulo sobre ferramentas auxiliares. O texto sobre ferramentas auxiliares pode ser apresentado como um exemplo de aprendizado em contraste com a noção de aquisição. Aqui posso reaproveitar esse texto e usá-lo como exemplo de como o aprendizado pode ser utilizado para auxiliar na aquisição.
 - [ ] Enxugar o capítulo sobre o desenvolvimento da fala, uma vez que parte dele será melhor elaborado no capítulo sobre gramática 
@@ -16,9 +25,11 @@
 		- [X] Árabe
 			- [X] Comparar a ausência de vogais no árabe com a loucura fonética do inglês
 		- [X] Russo
-    - Revisar para tornar mais didático
+    - [ ] Revisar para tornar mais didático
+	- [ ] Tornar não algo para aprender "diferentes sistemas de escrita", mas para mostrar como aprender outras línguas pode ser _tranquilo_
 - [ ] No capítulo sobre gramática, apontar para o benefício de estudar a gramática após ter nutrido suas capacidades de leitura. A gramática deve ser estudada _in-vivo_ e mediante uma capacidade já estruturada de leitura.
 - [ ] Escrever "resumo" para cada capítulo
+- [ ] Elaborar introdução (a inserir antes do texto sobre motivação) explicando que o que eu ofereço aqui é um sistema, e explicitando que só existe uma forma de aprender línguas: por meio de _mensagens compreensíveis_. Todo o resto -- cursos, aplicativos, o que for, serve apenas como _sistema auxiliar_. Todo sistema é auxiliar. A aquisição da língua só se dá de fato quando nós _entendemos_ e _nos imergimos_. O ideal seria ter uma pessoa que você contrata para conversar contigo por tantas horas por dia quanto lhe for conveniente, ou então mudar-se para outro país, mas não sendo isso possível, nós utilizamos sistemas auxiliares.
 
 ### Ordem: 
 1.	(00) TL;DR
