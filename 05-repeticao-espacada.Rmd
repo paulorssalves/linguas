@@ -29,9 +29,8 @@ O Anki é um programa feito pra te ajudar a _memorizar coisas_. As pessoas o uti
 
 Ele funciona por meio de flashcards digitais. Como foi dito anteriormente, flashcards são cartas com uma pergunta na frente e sua resposta no verso. Uma exemplo de pergunta na frente pode ser "Qual é o maior músculo da metade inferior do corpo", diante da qual o verso seria o "Glúteo Máximo". No estudo de línguas, o lado da frente da carta poderia ser simplesmente algo como "Actually", diante do qual o verso seria "Na verdade"; frente: "Wreak havoc", verso: "Causar caos; causar destruição". É possível adicionar mais informação além de só uma pergunta, como diretrizes de pronúncia, desenhos, ilustrações ou que quer que seja considerado útil.
 
-![](img/bas0102.png)
+![Frente (à direita) de um _flashcard_ no Anki e frente e verso (à esquerda). Repare no painel na parte de baixo da tela: ao se mostrar o verso da carta, ele muda.](img/bas0102.png)
 
-Frente (à direita) de um _flashcard_ no Anki e frente e verso (à esquerda). Repare no painel na parte de baixo da tela: ao se mostrar o verso da carta, ele muda.
 
 Mas isso pode ser muito trabalhoso de fazer à mão, e por conta disso o Anki foi desenvolvido para alavancar o mundo digitial em benefício desta tarefa.
 
@@ -53,7 +52,7 @@ Embora ele possa ser utilizado em qualquer aparelho, algumas coisas ou são torn
 
 Ao clicar nesse botão, você será levado para uma área da página com várias opções para download. O site provavelmente conseguirá discernir qual sistema operacional você está utilizando (se Windows, Mac ou Linux). 
 
-![](tut02_download02.png)
+![](img/tut02_download02.png)
 
 Clique no primeiro ou segundo botão e baixe uma das versões. A diferença entre Qt5 e Qt6 é majoritariamente técnica^[Qt é o conjunto de ferramentas utilizados pelos desenvolvedores do Anki para elaborar a interface gráfica do programa. A diferença entre esses pacotes é relevante apenas para quem utiliza certos plugins extras (que não serão abordados aqui), ou para quem os desenvolve.] e (pelo menos neste momento) não diferença qual você escolhe.
 
