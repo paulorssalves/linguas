@@ -314,4 +314,103 @@ E _voilà!_ Tudo está pronto. Agora sempre você abrir ou fechar o aplicativo e
 
 # Anki: plugins e AwesomeTTS
 
+Já sabendo como adicionar cartas, você ter o interesse de adicionar som a elas. Claro, isso não é exatamente necessário, mas é um auxílio a mais, principalmente se você estiver estudando uma língua que não tenha uma correspondência entre letra e som tão próxima como o português. Em inglês, por exemplo, as palavras "streak", "break" e "steak"^[Elas soam, respectivamente, como "/strik/", "/brêik/" e "/stêik/"] não têm uma sonoridade previsível apesar de serem parecidas na grafia. Assim, ter um auxílio de pronúncia pode vir a calhar.
+
+Adicionar som ao Anki pode ser feito de duas formas:
+
+1. Você pode simplesmente adicionar uma gravação da sua voz (ou da voz de outra pessoa) utilizando as funções de "anexar arquivo" ou de "gravar áudio": 
+![Os botões com as funções em questão estão em vermelho.](img/tut19_attach.png){width=30%}
+
+2. Mais convenientemente, você pode usar _plugin_ que emprega serviços como o Google Tradutor para ler em voz alta a palavra (ou frase) desejada. Aqui nós aprenderemos a fazer isso.
+
+## Instalando plugins
+
+O processo de instalação de plugins no Anki é simples. Basta seguir a direção exposta na imagem a seguir:
+
+![O meno de instalação de _plugins_ é encontrado clicando em "Ferramentas" e então em "Extensões".](img/tut20_extension.png)
+
+Você será recebido com um menu ao lado de um campo branco. Ao clicar em `Obter extensões`, o programa pedirá de você um código. Se você não sabe qual código inserir, clique em `Explorar Extensões`. Você será levado para um site onde você poderá pesquisar pelos plugins que você deseja.
+
+![](img/tut21.png)
+
+Você será recebido pela seguinte página: 
+
+![Há uma multiplicidade de _plugins_ disponíveis.](img/tut22.png)
+
+Há duas opções de plugins de inserção de áudio nesta tela: _HyperTTS_ e _AwesomeTTS_. Ambos foram feitos pelo mesmo desenvolvedor, e o HyperTTS é a alternativa mais atualizada. Contudo, embora gratuito, ele exige que o usuário se registre, então em prol da simplicidade e rapidez nós vamos abordar o AwesomeTTS aqui.
+
+Clicando no nome do plugin ("AwesomeTTS") nesta tela, você será levado para a página da extensão. Há várias imagens, descrições, comentários e tudo mais, mas o que você quer é o código numérico na seção "Download", logo antes das "Reviews":
+
+![](img/tut23.png)
+
+Para facilitar as coisas, o código é este: `1436550454`. Você precisa copiar esse código e inseri-lo no campo que aparece logo após clicarmos em `Obter extensões`.
+
+![](img/tut24.png)
+
+Depois disso, basta clicar em `OK` que o download da extensão será feita. Feito isso, feche o Anki, abra-o de novo e a extensão estará instalada.
+
+Agora veremos como usá-la.
+
+## O menu `Painel`
+
+Para usar o AwesomeTTS de forma eficiente, nós precisamos navegar pelo menu `Painel` do Anki. Basta clicar em `Painel`, no mesmo menu em que se encontra as opções `Baralho`, `Adicionar`, `Estatísticas`e `Sincronizar`.
+
+![Aqui você pode editar todas as suas cartas de uma vez só.](img/tut25.png)
+
+Nesta página há várias coisas que podem ser feitas: pode-se substituir caracteres e expressões em massa (caso você tenha cometido um mesmo erro em todas as suas cartas), editar uma por uma, ver as datas de inclusão e de próxima revisão de cada carta, e assim por diante. Pode-se também ver múltiplos baralhos separados ou em conjunto. 
+
+As cartas marcadas como "Novo" na coluna `A Revisar` ainda não foram estudadas. Você provavelmente vai inserir áudios a novas cartas múltiplas vezes, e você não vai querer adicionar duas ou mais vezes a cartas que já têm áudio. Uma forma de discriminar quais cartas já têm áudio das que não têm é adotar a seguinte estratégia: 
+
+- Adicionar áudio às cartas logo após adicioná-las
+- Não adicionar novas cartas até ter terminado de estudar as cartas que você estudou antes.
+	- Você pode também simplesmente ir guardando as cartas que você adicionará no futuro em uma planilha e só fazer a adição de fato após já ter estudo pelo menos uma vez as que estão pendentes. Assim você evita postegar a coleta de novas cartas para além do necessário.
+	- Alternativamente, você pode criar um baralho separado para as cartas que não têm áudio e após tê-lo adicionado migrá-las para outro baralho; 
+- Apenas adicionar áudio a cartas que não estão marcadas como "Novo", ou seja, cartas que já foram estudadas.
+
+Você pode separar as cartas que já foram estudadas das que não foram clicando no nome da coluna "A Revisar". Isso as organizará por data de revisão. Feito isso, você pode selecionar apenas as que estão marcadas como "Novo".
+
+Todavia, neste exemplo nós vamos selecionar todas, pois todas as cartas deste baralho estão sem nenhum arquivo de áudio. Clique na primeira carta, role para o fim da lista com o seu mouse, segure a tecla `Shift` no seu teclado e então clique na última carta. Elas serão todas selecionadas e ficarão marcadas em cinza.
+
+![](img/tut26.png)
+
+Se você instalou o _AwesomeTTS_, você perceberá que lá em cima todas há um novo menu chamado _AwesomeTTS_. Clique nele e depois em "_Add Audio to Selected_". Você verá o seguinte menu:
+
+![Aqui pode-se escolher qual serviço utilizar para gerar o som, testar o serviço, escolher o campo a que adicionar a faixa de áudio e algumas outras coisas.](img/tut27.png)
+
+Dependendo da língua você utilizar, você vai ter que testar serviços diferentes. Você pode escolher o serviço utilizando o menu ao lado do campo `Generate using`, na seção `Configure Service`.
+
+Alguns serviços são pagos, outros exigem que você faça um registro. Há, contudo, serviços que não impõem esses incômodos, e estes são os que nós usaremos. O melhor serviço depende da língua que você for utilizar. Para este exemplo consideraremos a língua inglesa, e por isso utilizaremos a opção que eu acho ser a melhor desta lista: o _Youdao Dictionary_. 
+
+Feito essa escolha, escolha a voz desejada. Há duas opções: inglês americano ou britânico. É questão de gosto.
+
+Do lado direito da tela, há a opção de `Preview`, em que você pode testar palavras e frases. Abaixo desta, `Fields and Handling`. `Source Field` é a parte do seu baralho que o serviço selecionado usará como fonte para produzir os sons. `Destination Field` é a parte do seu baralho em que a faixa de áudio produzida vai ser armazenada. 
+
+Se você quiser "adivinhar" ou "lembrar" a pronúncia correta de uma palavra, coloque no `Destination Field` o campo `Verso`. Mas eu não acho que isso é necessário, então por conta disso, para este exemplo, nós colocaremos tanto o `Source Field` quanto o `Destination Field` como `Frente`.
+
+Logo abaixo você verá duas opções: 
+1. Appends \[sound:xxx\] Tag onto Destination Field
+   - Esta função simplesmente adiciona a faixa de som ao `Destination Field`.
+2. Overwrite the Destination Field w/ Media Filename
+   - Esta função apaga o conteúdo do `Destination Field` e coloca a faixa de som no seu lugar.
+
+Escolha a primeira. Se você escolher a segunda, você apagará o conteúdo do campo que está como `Destination Field`, e você provavelmente não quer isso.
+
+Deixe marcada também a caixa "Remove Existing \[sound:xxx\] Tag(s)". Ela faz com que qualquer faixa de som que você tenha adicionado a este campo antes seja substituída pela que você está inserindo agora. Não há razão para desmarcar esta opção, a menos que você tenha anteriormente adicionado alguma outra faixa de som que você queira manter.
+
+![](img/tut29.png)
+
+Feito tudo isso, clique em `Generate`. O programa começará a coletar as palavras marcadas e adicioná-las ao campo conforme você configurou. A cada 10 palavras coletadas, o programa fará uma pausa de 30 segundos. O motivo desta pausa é não sobrecarregar o servidor do serviço selecionado (neste caso, o _Youdao Dictionary_). Outros serviços, como o _Google Translate_, impõem uma pausa de 30 segundos _a cada uma_ palavra, motivo pelo qual eu não gosto tanto de utilizá-los. O Yandex também é bom, mas não é o melhor para o inglês.
+
+Se tudo der certo, você verá a seguinte página:
+
+![](img/tut30.png)
+
+E pronto! Agora suas cartas têm áudio.
+
+No próximo capítulo nós aprenderemos a adicionar diferentes campos ao baralho e a editar a aparência deles. Neste momento o nosso baralho só tem dois campos: `Frente` e `Verso`. Nós adicionaremos os campos `Exemplos`, `Tradução dos exemplos` e `Áudio`.
+
+----
+
+Vimos aqui como utilizar a extensão _AwesomeTTS_ para adicionar som ao Anki. Existem múltiplas outras extensões, umas apenas como valor estético (como o _Minimal Theme_), outras para nos fornecer um panorama geral da nossa frequência de estudo (como o _Review Heatmap_) e ainda há outros que adicionam diferentes funcionalidades ao Anki: memorização de poemas, leitura de PDFs, treinamento para escrita de _Kanji_ para quem está estudando japonês, e muitos outros. Há uma enorme variedade. Caso você tenha alguma demanda que o Anki padrão não cobre, é possível que você encontre uma extensão que serve justamente para ela na página de _plugins_ do Anki.
+
 # Anki: customização de baralhos 
