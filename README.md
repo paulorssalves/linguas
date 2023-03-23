@@ -4,8 +4,8 @@
 
 ## Tarefas a fazer 
 
-- [ ] Corrigir os erros que eu cometi em relação ao Coreano
 - [ ] Linkar todos os capítulos na página de resumo
+- [ ] Elaborar introdução (a inserir antes do texto sobre motivação) explicando que o que eu ofereço aqui é um sistema, e explicitando que só existe uma forma de aprender línguas: por meio de _mensagens compreensíveis_. Todo o resto -- cursos, aplicativos, o que for, serve apenas como _sistema auxiliar_. Todo sistema é auxiliar. A aquisição da língua só se dá de fato quando nós _entendemos_ e _nos imergimos_. O ideal seria ter uma pessoa que você contrata para conversar contigo por tantas horas por dia quanto lhe for conveniente, ou então mudar-se para outro país, mas não sendo isso possível, nós utilizamos sistemas auxiliares.
 - [ ] Escrever o capítulo 05
   - [X] Escrever sobre como criar cartas em planilhas
   - [X] Escrever sobre "Práticas para elaborar flashcards"
@@ -27,9 +27,9 @@
 		- [X] Russo
     - [ ] Revisar para tornar mais didático
 	- [ ] Tornar não algo para aprender "diferentes sistemas de escrita", mas para mostrar como aprender outros sistemas de escrita pode ser _tranquilo_. Talvez eu deva utilizar o russo, o hebraico e o japonês como exemplo, já que a) eu entendo de russo e de hebraico e b) eu tenho acesso a vários recursos do japonês que eu não tenho para o árabe.
+- [ ] Elaborar capítulo sobre cursos e professores, suas virtudes e vicissitudes.
 - [ ] No capítulo sobre gramática, apontar para o benefício de estudar a gramática após ter nutrido suas capacidades de leitura. A gramática deve ser estudada _in-vivo_ e mediante uma capacidade já estruturada de leitura.
 - [ ] Escrever "resumo" para cada capítulo
-- [ ] Elaborar introdução (a inserir antes do texto sobre motivação) explicando que o que eu ofereço aqui é um sistema, e explicitando que só existe uma forma de aprender línguas: por meio de _mensagens compreensíveis_. Todo o resto -- cursos, aplicativos, o que for, serve apenas como _sistema auxiliar_. Todo sistema é auxiliar. A aquisição da língua só se dá de fato quando nós _entendemos_ e _nos imergimos_. O ideal seria ter uma pessoa que você contrata para conversar contigo por tantas horas por dia quanto lhe for conveniente, ou então mudar-se para outro país, mas não sendo isso possível, nós utilizamos sistemas auxiliares.
 
 ### Ordem: 
 1.	(00) TL;DR
