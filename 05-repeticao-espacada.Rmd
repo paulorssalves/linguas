@@ -48,6 +48,8 @@ Você não precisa aprender tudo de uma vez para começar a usar o Anki: apenas 
 
 A terceira parte serve para você que quer organizar melhor suas cartas e/ou alterar a aparência delas. A parte da alteração da aparência é um tanto técnica e não será abordada ao fundo, pois ela envolve o uso de HTML e CSS, que estão fora do escopo deste site. Contudo, forneço uma referência para quem quiser aprender o básico dessas tecnologias.
 
+Estes capítulos foram criados tendo em mente pessoas que não possuem elevado grau de fluidez com computadores, e portanto eles são _consideravelmente_ detalhados.
+
 Vamos agora à prática.
 
 ----
