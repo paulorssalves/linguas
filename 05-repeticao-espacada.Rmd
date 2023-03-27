@@ -402,14 +402,15 @@ Do lado direito da tela, há a opção de `Preview`, em que você pode testar pa
 Se você quiser "adivinhar" ou "lembrar" a pronúncia correta de uma palavra, coloque no `Destination Field` o campo `Verso`. Mas eu não acho que isso é necessário, então por conta disso, para este exemplo, nós colocaremos tanto o `Source Field` quanto o `Destination Field` como `Frente`.
 
 Logo abaixo você verá duas opções: 
-1. Appends \[sound:xxx\] Tag onto Destination Field
+
+1. `Append [sound:xxx] Tag onto Destination Field`
    - Esta função simplesmente adiciona a faixa de som ao `Destination Field`.
-2. Overwrite the Destination Field w/ Media Filename
+2. `Overwrite the Destination Field w/ Media Filename`
    - Esta função apaga o conteúdo do `Destination Field` e coloca a faixa de som no seu lugar.
 
 Escolha a primeira. Se você escolher a segunda, você apagará o conteúdo do campo que está como `Destination Field`, e você provavelmente não quer isso.
 
-Deixe marcada também a caixa "Remove Existing \[sound:xxx\] Tag(s)". Ela faz com que qualquer faixa de som que você tenha adicionado a este campo antes seja substituída pela que você está inserindo agora. Não há razão para desmarcar esta opção, a menos que você tenha anteriormente adicionado alguma outra faixa de som que você queira manter.
+Deixe marcada também a caixa "`Remove Existing [sound:xxx] Tag(s)`". Ela faz com que qualquer faixa de som que você tenha adicionado a este campo antes seja substituída pela que você está inserindo agora. Não há razão para desmarcar esta opção, a menos que você tenha anteriormente adicionado alguma outra faixa de som que você queira manter.
 
 ![](img/tut29.png)
 
@@ -626,7 +627,7 @@ O que nós precisamos fazer é usar um _código hexadecimal_ para colocar a cor 
 
 ![Se você for mexendo nas barras e clicando nas cores, você perceberá o código "Hex" logo abaixo do painel de cores vai mudando. É esse código que nós queremos.](img/tut53.png)
 
-Depois de selecionar uma cor que te agrada, copie o código hexadecimal gerado e cole-o no lugar da propriedade `background-color`. Eu escolhi o código `#f0eac2`, que é um amarelo bem claro. Se você estiver interessado em entender melhor como esses códigos de cores funcionam, talvez você precise se aprofundar um pouco mais em HTML e CSS do que compete o escopo desse site, e para isso eu comendo o [Khan Academy](https://pt.khanacademy.org/computing/computer-programming/html-css). Ou você pode procurar pela internet alguma explicação isolada sobre o sistema de cores hexadecimais.
+Depois de selecionar uma cor que te agrada, copie o código hexadecimal gerado e cole-o no lugar da propriedade `background-color`. Eu escolhi o código `#f0eac2`, que é um amarelo bem claro. Se você estiver interessado em entender melhor como esses códigos de cores funcionam, talvez você precise se aprofundar um pouco mais em HTML e CSS do que compete o escopo desse site, e para isso eu recomendo o [Khan Academy](https://pt.khanacademy.org/computing/computer-programming/html-css).
 
 Sigamos em frente.
 
@@ -698,11 +699,11 @@ Assim, tanto {{Exemplo}} quanto a {{Tradução do exemplo}} ficarão semelhantes
 
 O resultado é este:
 
-![](img/tut54.png)
+![](img/tut55.png)
 
 Que ao salvarmos (clicando em `Salvar`) e vermos sendo utilizado de fato em uma das notas que criamos, resultará nessa forma de representar nossos _flashcards_:
 
-![Isso só se aplica aos flashcards que sejam do `Tipo` "Básico com exemplos". Outros flashcards que não sejam desse tipo continuarão como antes.](img/tut55.png)
+![Isso só se aplica aos flashcards que sejam do `Tipo` "Básico com exemplos". Outros flashcards que não sejam desse tipo continuarão como antes.](img/tut56.png)
 
 E claro, a forma como fazer isso é questão de gosto. Você pode preferir outras cores, ou mudar a ordem dos elementos, ou deixar uma coisa maior do que a outra, ou o que quer que seja. O que importa é que você saiba que, caso você queira, você pode editar a aparência das suas cartas para a forma que você quiser.
 
