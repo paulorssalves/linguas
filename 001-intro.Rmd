@@ -1,0 +1,44 @@
+# Introdução
+
+A página anterior explica, de fato, tudo o que é necessário saber para que possamos aprender um idioma. Todavia, muito do que está ali pode causar ansiedade, seja por ser simples demais, seja por propor coisas para as quais não "nos sentimos prontos". 
+
+Pois bem, não acho que nesse âmbito temos que nos preocupar em "nos sentir prontos". Preparar-se, aqui, pode facilmente se tornar um vício; é muito fácil "preparar-se eternamente". Portanto, a melhor forma de aprender uma língua é pulando de cabeça, sem deixar nada para depois.
+
+Claro, essa afirmativa tem nuances, as quais eu explico nos capítulos sobre [motivação][A motivação] e sobre [leitura][Livros e podcasts].
+
+Mas dito isso, o que é que você pode esperar deste site?
+
+Antes de você ir mais adiante, pode ser interessante saber de alguns pressupostos. Há duas grandes correntes em discordância na teoria do aprendizado de línguas: uma que trata a língua como uma _habilidade_, e outra que trata o aprendizado da língua como um _resultado de passar tempo com a língua_.
+
+A primeira corrente é composta por um grupo de estudiosos que trata a língua como algo que você exercita e que, por meio do exercício, você vai ficando melhor. A tese deles é a de que se você quer falar melhor, ora bolas, você deve praticar falar mais! Se você quer escrever melhor, você deve escrever mais, e assim por diante.
+
+É com base nessa abordagem que a maioria dos livros didáticos são criados. Sabe, aqueles um tanto repetitivos, que passam exercícios de completar lacunas com a conjugação correta dos verbos.
+
+Eu não acho que isso é balela. Certamente falar mais pode nos ajudar a falar melhor. Todavia, eu acredito que esse tipo de abordagem é ilusória. Ele nos dá a ideia de que se aprendermos regras o suficiente ou se fizermos exercícios o suficiente nós vamos ter aprendido a língua, mas não funciona assim. Todos esses exercícios colocam a língua dentro de um ambiente controlado, só que quando você vai falar falar com alguém nessa língua, ou quando você ouve alguém falando, ou lê algo, ou assiste algo, muitas vezes as pessoas se expressam de uma forma inesperada e que não consta nos livros didáticos. 
+
+Eu sou portanto um partidário da segunda corrente: a que trata o aprendizado da língua como um resultado de imersão.^[Popularizada pelo pesquisador [Stephen Krashen](https://pt.wikipedia.org/wiki/Stephen_Krashen).]
+
+Eu acredito que a forma de aprender língua é por meio da _aquisição de gingado_. A língua é como uma dança, e você tem que ter fluidez e flexibilidade para dançar conforme a música. Línguas não são uma disciplina matemática em que você aplica regras sobre um certo conteúdo para obter um certo resultado. O essencial aqui, então, é adquirir intuição e _gingado_. 
+
+Essa intuição é o que você já tem pra sua língua natal. Você sabe que uma coisa está certa ou errada só pela forma como ela te faz sentir. Você é capaz de saber que algo está errado porque "não é assim que se fala normalmente". Talvez você conheça as regras que explicam porque é que se fala ou não se fala assim ou assado, mas mesmo assim com certeza você sabe que "o que é o certo" em muitos casos que você não sabe como explicar.
+
+É essa a intuição, é esse o gingado que é necessário adquirirmos. E a única forma de adquirir esse gingado e essa intuição é passando tempo com a língua.
+
+O que será exposto neste site será o seguinte:
+
+1. A motivação necessária para aprender
+2. Como é que se "aprende" uma língua de modo a desenvolver intuição sobre ela
+  - spoiler: é passando tempo com ela
+3. Por que passar tempo com ela em vez de ficar estudando gramática
+4. _Como_ passar tempo com ela
+5. Como utilizar uma ferramenta chamada Anki para nos ajudar a passar tempo com ela
+6. Qual a verdadeira utilidade dessa ferramenta
+7. Como falar na língua
+8. Como lidar com a ansiedade de aprender e de falar a língua
+9. Como aprender alfabetos e diferentes sistemas de escrita
+10. O papel de cursos e professores
+11. O lugar da gramática no estudo de uma língua
+
+O procedimento é muito simples: **língua se aprende passando tempo com a língua, entendendo-a, e passando mais e mais tempo para entender mais e mais.** É um processo cíclico. É assim que se desenvolve intuição e gingado. O que eu mostro aqui é _uma forma_ de fazer isso, quer dizer, pela Internet -- considerando séries, jogos digitais, filmes, livros e podcasts. É um método focado em _consumir_ -- em ler, ouvir e assistir. É também o método mais acessível, e pode facilmente ser um dos mais divertidos. Mas se você preferir _outra forma_ (e a única outra que eu consigo pensar envolve conversar com nativos ou tutores), sinta-se livre para fazê-lo.
+
+Um adendo para esta alternativa. Se você for atrás de tutores, dê uma olhada no capítulo sobre [cursos e professores][Cursos e professores]. Há no mercado de ensino e aprendizado de língua uma miríade de métodos daninhos dispersos por aí, então é bom que você tenha noção de como filtrar o joio do trigo. 
