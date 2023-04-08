@@ -21,6 +21,8 @@
   - canais do YouTube
 - [ ] Linkar todos os capítulos na página de resumo
 - [ ] Editar apêndice sobre minha experiência como professor e como estudante de línguas
+- [ ] Revisar cada um dos capítulos
+  - Especialmente o sobre gramática
 
 ### Ordem: 
 1.	(00) TL;DR
