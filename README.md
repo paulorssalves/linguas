@@ -4,10 +4,8 @@
 
 ## Tarefas a fazer 
 
-- [ ] Linkar todos os capítulos na página de resumo
-- [ ] Aperfeiçoar o capítulo 06 (porém fazê-lo apenas após terminar de escrever o capítulo 05 (sobre repetição espaçada))
-	- Este deve ser deixado para depois do capítulo sobre ferramentas auxiliares. O texto sobre ferramentas auxiliares pode ser apresentado como um exemplo de aprendizado em contraste com a noção de aquisição. Aqui posso reaproveitar esse texto e usá-lo como exemplo de como o aprendizado pode ser utilizado para auxiliar na aquisição.
 - [ ] Enxugar o capítulo sobre o desenvolvimento da fala, uma vez que parte dele será melhor elaborado no capítulo sobre gramática 
+- [ ] Escrever capítulo sobre anseidade de exposição
 - [X] Elaborar capítulo sobre aprender sistemas de escrita
 	- [X] Dar exemplos:
 		- [X] Árabe
@@ -15,8 +13,14 @@
 		- [X] Russo
     - [ ] Revisar para tornar mais didático
 	- [ ] Tornar não algo para aprender "diferentes sistemas de escrita", mas para mostrar como aprender outros sistemas de escrita pode ser _tranquilo_. Talvez eu deva utilizar o russo, o hebraico e o japonês como exemplo, já que a) eu entendo de russo e de hebraico e b) eu tenho acesso a vários recursos do japonês que eu não tenho para o árabe.
-- [ ] No capítulo sobre gramática, apontar para o benefício de estudar a gramática após ter nutrido suas capacidades de leitura. A gramática deve ser estudada _in-vivo_ e mediante uma capacidade já estruturada de leitura.
 - [ ] Escrever "resumo" para cada capítulo
+- [ ] Criar uma página de referências com o material que inspirou o site
+  - vídeos
+  - livros
+  - podcasts
+  - canais do YouTube
+- [ ] Linkar todos os capítulos na página de resumo
+- [ ] Editar apêndice sobre minha experiência como professor e como estudante de línguas
 
 ### Ordem: 
 1.	(00) TL;DR
