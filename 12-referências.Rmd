@@ -1,0 +1,60 @@
+# Referências
+
+Abaixo está uma lista não-exaustiva de referências que inspiraram a criação deste site. A experiência pessoal também foi importante, mas esta não cabe escrever aqui. Algumas influências foram diretas, outras foram mais indiretas.
+
+## Vídeos
+
+### Vídeos isolados
+
+- [How to learn a language: INPUT (Why most methods won't work)](https://youtu.be/J_EQDtpYSNM)
+- [A historic webinar with Chomsky and Krashen: Modern Linguistics](https://www.youtube.com/watch?v=uLBMtL4JuRM)
+- [How to learn any language in six months](https://youtu.be/d0yGdNEWdn0)
+- [Why we struggle learning languages](https://www.youtube.com/watch?v=iBMfg4WkKL8)
+
+O Webinar entre Chomsky e Krashen é um grande resumo da teoria por trás deste site; o primeiro vídeo fornece um resumo simplificado dela.
+
+### Canais do YouTube
+
+- [Matt vs. Japan](https://www.youtube.com/@mattvsjapan)
+- [Steve Kaufmann](https://www.youtube.com/@Thelinguist)
+- [Ian McLeod](https://www.youtube.com/@lamontmcleod)
+
+**De todas as referências nesta página, o canal do Matt vs. Japan foi a que mais me inspirou.**
+
+## Livros
+
+- Ørberg, Hans. **Lingua Latina Per Se Illustrata: Familia Romana.**
+- Krashen, Stephen. **The Natural Approach: Language Acquisition In The Classroom.**
+- Deleuze, Gilles, & Guattari, Félix. **Mil platôs: capítulos 1, 3 e 4.**
+- Schuback, Marcia. **A perplexidade da presença**. _In_: Heidegger, Martin. **Ser e Tempo**.
+- Langacker, Ronald. **A linguagem e sua estrutura**.
+
+O livro de Hans Ørberg é uma obra de arte. O de Krashen fornece as bases teóricas para o que ao meu ver é a melhor abordagem quanto ao aprendizado de línguas. Os demais me foram inspiradores de forma indireta.
+
+## Websites
+
+- https://refold.la/pt/
+- https://www.lingq.com/pt/
+
+Este site aqui é uma versão em português e menos compromissada do refold.la. Esse é o site do autor do canal Matt vs. Japan, que eu listei acima. O Lingq, ao meu ver, fornece um paradigma que pode revolucionar as tecnologias de aprendizado de línguas. 
+
+## Textos
+
+### Artigos
+- Hunston, S., Francis, G., & Manning, E. (1997). **Grammar and vocabulary: showing the connections**. ELT Journal, 5(13).
+- Zhanming, W. (2014). **Review of the influence of L1 in L2 acquistion**. Studies in Literature and Language, 9(2), 57-60.
+- Carvalho, C. (2021). **O lugar da primeira língua (L1) em aula de seguna língua/língua estrangeira: reflexões para o ensino de Português como Segunda Língua/Língua Estrangeira**. Revista de Estudos de Português Língua Internacional, 1(1).
+- Kieffer, M. J., & Lesaux, N. K. (2007). **Breaking Down Words to Build Meaning: Morphology, Vocabulary and Reading Comprehension in the Urban Classroom**. The Reading Teacher, 61(2), 134-144.
+- Templeton, S. (2011/2012). **Teaching and Learning Morphology: A Reflection on Generative Vocabulary Instruction**. Journal of Education, 192(2/3).
+- Bertram, R., Laine, M., & Virkkala, M. M. (2000). **The role of derivational morphology in vocabulary acquisition: Get by with a little help from my morpheme friends.** Scandinavian Journal of Psychology, 41, 287-296.
+- Rasinski, T. V., Padak, N., Newton, J., & Newton, E. (2011). **The Latin-Greek Connection: Building Vocabulary Through Morphological Study**. The Reading Teacher, 65(2), 133-141.
+- Mota, M., Lisboa, R., Dias, J., Paiva, N., Mansur-Lisboa, S., & Andrade, D. **Mordologia Derivacional e Alfabetização**.
+
+A maioria dos textos acima trata de morfologia. Eu acredito que morfologia é um grande atalho para o aprendizado e ensino de línguas.
+
+### Páginas da internet
+
+- [Uma postagem de @maritimegothic no Tumblr sobre o aprendizado na vida adulta comparado ao aprendizado durante a infância e adolescência](https://www.tumblr.com/maritimegothic/158417525941/i-think-a-big-thing-that-disconcerts-adults-about)
+- [Learn the russian language playing Metro 2033](https://learntherussianlanguage.com/metro-2033/)
+
+A postagem no Tumblr acima é uma coisa que eu levo pra vida.
