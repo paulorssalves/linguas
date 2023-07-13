@@ -1,135 +1,86 @@
 # Sistemas de escrita
 
-Nesta página vou procurar mostrar como aprender diferentes sistemas de escrita não é tão difícil quanto parece. É comum que essa seja uma das partes mais fáceis do aprendizado de línguas estrangeiras, inclusive.
+Nesta página vamos abordar o "problema" dos sistemas de escrita. Para muita gente, aprender um alfabeto diferente parece um grande obstáculo; muitos postergam aprender uma língua do seu interesse em grande parte pelo fato de ter que aprender um novo sistema de escrita. Outras pessoas de alguma forma ficam meses estudando uma língua só pelos sons, sem nunca buscar compreender como funciona o sistema de escrita na língua em questão.
 
-Primeiro de tudo, temos que saber que a forma como o nosso alfabeto funciona não é "o certo". É só mais uma das formas como as pessoas podem expressar por escrito as suas ideias. Para um asiático, o alfabeto latino é tão estranho quanto o deles é pra nós.
+Existem múltiplos sistemas de escrita diferentes, e é possível criar "grandes categorias" de tais sistemas. Por exemplo, existem os sistemas alfabéticos, como o nosso, que também são adotados pelas línguas eslavas (como russo) e pelo grego, além de outras línguas; existem os abjads, no qual se encontram, entre outras, o árabe e o hebraico; existem as línguas logográficas, como o mandarim e parte do japonês, e existem os silabários, do qual o japonês também é um exemplo.^[O japonês é peculiar pois ele utiliza um sistema logográfico e silabário ao mesmo tempo.]
 
-E sobretudo é a estranheza que é o maior obstáculo, e não a dificuldade. Os sistemas de escrita não são difíceis (em geral), apenas mais ou menos diferentes do nosso. Aprendê-los, porém, não é muito diferente de um exercício de memorização: em geral isso basta. Claro, não é o suficiente que você simplesmente grave os diferentes alfabetos que existem: você tem que utilizá-los.
+Não existem apenas esses quatro tipos de sistema de escrita, mas uma boa parte das línguas se encontra nessas categorias.
 
-Uma prática boa para exercitar esses diferentes sistemas de escrita é utilizá-los para escrever as coisas na nossa própria língua. Ou seja, escrever em português, mas usando outro alfabeto. Então segue a primeira dica: tente escrever coisas como frases, seu nome e o nome de outras pessoas, tudo isso nesse outro sistema de escrita. O Duolingo também é uma boa ferramenta para se aprender sistemas de escrita. Reitero: ele pode não oferecer um bom custo-benefício quanto à aquisição de vocabulário, mas para aprender sistemas de escrita ele é muito proveitoso.
+Vamos falar primeiro do elefente na sala: o sistema logográfico. Desses, concedo que o mais complexo são os sistemas logográficos. Existe toda uma lógica interna para eles. Apesar de você ter uma "imagem específica" para cada palavra, cada um dos desenhos que compõe os ideogramas é composto de partes, de "radicais". Não sou particularmente versado em línguas desse tipo, mas posso dizer com segurança que não é literalmente um símbolo totalmente novo e único para cada palavra, mas cada palavra é escrita como um símbolo composto de partes que são reaproveitadas entre múltiplas palavras.
 
-Se você é capaz de memorizar uma música, você é capaz de memorizar um novo sistema de escrita.
+Dito isso, vamos explorar duas formas de escrita diferentes aqui, só para ver que elas não são nenhum bicho de sete cabeças. Vamos abordar o alfabeto cirílico e o sistema árabe de escrita.
+
+## Alfabeto cirílico
+
+Esse é um sistema de escritom muito semelhante ao nosso e pode nos ser útil para aprendermos uma nova e diferente forma de escrever, que ao mesmo tempo também é relativamente fácil.
+
+O alfabeto cirílico, na sua versão russa, tem 33 letras. Não vamos aprendê-lo em detalhes: quero apenas que você entenda como ele funciona e perceba como ele é simples.
+
+Vou escrever a seguir uma série de palavras em português e então as transliterarei para o alfabeto cirílico. Veja bem, não são traduções: estou apenas escrevendo a mesma palavra, com a mesma pronúncia, em diferentes alfabetos.
+
+1. Bola - Бола
+2. Banco - Банко
+3. Banana - Банана
+4. Manuel - Мануэл
+5. Dado - Дадо
+6. Dardo - Дардо
+7. Jorge - Жорже
+8. Disco - Диско
+9. Discoteca - Дискотэка
+10. Pai - Паи
+11. República - Република 
+12. República Tcheca - Рэпублика чека
+13. Xampu - Шампу
+14. Escola - Эскола
+15. Escolha - Эсколья
 
 ---
 
-Vamos diferenciar as diferentes categorias de sistemas de escrita, e ver como eles funcionam na prática. Há múltiplos tipos diferentes: alfabéticos, silabários, abjads e logográficos. Há outros além desses, mas vamos abordar apenas esses. Não irei _ensinar_ nenhum sistema por inteiro: intenciono apenas mostrar qual a _lógica_ por trás de alguns deles.
+De novo, essas não são palavras russas, mas sim palavras em português escritas com o alfabeto russo. Não foram abordadas todos os sinais neste breve exemplo, mas se você analisar palavra por palavra, letra por letra, você verá que são apenas os mesmos sons sendo escritos com sinais diferentes. É questão apenas de se acostumar com esses novos sinais, o que, sinceramente, é algo que pode ser conquistado facilmente em um período de mais ou menos uma semana. Talvez menos.
 
-## Sistemas alfabéticos
+Existem nesse alfabeto alguns signos que não possuem análogo no nosso. Por exemplo, o "sinal fraco" (ь) e o "sinal forte" (ъ) não têm sons, mas sim alteram o som da letra que vem antes deles. Nós temos cinco vogais, eles tem cinco pares de vogais: a, ia (а, я); e, ie (э, е); i, ii (и, й); o, io (о, ё); u, iu (у, ю). Eles também têm algumas consoantes diferentes, como ш e ч, com som respectivamente de "sh" e "tch". Há sinais diferentes com sons parecidos com os nossos (exemplo: s equivale a с; g equivale a г; j equivale a ж) e sinais iguais com o mesmo som (т, м, к).
 
-Os sistemas alfabéticos são aqueles como o latino, o grego e o cirílico. Este último é utilizado para línguas eslávicas, como russo e búlgaro, e é mais semelhante ao nosso do que parece. O nosso alfabeto é o latino, pois o herdamos do império romano, que tinha o latim como língua oficial. É bem fácil aprender estes pois apenas precisamos aprender as equivalências entre letras e sons. 
+É só questão de se acostumar com uma roupagem diferente.
 
-Vamos utilizar o russo como exemplo. Consideremos a palavra "drama": em russo ela seria escrita драма. O som é o mesmo. É fácil perceber as correspondências: "d" corresponde a "д" e "r" corresponde a "р". 
+## Árabe
 
-Há outras diferenças. O russo tem 33 letras, mais do que o nosso alfabeto. A consequência lógica é que não há uma correspondência exata de um alfabeto para o outro. Por exemplo, se eu quisesse transliterar "arara" para o russo, eu escreveria "арара", mas "arrocha" seria "ахоша". Há uma diferença entre "r" (р) e "rr" (х); o som de "ch" é representado por ш. Se eu quisesse escrever "tcharan", eu escreveria "чаран", que mostra que o "tch" é representado por ч, e o n é um н.
+Existem múltiplas línguas árabes. Algumas têm sinais que não existem em outras, sons que não existem em outras, mas todas remontam ao chamado "árabe clássico". O sistema de escrita do árabe é um "abjad". O hebraico usa um sistema semelhante, ainda que com signos diferentes. Entendo muito mais de hebraico do que de árabe, mas como o árabe é, às vezes humorosamente, utilizado como exemplo de "língua indecifrável", vou expor aqui algumas diretrizes para começar a entender como esses sistemas de escrita funcionam.
 
-Nem todos os fonemas que existem estão presentes na nossa língua. Eles têm uma vogal que não utilizamos: ы. Parece um "b" e um "l" juntos, mas na verdade é uma vogal que parece muito com um "uê" ou "uí". Se você ouvir no Google Tradutor o som da palavra мы ele ficará mais claro. Mas isso também não é um bicho de sete cabeças: de novo, é um simples exercício de memorização.
+Em um abjad, diferente de em um sistema alfabético, não se escreve todos os sons da palavra. Boa parte das vogais são deixadas de fora. Não raro, as únicas vogais que são escritas, quando são, são as iniciais e, às vezes, as finais. Na palavra "abacate", escrever-se-ia apenas "abcte" ou "abct". 
 
-Assim, vejamos alguns outros exemplos de palavras. Não vou _traduzir_ as palavras, apenas transliterá-las, isto é, escrever palavras da nossa língua utilizando o alfabeto cirílico:
+Como é que os falantes de línguas árabes sabem como pronunciar a palavra? Simples: eles a reconhecem e entendem o contexto. Eles não precisam das vogais no meio da palavra. Entretanto, eles usam certos sinais auxiliares, na forma de traços e curvas, em palavras menos comuns para auxiliar na compreensão.
 
-- Banana - Банана
-- Trono - Троно
-- Discoteca -  Дискотека
-- Chanceler - Шанселер
-- Salame - Саламе
-- Avental - Авентал
-- Bisnaga - Биснага
-- Sertanejo - Сертанежо
+Outra coisa que torna o árabe de difícil compreensão é que as letras mudam de forma dependendo da posição delas nas palavras. Vejamos alguns exemplos a seguir:
 
-Claro, não vimos todas as letras do alfabeto russo. Há ainda outras peculiaridades a serem aprendidas, mas isso pode dar uma noção do que esperar ao aprender um novo alfabeto, e demonstra como esse processo não é nenhum bicho de sete cabeças.
+Consideremos a letra "b". Em árabe, o sinal análogo dessa letra é "ب", uma curva com um ponto em baixo.
 
-## Silabários
+"ب" tem o som de "ba", "bi" ou "bu", dependendo do contexto. Se eu quiser escrever "baba", eu simplesmente escreveria "بب".
 
-Sistemas silabários são utilizados em línguas como coreano e japonês. Vamos utilizar o japonês como exemplo.
+"بب". Isso é análogo a apenas escrever "bb". Mas perceba como a mesma letra, no início da palavra, ganha uma versão reduzida. Se eu quisesse escrever "bababa" escreveria "ببب". No meio, ele ganha também outra versão. Ela é reconhecível pela posição do ponto, que fica embaixo.
 
-O japonês utiliza dois sistemas silabários de escrita mais um sistema logográfico. Estes são o _hiragana_ (utilizado para palavras japonesas), _katakana_ (utilizado para palavras estrangerias) e o kanji (símbolos não-fonêmicos que representam conceitos). Utilizaremos aqui apenas o _hiragana_ (pois costuma ser o primeiro que os estudantes de japonês aprendem). Como vamos apenas transliterar palavras, talvez o _katakana_ fosse mais apropriado, mas como ele segue a mesma lógica e o _hiragana_ costuma ser aprendido primeiro, vamos utilizar este último. Veremos a respeito dos _kanji_ na seção sobre sistemas logográficos nesta página.
+Consideremos agora a letra "n", que em árabe é "ن". Agora meio que invertemos. "Na" seria "ن", "nana" seria "نن" e "nanana" seria "ننن".
 
-Em um tal sistema, no lugar de representar letras isoladas, como "K", "A", "E", "I", "O" e "U", representa-se as sílabas compostas por elas, tendo um símbolo diferente para cada sílaba. Por exemplo, os sons "ka", "ke", "ki", "ko" e "ku" seriam escritos か, け, き, こ e く.
+De modo que "banana" seria escrito "بنن". Três curvas: uma com um ponto em baixo e duas com um ponto em cima.
 
-Há exceções. No japonês, há as sílabas "na", "ne", "ni", "no" e "nu", mas há também os símbolos isolados para o som de "n" e de cada uma das vogais. Contudo, não se pode juntar eles para formar as sílabas; eles devem ser utilizados em certos contextos. Ademais, há certos sons que nós temos que não existem nessa língua.
+Consideremos agora a letra "t". Em arabe, ela seria "ت", uma curva com dois pontos em cima. Se quero escrever "tata", "تت"; se quero escrever "tatata", "تتت".
 
-Se eu quisesse transliterar a palavra "quindim", eu teria que usar os seguintes símbolos: "ki", "n", "dji" (pois não há símbolo para "di") e "n". Ficaria assim: きんぢん. É simples decifrar estes símbolos: o som para "n" (ん) aparece duas vezes, o que torna mais simples entender que "ki" é き e "dji" é ぢ.
+Batata: بتت
+Bonita: بنت
 
-Vamos ver mais alguns exemplos. Não há no japonês símbolos para a letra "s" isolada, nem encontros consonantais com "cr" e "br", então é comum ver outras sílabas em seus lugares. Segue:
+Em "batata" temos uma curva com um ponto em baixo, e outras duas curvas com dois pontos em cima cada. Em "bonita", uma com um ponto em baixo, uma com um ponto em cima e uma outra com dois pontos em cima.
 
-- Banana - Ba-na-na - ばなな
-- Sabonete - Sa-bo-ne-te - さぼねて
-- Biblioteca - Bi-bu-ri-o-te-ka - びぶりおてか
-- Tronco - Tsu-ro-n-ko - つろんこ 
-- Aristocrata - A-ri-su-to-ku-ra-ta - ありすとくらた
-- Brasileiro - Bu-ra-ji-re-i-ro - ぶらじれいろ
-- Samba - Sa-n-ba - さんば
-- Cascavel - Kasukaberu - かすかべる
+Claro, nem tudo em árabe é curva com ponto. O "k" é um "ك", e kaka é "كك", e kakaka é "ككك".
 
-É inegável: são muitos símbolos. Considerando que para cada combinação de consoante e vogal há um símbolo diferente, o número de símbolos é necessariamente maior do que no caso das línguas alfabéticas. Há um total de 46 _hiragana_ básicos, mas também há suas versões com diacríticos. Por exemplo, o símbolo da sílaba "ha" は) pode ser modificado para formar os sons "ba" (ば) e "pa" (ぱ), resultando em um total de 71 sons. Sem contar com os _katakana_ e os _kanji_.
+Assim, "cabana" é "كبن".
 
-Mas não há grande mistério: é apenas um grande número de coisas a se memorizar. Se você consegue memorizar milhares de palavras (e você consegue), você também pode memorizar pouco mais que uma centena de símbolos. A inserção dessas coisas em contexto ajuda: se você procurar aprender palavras (e exercitar escrevê-las à mão!) e não apenas a memorizar as sílabas, você aprenderá mais rápido. Se inserir essas palavras em um contexto significativo, como uma música, tanto melhor. Se você consegue memorizar uma música, você consegue memorizar essas coisas. É apenas questão de ir devagar. Não tente memorizar tudo de uma vez só: separe uns dez por dia e vá acrescentando ao longo do tempo.
+---
 
-O coreano não é muito diferente, mas as letras são lidas em blocos, da esquerda para a direita e de cima para baixo. E há menos (bem menos) símbolos.
+Podemos ver que a escrita árabe é mais desafiadora do que a escrita russa para nós. Ela é difícil porque é muito diferente. Para um falante nativo de hebraico, compreender o sistema de escrita árabe é bem mais simples. Nós vimos apenas quatro letras aqui; há 28 no abjad árabe. Entretanto, a minha ideia aqui foi mostrar que existe uma lógica interna para essas línguas, e que tal lógica não está além do seu alcance. 
 
-## Abjads
+## Conclusão
 
-Não sei o que costuma assustar mais as pessoas: o japonês e o mandarim ou o árabe. A verdade é que o árabe é comumente utilizado por nós como um exemplo de escrita incompreensível. Memes na Internet que expressam a confusão diante desse sistema de escrita abundam.
+Se você quer aprender uma língua nova, não deixe um sistema de escrita diferente te impedir disso. O árabe pode parecer difícil, mas a verdade é que ele é apenas _muito diferente_. Com algumas semanas de dedicação é totalmente possível e factível dominar completamente um sistema de escrita desses.
 
-Abjads não se aplicam apenas ao árabe. Há outros, como o siríaco e o hebraico. Utilizarei o árabe como exemplo, pois não faço ideia de como funciona o siríaco, e o hebraico é aparentemente bem mais simples que o árabe.
+Línguas logográficas como o japonês e o mandarim podem exigir mais esforço, mas se o seu desejo é aprendê-las, não deixe que o sistema de escrita seja um obstáculo no seu caminho; faça dele uma _ferramenta_! Muitos, erroneamente, tentam burlar o caminho; tentam aprender a "falar japonês" sem aprender a "escrever japonês". Não faça isso! Por mais difícil que seja, compreender pelo menos o básico de um tal sistema de escrita vai te ajudar muito, e vai te ajudar a compreender mais o material com o qual você pratica a imersão.
 
-O nome "abjad" vem do alfabeto árabe, em que as quatro primeiras letras são "abjd". 
-
-A primeira característica peculiar deste sistema de escrita é que ele é escrito da direita para a esquerda, e não da mesma ordem que os nossos, mas é apenas questão de se acostumar com a diferença. A segunda é que as vogais não costumam ser escritas, a não ser como "marcações auxiliares". A maioria das palavras não vem com tais marcações, mas costuma-se acrescentá-las a palavras incomuns ou bem específicas, ou em textos religiosos como na Torá ou no Corão. Em hebraico se utilizam certo número de pontos em diferentes posições para representá-las, e em árabe são utilizados traços, círculos ou outros símbolos acima ou abaixo das letras.
-
-Uma peculiaridade do árabe é a maior parte das letras tem duas ou três formas de serem escritas. O que diferencia qual será utilizada é a posição dela na palavra. Se estiver no início será uma forma, se estiver no final, outra, se estiver entre duas outras letras, outra. As letras podem ou não se conectar à próxima ou à anterior.
-
-Vejamos por exemplo o som "b". Ela é representada pelo símbolo ب. Essa curva com um ponto embaixo pode representar os sons "bi", "bu" e "ba". Não há vogais "o" e "e" em árabe, mas há distinção entre vogais longas (aa) e curtas (a). 
-
-Se eu quero escrever "bb" (digamos, para representar "babá") eu o faria da seguinte forma:
-
-- بب
-
-Perceba como as letras se fundiram. O ponto continua embaixo das curvas, mas uma curva se encurtou e a outra se manteve a mesma. Se eu escrevesse "bbb" (algo como "bababa"), isso seria representado como ببب. Uma letra se "encolhe" no meio das outras, tomando a forma de uma "voltinha", enquanto que o ponto continua embaixo dela.
-
-Consideremos agora os sons "t" (ت) e "n" (ن):
-
-A lógica é a mesma. "Tt" (tatá, por exemplo) poderia escrito como  تت, e "ttt" como تتت. "Nn" seria نن e "nnn", ننن. Repare como no caso do "t" há dois pontos e no caso do "n", apenas um. Porém, os pontos ficam sempre _acima_, e não abaixo como no caso do "b".
-
-Vejamos então alguns exemplos. Lembre-se de ler da direita para a esquerda:
-
-- Banana - bnn - بنن
-- Batata - btt - بتت
-- Bonita (bunita) - bnt - بنت
-- Nabo (nabu) -  nb - نب
-- Nanica - nnk - ننك
-- Arara - Aarr - ارر
-- Rato (ratu) - rt - رت
-
-Acima foram apresentadas três sons diferentes: o "A" longo (aa, ا), o "r" (ر) e o "k" (ك). Algumas letras mudam de forma consideravelmente quando colocadas em posições diferentes da palavra. O "A" longo apenas se conecta com letras que vêm _antes_ dela, e nunca após. Por exemplo: "Ba" (با) e "Ab" (اب). O "k" muda de forma peculiar: no caso de "kk", ele é escrito como كك; se escrevo "bknk", بكنك.
-
-No hebraico as letras não se misturam umas às outras, o que facilita a leitura e a escrita. Entretanto, esse sistema de escrita não é tão difícil quanto parece: mais uma vez, é apenas questão de memorizar desta vez não um número maior de letras, mas múltiplas versões da mesma letra. 
-
-O árabe tem a peculiaridade de, apesar de ter poucas vogais, ter múltiplas versões do que nos parece ser a mesma consoante, mas para eles são coisas muito diferentes. Por exemplo, eles têm o "S" que é entoado na ponta da língua, entre os dentes, e o "S" que é entoado no fundo da garganta. Não há tantas diferenças entre esse sistema de escrita e o alfabético, entretanto, salvo duas: 1. você (quase que) só escreve as consoantes e 2. as letras mudam de forma dependendo da posição delas na palavra (no início, no final, entre duas outras letras). 
-
-Claro, não há muito mais letras no árabe do que o que vimos aqui, mas a ideia não é esgotar o conhecimento acerca desse sistema de escrita, apenas mostrar a lógica por trás dele.
-
-## Sistemas logográficos
-
-Deixei por último o mais complexo. Este exemplo se alicerça na parte sobre [Silabários], portanto lê-la anteriormente (se você não o fez) pode ajudar a compreender o que vem a seguir.
-
-Se eu quisesse escrever, em japonês, a frase "eu sou japonês", sem usar _kanji_ (o sistema logográfico embutido na escrita japonesa), eu faria isso da seguinte forma:
-
-- わたしはにほんじんです (watashi-wa nihon-jin desu)
-
-Desmembrando-a, cada parte corresponde ao seguinte:
-
-- わたし (watashi - "eu") 
-- は (wa - marcador de tópico; peculiaridade gramatical do japonês) 
-- にほんじん (nihon-jin - "japonês")
-- です (desu - verbo ser/estar)
-
-Manter as coisas dessa forma, porém, poderia tornar o japonês muito "bagunçado" para ler. Repare como não há espaços entre as palavras. Assim, é necessário empregar os _kanji_:
-
-- わたし, watashi, "eu", é escrito como 私 
-- にほんじん, nihon-jin, "japonês", é escrito como 日本人 
-
-O resultado tem a mesma pronúncia, mas outra escrita:
-
-- 私は日本人です
-
-A palavra para "Japão" em japonês é "日本" (nihon). Se a palavra para "japonês" (cidadão japonês/pessoa japonesa) é 日本人 (nihon-jin), podemos supor então que o símbolo para "pessoa" (人) seja pronunciado como "jin", certo? Bom, neste contexto sim, mas há situações em que ele pode ser pronunciado como "hito". Em sistemas logográficos não há correspondência entre símbolo e som, apenas entre símbolo e ideia: o som, a palavra, você tem que aprender de outro modo. Àqueles que estão interessados em aprender japonês ou mandarim precisarão suplementar a imersão com uma forma de dominar um número maior destes ideogramas. Esses símbolos não são arbitrários e há uma lógica interna para eles, mas é necessário muito envolvimento neles para encontrar padrões além da simples memorização. Assim como nos sistemas de escrita por abjad, os ideogramas incomuns costumam vir associados de algum auxiliar para leitura (ao menos no caso do japonês), como _hiragana_ explicando a pronúncia correta do _kanji_. 
+Para deixar você com uma dica prática: experimente escrever _na sua língua_ com o "alfabeto" que você quer aprender. Por mais estranho que isso seja, é uma prática útil para fixar o aprendizado. Por fim, se o **Duolingo** serve bem para alguma coisa, é para aprender novos sistemas de escrita. Acredito que ele pode ajudar de verdade neste campo.
