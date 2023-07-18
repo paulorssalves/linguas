@@ -5,9 +5,8 @@
 ## Tarefas a fazer 
 
 - [ ] Enxugar o capítulo sobre o desenvolvimento da fala, uma vez que parte dele será melhor elaborado no capítulo sobre gramática 
-- [ ] Escrever capítulo sobre anseidade de exposição
 - [ ] Escrever um "resumo" no final de cada capítulo
-- [ ] Linkar todos os capítulos na página de resumo
+- [ ] linkar todos os capítulos na página de resumo
 - [ ] Revisar cada um dos capítulos
   - Especialmente o sobre gramática
 
