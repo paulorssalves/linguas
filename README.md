@@ -4,11 +4,9 @@
 
 ## Tarefas a fazer 
 
-- [ ] Enxugar o capítulo sobre o desenvolvimento da fala, uma vez que parte dele será melhor elaborado no capítulo sobre gramática 
 - [ ] Escrever um "resumo" no final de cada capítulo
 - [ ] linkar todos os capítulos na página de resumo
 - [ ] Revisar cada um dos capítulos
-  - Especialmente o sobre gramática
 
 ### Ordem: 
 1.	(00) TL;DR
