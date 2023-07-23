@@ -11,7 +11,7 @@ Olá! Seja bem vindo(a)!
 
 Neste site você encontrará toda a informação necessária para aprender línguas. Aqui você não apredenderá uma língua específica (como inglês, espanhol, mandarim etc.), mas sim como aprender idiomas no geral. 
 
-O que está escrito aqui pode ser aplicado para qualquer idioma. Caso você esteja aprendendo alguma língua que utilize ideogramas, como o japonês e o mandarim, será necessário certo ajuste suplementar para aprender o sistema de escrita. Dito isso, a informação aqui exposta serve muito bem para para idiomas com sistemas de escrita alfabéticos (como o nosso e outros como o grego e o russo), para sistemas de abjads (árabe e hebraico) e silabários (parte do japonês, por exemplo). 
+O que está escrito aqui pode ser aplicado para qualquer idioma. Caso você esteja aprendendo alguma língua que utilize ideogramas, como o japonês e o mandarim, será necessário certo ajuste suplementar para aprender o sistema de escrita. Dito isso, a informação aqui exposta serve muito bem para para idiomas com sistemas de escrita alfabéticos (como o nosso, assim como outros como o grego e o russo), para sistemas de abjads (árabe e hebraico) e silabários (parte do japonês, por exemplo). 
 
 A maior parte dos exemplos ilustrados ao longo do site estarão em inglês. Se isso funciona para qualquer idioma, por que utilizar o inglês? Pelos seguintes motivos:
 
@@ -20,7 +20,7 @@ A maior parte dos exemplos ilustrados ao longo do site estarão em inglês. Se i
 3. A maioria dos brasileiros não fala uma segunda língua;
 4. A maioria dos brasileiros que quer aprender uma segunda língua quer aprender inglês.
 
-Dito isso, tudo o que é necessário fazer está resumido na página "[Como aprender uma língua]". Entretanto, o que eu exponho lá pode ser difícil de acreditar. Será que é mesmo tão simples assim? Sim, e o resto do site serve para tirar quaisquer dúvidas e mostrar como _de fato_ é tão simples.
+Em poucos momentos, quando o intuito for simplesmente ilustrar uma língua "muito diferente", será utilizado o russo. Na seção a respeito do aprendizado de sistemas de escrita, será empregado pelo mesmo motivo também a escrita árabe. Dito isso, tudo o que é necessário fazer está resumido na página "[Como aprender uma língua]", inteiramente em português. Esta página está cheia de links para outras páginas do site, em que se detalha mais a respeito do que está sendo dito. Entretanto, o que eu exponho lá pode ser difícil de acreditar. Será que é mesmo tão simples assim? A resposta é **sim**. O resto do site serve para detalhar, tirar dúvidas e reduzir a incredulidade. 
 
 Você não precisa ler o site todo de primeira. Na verdade, você _nem precisa_ ler o site todo. Apenas leia a página sobre [como aprender uma língua][Como aprender uma língua] e volte para ler mais a respeito daquilo que você tiver dúvidas. Você logo obterá resultados.
 

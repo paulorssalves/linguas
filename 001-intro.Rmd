@@ -2,7 +2,7 @@
 
 A página anterior explica, de fato, tudo o que é necessário saber para que possamos aprender um idioma. Todavia, muito do que está ali pode causar ansiedade, seja por ser simples demais, seja por propor coisas para as quais não "nos sentimos prontos". 
 
-Pois bem, não acho que nesse âmbito temos que nos preocupar em "nos sentir prontos". Preparar-se, aqui, pode facilmente se tornar um vício; é muito fácil "preparar-se eternamente". Portanto, a melhor forma de aprender uma língua é pulando de cabeça, sem deixar nada para depois.
+Pois bem, não acho que nesse âmbito temos que nos preocupar em "nos sentir prontos". Preparar-se, aqui, pode facilmente se tornar um vício; é muito fácil "preparar-se eternamente". A melhor forma de aprender uma língua é pulando de cabeça.
 
 Claro, essa afirmativa tem nuances, as quais eu explico nos capítulos sobre [motivação][A motivação] e sobre [leitura][Livros e podcasts].
 
@@ -10,25 +10,25 @@ Mas dito isso, o que é que você pode esperar deste site?
 
 Antes de você ir mais adiante, pode ser interessante saber de alguns pressupostos. Há duas grandes correntes em discordância na teoria do aprendizado de línguas: uma que trata a língua como uma _habilidade_, e outra que trata o aprendizado da língua como um _resultado de passar tempo com a língua_.
 
-A primeira corrente é composta por um grupo de estudiosos que trata a língua como algo que você exercita e que, por meio do exercício, você vai ficando melhor. A tese deles é a de que se você quer falar melhor, ora bolas, você deve praticar falar mais! Se você quer escrever melhor, você deve escrever mais, e assim por diante.
+A primeira corrente é composta por um grupo de estudiosos que trata a língua como algo que você exercita e que, por meio do exercício, você vai ficando melhor. A tese deles é a de que se você quer falar melhor, ora bolas, você deve praticar falar mais! Se você quer escrever melhor, você deve escrever mais, e assim por diante. É com base nessa abordagem que a maioria dos livros didáticos são criados: aqueles um tanto repetitivos, que passam exercícios de completar lacunas com a conjugação correta dos verbos. 
+Essa abordagem é _ótima_ para aprendermos melhor a nossa própria língua, mas não procede que essa é a melhor forma para aprender uma _segunda_ língua. 
 
-É com base nessa abordagem que a maioria dos livros didáticos são criados. Sabe, aqueles um tanto repetitivos, que passam exercícios de completar lacunas com a conjugação correta dos verbos.
+A ideia de que aprender uma segunda língua é análogo a estudar a nossa primeira é uma crença falsa. Ela implica que se aprendermos regras o suficiente ou se fizermos exercícios o suficiente nós vamos ter aprendido a língua, mas não funciona assim. Nós já falamos português quando começamos a estudar a gramática da nossa língua. Todos esses exercícios colocam a língua dentro de um ambiente controlado, justamente para nos ajudar a dominar as regras. 
 
-Eu não acho que isso é balela. Certamente falar mais pode nos ajudar a falar melhor. Todavia, eu acredito que esse tipo de abordagem é ilusória. Ele nos dá a ideia de que se aprendermos regras o suficiente ou se fizermos exercícios o suficiente nós vamos ter aprendido a língua, mas não funciona assim. Todos esses exercícios colocam a língua dentro de um ambiente controlado, só que quando você vai falar falar com alguém nessa língua, ou quando você ouve alguém falando, ou lê algo, ou assiste algo, muitas vezes as pessoas se expressam de uma forma inesperada e que não consta nos livros didáticos. 
+Entretanto, [Usar apenas materiais didáticos][exercícios controlados não têm tanto valor para o aprendizado de uma segunda língua]. Quando você vai falar com alguém em outro de outro país, ou quando você ouve, lê ou assiste algo em outro idioma, muitas vezes as pessoas se expressam de forma que não consta nos livros didáticos. 
 
-Eu sou portanto um partidário da segunda corrente: a que trata o aprendizado da língua como um resultado de imersão.^[Popularizada pelo pesquisador [Stephen Krashen](https://pt.wikipedia.org/wiki/Stephen_Krashen).]
+Eu sou portanto um partidário da segunda corrente: a que trata o aprendizado da língua como um resultado de passar tempo com a língua.^[Popularizada pelo pesquisador [Stephen Krashen](https://pt.wikipedia.org/wiki/Stephen_Krashen).]
 
-Eu acredito que a forma de aprender língua é por meio da _aquisição de gingado_. A língua é como uma dança, e você tem que ter fluidez e flexibilidade para dançar conforme a música. Línguas não são uma disciplina matemática em que você aplica regras sobre um certo conteúdo para obter um certo resultado. O essencial aqui, então, é adquirir intuição e _gingado_. 
+Eu acredito que a forma de aprender língua é por meio da _aquisição de gingado_. A língua é como uma dança, e você tem que ter fluidez e flexibilidade para dançar conforme a música. Línguas não são uma disciplina matemática em que você aplica regras sobre um certo conteúdo para obter um certo resultado. Na matemática, se você quer aprender cálculo, você precisa saber álgebra, que requer conhecimento de aritmética. Na língua as coisas não são bem assim. O essencial é adquirir intuição.
 
-Essa intuição é o que você já tem pra sua língua natal. Você sabe que uma coisa está certa ou errada só pela forma como ela te faz sentir. Você é capaz de saber que algo está errado porque "não é assim que se fala normalmente". Talvez você conheça as regras que explicam porque é que se fala ou não se fala assim ou assado, mas mesmo assim com certeza você sabe que "o que é o certo" em muitos casos que você não sabe como explicar.
+Essa intuição é o que você já tem pra sua língua natal. Você sabe que uma coisa está certa ou errada só pela forma como ela te faz sentir. Você é capaz de saber que algo não está correto porque "não é assim que se fala normalmente". Talvez você conheça as regras que explicam porque é que se fala, ou não se fala, assim ou assado, mas é provável que haja casos em que você algo está errado e você sabe que está errado, mas não sabe exatamente "a regra" que explica essa sua intuição.
 
-É essa a intuição, é esse o gingado que é necessário adquirirmos. E a única forma de adquirir esse gingado e essa intuição é passando tempo com a língua.
+É essa a intuição que é necessário adquirirmos na nossa segunda língua. A única forma de fazer isso é passando tempo com ela. 
 
 O que será exposto neste site será o seguinte:
 
 1. A motivação necessária para aprender
 2. Como é que se "aprende" uma língua de modo a desenvolver intuição sobre ela
-  - spoiler: é passando tempo com ela
 3. Por que passar tempo com ela em vez de ficar estudando gramática
 4. _Como_ passar tempo com ela
 5. Como utilizar uma ferramenta chamada Anki para nos ajudar a passar tempo com ela
@@ -39,6 +39,13 @@ O que será exposto neste site será o seguinte:
 10. O papel de cursos e professores
 11. O lugar da gramática no estudo de uma língua
 
-O procedimento é muito simples: **língua se aprende passando tempo com a língua, entendendo-a, e passando mais e mais tempo para entender mais e mais.** É um processo cíclico. É assim que se desenvolve intuição e gingado. O que eu mostro aqui é _uma forma_ de fazer isso, quer dizer, pela Internet -- considerando séries, jogos digitais, filmes, livros e podcasts. É um método focado em _consumir_ -- em ler, ouvir e assistir. É também o método mais acessível, e pode facilmente ser um dos mais divertidos. Mas se você preferir _outra forma_ (e a única outra que eu consigo pensar envolve conversar com nativos ou tutores), sinta-se livre para fazê-lo.
+O procedimento é muito simples: **língua se aprende passando tempo com a língua, e com o tempo passando a entendê-la mais e mais** É um processo cíclico. É assim que se desenvolve intuição. O que eu mostro aqui é _uma forma_ de fazer isso^[A maiori dos cursos não são focados no desenvolvimento de intuição, mas apenas na compreensão de regras e de "rotinas" (frases que são recorrentes e portanto úteis).] pela Internet -- considerando séries, jogos digitais, filmes, livros e podcasts. É um método focado em _consumir_ -- em ler, ouvir e assistir. É também o método mais acessível, e pode facilmente ser um dos mais divertidos. Mas se você preferir _outra forma_ (viajando, contratando nativos e tutores), sinta-se livre para fazê-lo.
 
-Um adendo para esta alternativa. Se você for atrás de tutores, dê uma olhada no capítulo sobre [cursos e professores][Cursos e professores]. Há no mercado de ensino e aprendizado de língua uma miríade de métodos daninhos dispersos por aí, então é bom que você tenha noção de como filtrar o joio do trigo. 
+**Um adendo para esta alternativa**: Se você for atrás de tutores, dê uma olhada no capítulo sobre [cursos e professores][Cursos e professores]. Há no mercado de ensino e aprendizado de língua uma miríade de métodos daninhos dispersos por aí, então é bom que você tenha noção de como filtrar o joio do trigo. 
+
+## Resumo
+
+1. Há duas grandes correntes teóricas sobre o aprendizado da língua: "língua como habilidade" e "língua como intuição". Neste site eu advogo em prol do segundo.
+2. A abordagem da "língua como habilidade" trata a língua como composta de múltiplas dimensões -- leitura, escrita, audição e fala -- e acredita (penso que erroneamente) que para você melhorar sua leitura basta ler mais, para melhorar a escrita basta escrever mais, para melhorar a fala basta ler mais, como se língua fosse um resultado de simples prática de habilidades.
+3. Diferentemente, a abordagem da língua como intuição propõe que a sua habilidade produtiva numa língua é efeito da sua habilidade de compreensão. Se você quer falar bem, você já tem que ouvir bem, e não adianta praticar suas habilidades de fala se você tem baixas habilidades de compreensão.
+4. A intuição na língua pode ser obtida por meio de "passar tempo com a língua" -- **imersão**. Essa prática nos concede a capacidade de perceber quando algo está certo ou errado sem necessitarmos dominar as regras da língua explicitamente.
