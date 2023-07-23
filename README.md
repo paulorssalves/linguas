@@ -3,8 +3,29 @@
 ## Tarefas a fazer 
 
 - [ ] Escrever um "resumo" no final de cada capítulo
-- [ ] linkar todos os capítulos na página de resumo
+	 - [ ] Motivação
+	 - [ ] Aprendizado e aquisição
+	 - [ ] Papel da imersão
+	 - [ ] De que modo imergir-se
+	 - [ ] Repetição espaçada
+	 - [ ] Repetição espaçada e imersão
+	 - [ ] Desenvolvimento da fala
+	 - [ ] Ansiedade de exposição
+	 - [ ] Sistemas de escrita
+	 - [ ] Cursos e professores
+	 - [ ] O papel da gramática
 - [ ] Revisar cada um dos capítulos
+	 - [ ] Motivação
+	 - [ ] Aprendizado e aquisição
+	 - [ ] Papel da imersão
+	 - [ ] De que modo imergir-se
+	 - [ ] Repetição espaçada
+	 - [ ] Repetição espaçada e imersão
+	 - [ ] Desenvolvimento da fala
+	 - [ ] Ansiedade de exposição
+	 - [ ] Sistemas de escrita
+	 - [ ] Cursos e professores
+	 - [ ] O papel da gramática
 
 ### Ordem: 
 1.	(00) TL;DR
