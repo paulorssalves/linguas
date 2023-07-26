@@ -3,7 +3,7 @@
 ## Tarefas a fazer 
 
 - [ ] Escrever um "resumo" no final de cada capítulo
-	 - [ ] Motivação
+	 - [X] Motivação
 	 - [ ] Aprendizado e aquisição
 	 - [ ] Papel da imersão
 	 - [ ] De que modo imergir-se
@@ -15,7 +15,7 @@
 	 - [ ] Cursos e professores
 	 - [ ] O papel da gramática
 - [ ] Revisar cada um dos capítulos
-	 - [ ] Motivação
+	 - [X] Motivação
 	 - [ ] Aprendizado e aquisição
 	 - [ ] Papel da imersão
 	 - [ ] De que modo imergir-se
