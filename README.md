@@ -2,9 +2,10 @@
 
 ## Tarefas a fazer 
 
+- [ ] A partir do "Aprendizado e Aquisição" fazer com que menções à `língua-alvo` tenham o nome de L2 e a língua materna de L1.
 - [ ] Escrever um "resumo" no final de cada capítulo
 	 - [X] Motivação
-	 - [ ] Aprendizado e aquisição
+	 - [X] Aprendizado e aquisição
 	 - [ ] Papel da imersão
 	 - [ ] De que modo imergir-se
 	 - [ ] Repetição espaçada
@@ -16,7 +17,7 @@
 	 - [ ] O papel da gramática
 - [ ] Revisar cada um dos capítulos
 	 - [X] Motivação
-	 - [ ] Aprendizado e aquisição
+	 - [X] Aprendizado e aquisição
 	 - [ ] Papel da imersão
 	 - [ ] De que modo imergir-se
 	 - [ ] Repetição espaçada
