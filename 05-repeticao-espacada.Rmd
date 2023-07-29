@@ -1,9 +1,22 @@
 # Ferramentas auxiliares no aprendizado de línguas {-} 
 
+Nas seções e páginas a seguir será abordado o uso de aplicativos como ferramentas de suporte no aprendizado de línguas, _sobretudo o Anki_. O Anki é uma ferramenta muito útil para amplificar o nosso vocabulário na nossa L2. Ele pode ser tanto um auxiliar como ele pode ser prescindível, e isso depende tanto do seu estilo quanto da língua que você está aprendendo. 
+
+Se a sua L2 é grego ou árabe, você vai precisar acumular um certo número de palavras para _começar_ a entender o que tá acontecendo no seu conteúdo de imersão. Pode ser que você precise aprender algo como as 500 a 1000 palavras mais comuns do idioma antes de começar "engatar" de fato. Não recomendo, entretanto, que você deixe para praticar imersão apenas _após_ ter aprendido tantas palavras. A imersão pode ser frustrante, principalmente no início, mas mesmo com pouco vocabulário é possível tirarmos proveito dela.
+
+Se a sua L2 é algo mais parecido com o Português, como Espanhol ou Italiano, o Anki já aquire características mais auxiliares. Já não é necessário utilizá-lo como um "preparatório" anterior à imersão: pode-se começar a imersão desde o início, e usar o aplicativo apenas para as palavras mais complicadas.
+
+O uso de tais ferramentas não é para sempre. Um dia você sentirá, por conta própria, que não precisa mais delas.
+
+Será brevemente abordado também o Duolingo. Embora reduzida, sua utilidade existe.
+
+---
+
 ## O uso de aplicativos {-}
 
 Aplicativos são úteis, mas a utilidade principal dos aplicativos é uma só: aumentar seu vocabulário. A exceção, óbvio, são os aplicativos em que você conversa com pessoas reais.^[Esses podem ser um pouco perigosos, e eu recomendo que, se você quiser conversar com pessoas na sua L2, sejam eles estranhos, sejam eles professores, que você ou o faça em chats públicos como esses do Discord, ou você pague por um tutor em uma plataforma como o Preply.]
-Se a utilidade dos aplicativos é te ajudar a aumentar seu vocabulário, por que perder tempo com um aplicativo como Duolingo? O Duolingo (ou outros aplicativos do mesmo tipo) têm uma utilidade inegável: eles te ajudam a entender _mais ou menos_ as estruturas frasais da língua, mas, na minha experiência, cada árvore de habilidades do Duolingo só útil até a primeira metade. A segunda costuma trazer resultados diminutos em comparação com a primeira. 
+
+Se a utilidade dos aplicativos é te ajudar a aumentar seu vocabulário, por que perder tempo com um aplicativo como Duolingo? O Duolingo (ou outros aplicativos do mesmo tipo) têm uma utilidade inegável: eles te ajudam a entender _mais ou menos_ as estruturas frasais básicas da língua, mas os resultados vão diminuindo conforme a progressão. Uma outra utilidade, inegável e ao meu ver insuperada, do Duolingo é o aprendizado de sistemas de escrita.
 
 Se você vai usar um aplicativo, você quer então usar um que te forneça o maior custo-benefício. Ao meu ver, estes são os aplicativos voltados para aumentar o seu vocabulário. Os melhores aplicativos desse tipo são os que empregam um _sistema de repetição espaçada_.
 

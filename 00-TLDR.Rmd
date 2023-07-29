@@ -18,6 +18,8 @@ Esse conteúdo será utilizado para **imersão**. Ele deve ser algo que seja int
 
 O processo de imersão, assim como o de começar a falar na língua-alvo, pode causar certa ansiedade e insegurança. No capítulo sobre [ansiedade de exposição][Ansiedade de exposição] eu trato um pouco mais a respeito dos sentimentos, dúvidas e práticas ruins comuns entre aprendizes de idiomas.
 
+Algumas línguas são muito diferentes e portanto muito difíceis. Isso torna a imersão mais desconfortável. Por conta disso, considere a seção logo abaixo, nesta mesma página, sobre as [ferramentas auxiliares][Ferramentas auxiliares] que nos servirão de suporte nesse processo. A imersão sem elas pode ser muito complicada, então é recomendado que você as utilize. Cuidado, porém, para não utilizá-las para ficar "se preparando eternamente". Não postergue a imersão para aprender palavras isoladamente.
+
 Se você está aprendendo uma língua que usa outro sistema de escrita, como russo ou grego, é importante que você aprenda logo (e talvez primeiro) esse modo diferente de escrever. Aprender sistemas de escrita não é difícil, e provavelmente pode ser a parte mais fácil da língua. [Sistemas de escrita][Há uma página neste site que mostra justamente isso]. A exceção, óbvio, são as línguas que usam ideogramas (como japonês e mandarim). No caso destas você vai ter que fazer um esforço paralelo para aprender os símbolos individuais. Existem sistemas desenvolvidos para aprender esses modos de escrever. Se este for o seu caso, sugiro que faça uma pesquisa para encontrar um que se adeque às suas necessidades.
 
 ## Características do conteúdo para imersão 
@@ -69,6 +71,6 @@ E qual é o melhor tipo de conteúdo? Aquele que é interessante para você. Com
 
 Isso é tudo o que você precisa saber. Caso julgue necessário, siga a leitura do site, ou explore os links dessa página conforme seu interesse. Você não precisa lê-los sequencialmente. Cada uma das questões aqui expostas será destrinchada minuciosamente nas próximas páginas.
 
-Vá. Mergulhe. Imerja-se na língua que você quer aprender. **Não fique se preparando eternamente**. [Ansiedade de exposição][Não existe isso de "estar preparado" para a imersão]. É a imersão que te prepara para ela, e se você quer falar, é ela que vai te dar essa capacidade.
+Vá. Mergulhe. Imerja-se na língua que você quer aprender. **Não fique se preparando eternamente**. [Não existe isso de "estar preparado" para a imersão][Ansiedade de exposição]. É a imersão que te prepara para ela, e se você quer falar, é ela que vai te dar essa capacidade. Use uma ferramenta como o Anki para te ajudar a amplificar o seu vocabulário e facilitar a imersão. Porém **cuidado**: não deixe que tais ferramentas se tornem substitutos.
 
 As páginas a diante são uma exposição mais detalhada de como fazer isso, começando por uma exposição geral do que você pode esperar encontrar neste site. 

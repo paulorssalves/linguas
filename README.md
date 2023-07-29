@@ -6,7 +6,7 @@
 - [ ] Escrever um "resumo" no final de cada capítulo
 	 - [X] Motivação
 	 - [X] Aprendizado e aquisição
-	 - [ ] Papel da imersão
+	 - [X] Papel da imersão
 	 - [ ] De que modo imergir-se
 	 - [ ] Repetição espaçada
 	 - [ ] Repetição espaçada e imersão
@@ -18,7 +18,7 @@
 - [ ] Revisar cada um dos capítulos
 	 - [X] Motivação
 	 - [X] Aprendizado e aquisição
-	 - [ ] Papel da imersão
+	 - [X] Papel da imersão
 	 - [ ] De que modo imergir-se
 	 - [ ] Repetição espaçada
 	 - [ ] Repetição espaçada e imersão
