@@ -7,7 +7,7 @@
 	 - [X] Motivação
 	 - [X] Aprendizado e aquisição
 	 - [X] Papel da imersão
-	 - [ ] De que modo imergir-se
+	 - [X] De que modo imergir-se
 	 - [ ] Repetição espaçada
 	 - [ ] Repetição espaçada e imersão
 	 - [ ] Desenvolvimento da fala
@@ -19,7 +19,7 @@
 	 - [X] Motivação
 	 - [X] Aprendizado e aquisição
 	 - [X] Papel da imersão
-	 - [ ] De que modo imergir-se
+	 - [X] De que modo imergir-se
 	 - [ ] Repetição espaçada
 	 - [ ] Repetição espaçada e imersão
 	 - [ ] Desenvolvimento da fala
