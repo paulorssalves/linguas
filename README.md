@@ -3,31 +3,45 @@
 ## Tarefas a fazer 
 
 - [ ] A partir do "Aprendizado e Aquisição" fazer com que menções à `língua-alvo` tenham o nome de L2 e a língua materna de L1.
-- [ ] Escrever um "resumo" no final de cada capítulo
-	 - [X] Motivação
-	 - [X] Aprendizado e aquisição
-	 - [X] Papel da imersão
-	 - [X] De que modo imergir-se
-	 - [ ] Repetição espaçada
-	 - [ ] Repetição espaçada e imersão
-	 - [ ] Desenvolvimento da fala
-	 - [ ] Ansiedade de exposição
-	 - [ ] Sistemas de escrita
-	 - [ ] Cursos e professores
-	 - [ ] O papel da gramática
 - [ ] Revisar cada um dos capítulos
 	 - [X] Motivação
 	 - [X] Aprendizado e aquisição
 	 - [X] Papel da imersão
 	 - [X] De que modo imergir-se
 	 - [ ] Repetição espaçada
+		- [X] Ferramentas auxiliares no aprendizado de línguas
+		- [X] O uso de aplicativos
+		- [X] Sistemas de repetição espaçada
+		- [ ] Anki: primeiros passos
+		- [ ] Anki: plugins e AwesomeTTS
+		- [ ] Anki: customização de baralhos
+		- [ ] Anki: conclusão
 	 - [ ] Repetição espaçada e imersão
 	 - [ ] Desenvolvimento da fala
 	 - [ ] Ansiedade de exposição
 	 - [ ] Sistemas de escrita
 	 - [ ] Cursos e professores
 	 - [ ] O papel da gramática
+- [ ] Escrever um "resumo" no final de cada capítulo
+	 - [X] Motivação
+	 - [X] Aprendizado e aquisição
+	 - [X] Papel da imersão
+	 - [X] De que modo imergir-se
+	 - [ ] Repetição espaçada
+		- [X] Ferramentas auxiliares no aprendizado de línguas
+		- [X] O uso de aplicativos
+		- [X] Sistemas de repetição espaçada
+		- [ ] Anki: primeiros passos
+		- [ ] Anki: plugins e AwesomeTTS
+		- [ ] Anki: customização de baralhos
+		- [ ] Anki: conclusão
 
+	 - [ ] Repetição espaçada e imersão
+	 - [ ] Desenvolvimento da fala
+	 - [ ] Ansiedade de exposição
+	 - [ ] Sistemas de escrita
+	 - [ ] Cursos e professores
+	 - [ ] O papel da gramática
 ### Ordem: 
 1.	(00) TL;DR
 2.  (06) Motivação
