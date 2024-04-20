@@ -1,6 +1,6 @@
 "# O papel da gramática {-}
 
-## Por que eu deixei a gramática por último
+## Por que eu deixei a gramática por último {-}
 
 A gramática serve para dar forma ao conteúdo. Este, por sua vez, é o que nós adquirimos por meio da imersão: toda a compreensão intuitiva que temos por conseguirmos compreender o significado e o uso de certas frases devido ao contexto em que elas se encontram.
 
@@ -18,11 +18,11 @@ A verdade é que se nós memorizarmos o dicionário inteiro e, junto com ele, to
 
 Além disso, as regras das línguas não são todas documentadas. O que, você acha que pegar e ler uma gramática do início ao fim vai te familiarizar com todas as regras? Não vai! Há muitas regras que escapam os próprios gramáticos! Há regras para línguas que são faladas há séculos que estão sendo documentadas _hoje_! E mesmo assim, as pessoas falam a língua e usam essas regras corretamente sem nem saber que elas existem.^[Parte do trabalho de Noam Chomsky e seu grupo de pesquisa é encontrar e documentar regras até então ignoradas da língua inglesa.]
 
-### Um adendo
+### Um adendo {-}
 
 Se você estiver aprendendo uma língua antiga, como o grego ático ou o latim, aprender por imersão não será opção. Neste caso você **precisa** aprender gramática. Não tem como deixar isso para depois.
 
-## Por que aprender gramática
+## Por que aprender gramática {-}
 
 O propósito deste site é ensinar _como_ adquirir uma língua, como ser capaz de _falar nela_ e _compreender o que é falado_. Eu não acho que a gramática tem um lugar muito grande nesse processo, mas eu não acho que devemos deixar a gramática de lado. Eu não sou contra a gramática, apenas acredito que o papel dela seja outro. É um papel **muito** importante, e eu diria até mais importante do que o da aquisição. Não obstante, é ainda assim **outro** papel.
 
@@ -38,7 +38,7 @@ Se o seu intuito é aprender a falar um idioma novo, todas as regras que você p
 
 Não acredito que você precise fazer isso para cada língua que você aprende. Talvez seja necessário fazê-lo caso você saiba línguas muito (muito) diferentes entre si, mas a função da gramática é simples: conectar as partes da língua entre si de forma coerente, intencional e lógica (exceto quando a intenção é, de forma deliberada, violar a lógica e a coerência). Com ela, submetemos a língua à lógica e ao mesmo obedecemos à peculiaridade do próprio sistema da língua.
 
-## Como aprender gramática
+## Como aprender gramática {-}
 
 Eu acredito que o verdadeiro custo-benefício em aprender gramática está _na primeira vez em que se a aprende_. Sempre haverá ganho em fazê-lo, na língua que for, mas se você já estudou a gramática de uma língua, aprender a da segunda te dará ganhos reduzidos. Claro, se o seu intuito é ser um especialista em uma segunda língua, convém que você se aperfeiçoe no estudo da gramática da língua em questão.
 
@@ -66,7 +66,7 @@ O uso corrente que usam de "aprender gramática" é "aprender regras para falar 
 
 Sim, um curso especializado de gramática na língua portuguesa seria muito conveniente. Não vou apontar nenhum aqui porque não desejo fazer jabás. Uma outra forma de fazer isso é _analisando textos_ a partir de uma gramática. Neste caso, seria necessário obter uma gramática de referência ou didática e utilizar o que se aprende nela para analisar textos, ensaios, poemas, histórias e coisas do tipo.
 
-## Resumo
+## Resumo {-}
 
 1. A capacidade de produzir numa língua é criativa. A gramática tal como ela é convencionalmente ensinada tem o propósito de servir como um processo de edição; ela aperfeiçoa, refina, edita.
 2. Memorizar todas as regras gramaticais não é sinônimo de dominar a língua. O domínio da língua consiste em experiência e em um certo "gingado".

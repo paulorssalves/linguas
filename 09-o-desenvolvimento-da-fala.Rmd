@@ -6,13 +6,13 @@ E por que que isso acontece? Porque já temos o vocabulário "guardado" dentro d
 
 Mas como falar _corretamente?_ Para falar _corretamente_, é necessário dominar duas coisas: as **regras** da língua e o seu **vocabulário**.
 
-### Regras 
+### Regras  {-}
 
 Esse domínio das regras não necessita ser um domínio explícito. Necessita, sim, ser um domínio _intuitivo_, mas também _estético_. Intuitivo pelas razões que já foram faladas, mas estético por um motivo muito simples: perceberemos quando algo soa feio, quando algo soa errado, por conta de uma comparação com o que nós já experienciamos como sendo o comum. Não existe essa coisa de um "erro objetivo" na língua. O erro é um erro dentro de um contexto, e esse contexto é os costumes linguísticos das pessoas que falam essa língua. Se a língua fosse um jogo de xadrez, atentar contras as regras seria fazer o cavalo andar em linha reta, ou a torre andar em L. É um erro pois é dissonante com o resto do jogo, com o resto dos costumes. São o costume e a experiência que vão informar o certo e o errado.^[Linguistas: não tenho a intenção aqui de criar uma discussão sobre gramática prescritiva e descritiva, sobre o certo e o errado objetivo ou cultural em uma língua. Também não estou tratando de coisas como se devemos nos ater a uma norma culta ou a uma pré-definição de como a língua deve ser. Porém, para o aprendiz de língua o objetivo é bem simples: falar como os nativos falam. O certo é falar de um modo mais próximo de um nativo, não obstante o sotaque, de modo que a comunicação não seja maculada por ambiguidades não-intencionadas e por imprecisões acidentais, nem por palavras deslocadas do seu devido lugar.]
 
 Para falar bem é necessário entender bem. É necessário estar familiarizado com como as pessoas _já falam_. Para este propósito, é necessário muita exposição, muita leitura e escuta. O objetivo dessas coisas é deixar uma impressão forte na nossa memória sobre como as pessoas falam, de que palavras se unem às outras para dizer isso ou aquilo, e em que tipo de situação. Não é necessário saber que "does" é usado pra "he" porque estas são a forma da terceira pessoa do singular do tempo presente simples, mas sim saber, de forma automática, por experiência, por tanto ter lido e ouvido as pessoas falarem assim, que "does" e "he" vêm juntos, e que "he do", ou "does you" soa estranho. Fere a nossa noção estética; vai contra a nossa intuição.
 
-### Vocabulário
+### Vocabulário {-}
 
 Agora, para ter essa compreensão gramatical e estética é necessário compreender cada unidade do que é falado. O remédio é o mesmo: exposição, exposição, exposição. Para esse propósito, séries, filmes, jogos e livros são de altíssimo valor. Livros têm um valor especial, mas são difíceis de entrar, e para esse propósito é bom que utilizemos a _leitura nivelada_. Falo disso em [Livros e podcasts]. 
 
@@ -26,7 +26,7 @@ Se aprendo uma palavra, ela vem associada com alguma regra, alguma tipo habitual
 
 Mas existe _mais uma coisa_ que é necessária para dominar a fala.
 
-### Prática: _language parents_
+### Prática: _language parents_ {-}
 
 Se existe um grande valor em professores e tutores de línguas, ele está aqui. O _language parent_^[Algo traduzido como "pai/mãe linguístico", implicando alguém que te ajuda a "dar os primeiros passos na língua".] não é alguém que vai te corrigir (o tempo todo) quando você fala errado. Ele é alguém que vai se comunicar contigo, vai te ajudar a encontrar as palavras corretas, e vai se preocupar em se comunicar com você de forma que você entenda.
 

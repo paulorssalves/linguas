@@ -4,7 +4,7 @@ output:
   html_document: default
 ---
 
-# Como adquirir uma língua
+# Como adquirir uma língua {-}
 
 Para adquirir uma língua, você deve passar tempo com ela. Não pense na língua como uma ferramenta que você tem que dominar. Língua não é matemática, e ficar fazendo exercícios de gramática não vai te levar muito longe. Caso isso soe estranho, ou mesmo ultrajante, recomendo a leitura da página sobre [o papel da gramática][O papel da gramática].
 
@@ -44,7 +44,7 @@ E é assim que se procede para *todo o resto da língua*. Só que como entendemo
 
 No próximo capítulo será trabalhado quais são os melhores tipos de conteúdo a se utilizar para aprender línguas.
 
-## Resumo
+## Resumo {-}
 
 1.  O essencial para o aprendizado da sua L2 é a criação de memórias na língua. Isso não é sinônimo de "memorizar a língua", mas de *cultivar experiências nela*. Você precisa sentir alegria, raiva, tristeza, medo -- tudo isso em contextos associados à língua que você está aprendendo.
 2.  O processo de aprendizado de línguas é circular: para aprender uma língua é necessário compreendê-la, e para compreendê-la é necessário compreendê-la.

@@ -1,4 +1,4 @@
-# Melhores conteúdos para aprender uma língua 
+# Melhores conteúdos para aprender uma língua  {-}
 
 Hoje em dia é possível praticar a imersão por meio da Internet. O consumo de conteúdo audiovisual é por si só capaz de fomentar a nossa compreensão. As cenas nos ajudam a entender o significado das palavras por contexto. 
 
@@ -14,7 +14,7 @@ Tudo isso supõe que você vai fazer isso com o áudio **e a legenda** na língu
 
 Também cabe dizer que se a língua que você quer aprender usa outro sistema de escrita, é necessário que você o aprenda. Aprender sistemas de escrita pode parecer assustador, mas acredite: é uma das partes mais fáceis de uma língua. As exceções a essa regra são as línguas que utilizam ideogramas (tais como japonês e mandarim), mas mesmo sistemas de escrita muito diferentes do nosso (como árabe, hebraico e russo) são relativamente fáceis de compreender. Na página sobre [sistemas de escrita][Sistemas de escrita] eu dou um exemplo do que esperar ao aprender algo como um novo alfabeto.
 
-## I+1
+## I+1 {-}
 
 Mas e se eu não gosto ou não tenho acesso a conteúdo audiovisual? Nesse caso, restam-me duas opções: contratar um tutor ou fazer uso de leitura e de podcasts.^[Claro, existem os livros didáticos. São ferramentas úteis, ainda que engessadas, para nos ajudar a aquirir línguas. Aqui, entretanto, estamos falando de _imersão_, então não vamos abordar esse tipo de material.] Mas quanto a esses dois últimos, simplesmente não dá pra entender nada se eu já não sei alguma coisa, certo? Em parte, sim. Para isso é importante usarmos [sistemas auxiliares][Ferramentas auxiliares no aprendizado de línguas].
 
@@ -38,9 +38,9 @@ Diga-se de passagem, se o $I+1$ é desejável e o $I+10$ é aceitável, entenda-
 
 A seguir vou falar um pouco mais sobre _os tipos de conteúdo_. Apesar de dividi-los em categorias, você não deve "escolher uma". Utiliza quantos destes meios a sua energia o seu interesse permitirem.
 
-## Tipos de conteúdo 
+## Tipos de conteúdo  {-}
 
-### Jogos
+### Jogos {-}
 
 Conteúdo audiovisual -- séries, filmes e jogos digitais -- tem um certo privilégio. Ele apresenta as palavras em _cenas_, e as _cenas_ nos ajudam a entender o que essas palavras significam. Eu acredito pessoalmente que os jogos digitais são os mais úteis meios de adquirir uma língua, já que eles exigem mais da sua atenção do que séries e filmes, e conseguem ser divertidos e engajantes mesmo a mercê da compreensão. 
 
@@ -50,7 +50,7 @@ Conteúdo audiovisual -- séries, filmes e jogos digitais -- tem um certo privil
 
 Não pule os diálogos e os trechos cinematográficos ("_cutscenes_").
 
-### Filmes, séries, documentários, noticiários etc.
+### Filmes, séries, documentários, noticiários etc. {-}
 
 O procedimento para aproveitar estes não difere muito de como se faria com jogos: apenas escolha algo do seu interesse e coloque a dublagem e a legenda na sua L2; preste atenção -- nada de ficar no celular fazendo outra coisa durante a imersão; não se preocupe em ficar voltando para entender tudo completamente e traduzir toda e qualquer passagem. Cabe, com certeza, pausar e rebobinar e tentar dar mais atenção àquelas cenas que parecem ser mais intensas e importantes para o desenvolvimento da trama. 
 
@@ -58,7 +58,7 @@ _Rebobinar não é proibido_, só não é _necessário_. Entender tudo _não é 
 
 Assista e confie. Mesmo não entendendo tudo, você estará aprendendo. Lembre-se do experimento proposto no início desta página.
 
-#### Séries
+#### Séries {-}
 
 Não é possível ignorar o potencial que as séries fornecem aos espectadores. _Sitcoms_ como Friends, Two and a Half Man e The Big Bang Theory possuem enorme valor. Esse tipo de material é especialmente útil pois ele trata do cotidiano. Nele você pode ver ser utilizado um linguajar mais comum e informal. A língua utilizada costuma ser mais flexível também. Em livros didáticos, em comparação, é comum que os diálogos e exercícios sejam engessados e utilizem uma língua artificial e exageradamente controlada. 
 
@@ -68,23 +68,23 @@ Claro, se você não gosta de _sitcoms_ ou séries de comédia, sinta-se à vont
 
 Séries também têm maior duração do que filmes, e portanto elas nos concedem um maior volume de conteúdo. Elas costumam, também, a girar mais ou menos em torno de um mesmo tema, então o vocabulário de cada série vai variar menos _dentro da série_ do que _entre séries_, o que pode nos ajudar na compreensão. Se você estiver vendo uma série sobre militares, naturalmente vão ser usadas mais palavras relacionadas a armas e hierarquias do que em uma série sobre um restaurante.
 
-#### Filmes e documentários
+#### Filmes e documentários {-}
 
 Filmes não ficam atrás: basta que você encontre um tema que você goste e procurar os filmes. Dependendo da língua que você está estudando, pode ser mais fácil encontrar filmes do que série. Os serviços de _streaming_ como a Netflix e a HBO, ou plataformas como CrunchyRoll, são de extrema valia. Não é tão fácil encontrar conteúdo pra todas as línguas nos serviços de _streaming_, e nem todo streaming tem um leque de línguas distribuído de forma igualitária. Pode ser mais fácil encontrar conteúdo em russo no Mubi e no YouTube do que na Netflix, por exemplo. O inglês, entretanto, está por toda parte, e é fácil encontrar todo tipo de material nessa língua. 
 
 O mesmo se aplica a documentários.
 
-#### Noticiários
+#### Noticiários {-}
 
 Noticiários costumam ser mais difíceis, pois costumam fazer uso de vocabulário técnico -- tratando de coisas como economia, política, acidentes, utilizando vocabulário jurídico, científico, etc. Se isso for do seu interesse e necessidade, então haverá utilidade, mas em geral o vocabulário em noticiários costuma ser mais rebuscado e formal.
 
-### Livros e podcasts
+### Livros e podcasts {-}
 
 É necessário ter algum grau de compreensão do vocabulário nesse tipo de material .Esse tipo de prática frequentemente precisa ser apoiada por alguma [ferramenta auxiliar][Sistemas de repetição espaçada]. Isso é especialmente verdade caso você esteja aprendendo uma língua muito diferente da nossa (como o alemão), mas se você estiver aprendendo algo como o espanhol é possível ler artigos e livros inteiros com um grau tolerável de dificuldade e incompreensão.
 
 Existem, entretanto, livros e podcasts nivelados, cujo intuito é justamente oferecer conteúdo I+1 para leitores e ouvintes em diferentes níveis de compreensão na língua. Estes são "didáticos", mas não no modelo convencional. Em vez disso, eles têm o objetivo de servirem _como_ imersão. Vamos tratar destes agora. 
 
-#### Livros
+#### Livros {-}
 
 Existem sites como o [lingua.com](https://www.lingua.com/) que disponibilizam conteúdos por escrito, separados por níveis ("leitura nivelada") que estão de acordo com a categorização do Quadro Europeu Comum de Referências para Línguas (CEFR). Pode-se compreender esta classificação da seguinte forma:
 
@@ -127,7 +127,7 @@ Esse tipo de uso, seja da palavra, seja de parte dela, não é comum na língua 
 
 Pode então ser mais confortável utilizar apenas métodos audiovisuais para aprender, principalmente no início, mas o alcance que eles nos conferem não é equiparável ao da leitura, principalmente nos níveis mais avançados. Assim, não tome a leitura como uma obrigação, principalmente no início, mas saiba que existe um certo grau de domínio sobre a língua que só pode ser acessado por meio dela.
 
-#### Podcasts
+#### Podcasts {-}
 
 Quanto aos podcasts, existem também produções voltadas justamente para estudantes da língua -- são os podcasts nivelados. Eu não conheço nenhum tão bom para o inglês ou qualquer outra língua quanto o do [https://www.youtube.com/@RussianWithMax][Russian with Max] é útil para o russo: ele realmente preenche todos os requisitos e é o que mais se aproxima do ideal. Você o verá falando de múltiplos assuntos, em um russo lento e simples, e ocasionalmente, quando necessário e em conformidade com o assunto, ele apresentará uma palavra nova e a explicará _em russo_, utilizando palavras comuns.
 
@@ -137,7 +137,7 @@ O que você quer, então, é simples: podcasts que falam na língua que você qu
 
 E claro, é perfeitamente válido utilizar podcasts normais, não-didáticos. Se mesmo com um grau de compreensão reduzida você conseguir manter o interesse neles, divirta-se.
 
-## Necessidade de ferramentas de apoio para a imersão
+## Necessidade de ferramentas de apoio para a imersão {-}
 
 No caso do inglês e de quaisquer outras mais diferentes da língua portuguesa que o Espanhol, inevitavelmente será necessário suplementar com algum tipo de ferramenta auxiliar. Todos podem se beneficiar destas ferramentas -- e, estrategicamente falando, é melhor utilizá-las do que deixar de fazê-lo, por qualquer que seja o motivo.
 
@@ -145,7 +145,7 @@ O benefício que elas trazem é justamente tornar o processo de aprendizado _mai
 
 Elas são os chamados "sistemas de repetição espaçada". Irei apresentá-las e demonstrar como utilizá-las nos capítulos seguintes. 
 
-## Resumo
+## Resumo {-}
 
 1. O início do processo de imersão é frustrante e causa ansiedade. Entretanto, aguente firme: fique algumas horas, acostume-se a não entender. Logo você se sentirá mais relaxado. Aí, apenas aproveite.
 2. Preste atenção. Não adianta "fingir" imersão, dando _play_ num filme e ficar usando o celular em vez de assisti-lo.

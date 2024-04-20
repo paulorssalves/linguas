@@ -1,4 +1,4 @@
-# Sistemas de escrita
+# Sistemas de escrita {-}
 
 Nesta página vamos abordar o "problema" dos sistemas de escrita. Para muita gente, aprender um alfabeto diferente parece um grande obstáculo; muitos postergam aprender uma língua do seu interesse em grande parte pelo fato de ter que aprender um novo sistema de escrita. Outras pessoas de alguma forma ficam meses estudando uma língua só pelos sons, sem nunca buscar compreender como funciona o sistema de escrita na língua em questão.
 
@@ -10,7 +10,7 @@ Vamos falar primeiro do elefente na sala: o sistema logográfico. Desses, conced
 
 Dito isso, vamos explorar duas formas de escrita diferentes aqui, só para ver que elas não são nenhum bicho de sete cabeças. Vamos abordar o alfabeto cirílico e o sistema árabe de escrita.
 
-## Alfabeto cirílico
+## Alfabeto cirílico {-}
 
 Esse é um sistema de escritom muito semelhante ao nosso e pode nos ser útil para aprendermos uma nova e diferente forma de escrever, que ao mesmo tempo também é relativamente fácil.
 
@@ -42,7 +42,7 @@ Existem nesse alfabeto alguns signos que não possuem análogo no nosso. Por exe
 
 É só questão de se acostumar com uma roupagem diferente.
 
-## Árabe
+## Árabe {-}
 
 Existem múltiplas línguas árabes. Algumas têm sinais que não existem em outras, sons que não existem em outras, mas todas remontam ao chamado "árabe clássico". O sistema de escrita do árabe é um "abjad". O hebraico usa um sistema semelhante, ainda que com signos diferentes. Entendo muito mais de hebraico do que de árabe, mas como o árabe é, às vezes humorosamente, utilizado como exemplo de "língua indecifrável", vou expor aqui algumas diretrizes para começar a entender como esses sistemas de escrita funcionam.
 
@@ -77,7 +77,7 @@ Assim, "cabana" é "كبن".
 
 Podemos ver que a escrita árabe é mais desafiadora do que a escrita russa para nós. Ela é difícil porque é muito diferente. Para um falante nativo de hebraico, compreender o sistema de escrita árabe é bem mais simples. Nós vimos apenas quatro letras aqui; há 28 no abjad árabe. Entretanto, a minha ideia aqui foi mostrar que existe uma lógica interna para essas línguas, e que tal lógica não está além do seu alcance. 
 
-## Conclusão
+## Conclusão {-}
 
 Se você quer aprender uma língua nova, não deixe um sistema de escrita diferente te impedir disso. O árabe pode parecer difícil, mas a verdade é que ele é apenas _muito diferente_. Com algumas semanas de dedicação é totalmente possível e factível dominar completamente um sistema de escrita desses.
 

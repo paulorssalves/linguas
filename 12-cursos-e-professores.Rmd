@@ -2,7 +2,7 @@
 
 Contratar tutores ou matricular-se num curso possui múltiplas vantagens. É necessário, entretanto, tomar cuidado com certos vícios. Vamos falar primeiro sobre professores particulares e tutores.
 
-## Professores particulares e tutores
+## Professores particulares e tutores {-}
 
 Eu acredito que um professor deve ser um tutor, e não um "ensinador de regras". Acaba que frequentemente os professores de língua gostam muito de gramática (eu mesmo gosto muito de gramática -- apenas não acredito no seu potencial didático), e acreditam que a forma _certa_ de ensinar e aprender uma língua é pela gramática.
 
@@ -35,7 +35,7 @@ Assim, a aula com um professor _deve também_ ser imersão. Mas se eu já pratic
 
 Dito isso, não é um problema, necessariamente, se vocês trabalharem com livros didáticos, desde que você esteja no nível desses livros didáticos. Ruim seria se você, lá na frente em boa parte da língua, fosse forçado a dar meia volta para garantir "degraus passados" estão adequadamente reforçados. A língua não é uma escada, mas uma espiral. Os degraus passados vão ser reforçados ao seguirmos em frente.
 
-## Cursos
+## Cursos {-}
 
 O maior benefício dos cursos é a socialização.
 
@@ -92,9 +92,6 @@ Mas eu repito: os melhores cursos de inglês no mercado utilizam esse método. P
 E por isso é tão difícil "fazer um curso" com ele.
 
 Sabendo disso, não pense que eu me oponho a cursos. Eu acredito verdadeiramente no potencial deles e reconheço que em certos casos, como para quem só sente motivação quando faz as coisas com amigos, ele pode ser _o único método_ que funciona. No que eu não acredito é na ideia que os cursos vendem: _a de que eles bastam_.
-
-## Resumo
-
 
 
 

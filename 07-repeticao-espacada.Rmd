@@ -32,7 +32,7 @@ Para resolver esse problema foi criado o Anki, um programa de computador ou apli
 
 Você **não deve** se apoiar apenas nos sistemas de repetição espaçada. Na verdade, é possível prescindir deles. Eles podem ser um pouco chatos, mas eles _agilizam_ o processo para nós. Sem eles, demoraria muito mais para adquirirmos a nossa L2. Todavia, eles sozinhos não bastam. O ideal é utilizá-los _junto_ com a imersão. Se a imersão sem eles é mais lenta quanto ao fornecimento de resultados, usá-los sem a imersão é esforçar-se inutilmente. **Eles são para a imersão**, e portanto não há motivo nenhum para utilizá-los que não seja para aumentar a potência da imersão.
 
-## Resumo
+## Resumo {-}
 
 1. Aplicativos auxiliares podem ter o papel de simples auxiliares ou de peças-chave no seu aprendizado de línguas. Eles não devem substituir a imersão, mas em certos casos a imersão sem eles seria muito mais difícil do que o necessário.
 3. O Duolingo é útil para aprender sistemas de escrita. Em certos casos, ele pode ser conveniente para aprender estruturas frasais. Contudo, não vale a pena passar muito tempo nele -- certamente não mais do que o primeiro ou segundo ciclo.
@@ -40,7 +40,7 @@ Você **não deve** se apoiar apenas nos sistemas de repetição espaçada. Na v
 4. Flashcards são uma ferramenta poderosa no aprendizado, pois nos ajudam a fortalecer as memórias a respeito de um certo tópico. O Anki é um software elaborado para tornar o manejo de flashcards mais cômodo.
 5. Flashcards têm o propósito de facilitar a imersão, nunca de substituí-la.
 
-# Anki: primeiros passos
+# Anki: primeiros passos {-}
 
 Antes de mais nada, o que é o Anki? 
 
@@ -77,9 +77,9 @@ A primeira coisa que é necessária é fazer o download do Anki. Isso pode ser f
 
 Embora ele possa ser utilizado em qualquer aparelho, algumas coisas ou são tornadas mais fáceis com o uso do computador, ou necessitam dele para sem realizadas. Por conta disso, começaremos falando dos computadores.
 
-## Utilizando o Anki no computador 
+## Utilizando o Anki no computador  {-}
 
-### Instalação
+### Instalação {-}
 
 É necessário antes de mais nada falar o download do Anki. Isso pode ser feito pelo site, https://apps.ankiweb.net/. Logo ao entrar no site você vai se deparar com um grande botão azul em que está escrito "Download". 
 
@@ -93,7 +93,7 @@ Clique no primeiro ou segundo botão e baixe uma das versões. A diferença entr
 
 Após ter feito o download do programa, abra o arquivo que você baixou e siga a instalação normalmente.(**detalhar mais essa parte**)
 
-## O menu de baralhos 
+## O menu de baralhos  {-}
 
 Ao abri-lo, você verá algo que se parecerá mais ou menos com isso:
 
@@ -111,7 +111,7 @@ Em "**Estatísticas**" é possível ver o nosso progresso, e ver um relatório d
 
 No menu "**Sincronizar**" você será convidado a fazer uma conta do AnkiWeb. Recomendo registrar-se. A utilidade em fazer isso é poder ter o mesmo material, no mesmo estado, tanto no seu atual computador como em outros computadores e também em smartphones. Isso elimina a redundância de ter que estudar a mesma coisa mais vezes do que o necessário, caso você utilize aparelhos diferentes.
 
-### Baralhos 
+### Baralhos  {-}
 
 O Anki não é um programa como o Duolingo, em que você já tem um "curso" pronto para você. Aqui você monta o seu material. Por isso você pode ver um Baralho chamado _Padrão_, que está vazio. Se você clicar nele você será recebido com uma mensagem que diz "Parabéns! Você terminou este baralho por enquanto", o que é um pouco fora do tom, já que ele está vazio.
 
@@ -127,7 +127,7 @@ Se você clicar em qualquer um desses decks, ao rolar para baixo você encontrar
 
 É aqui que entra a utilidade do outro botão, `Importar arquivo`. Nele você pode importar os baralhos que você baixa pela Internet, ou pode importar arquivos `.csv` contendo as cartas que você quer criar. Trabalharemos adiante.
 
-## Adicionar: Criando cartas 
+## Adicionar: Criando cartas  {-}
 
 Você pode explorar baixar um baralho qualquer, ou criar o seu próprio. Há grande vantagem em baixar baralhos prontos: eles nos poupam de um grande trabalho -- criar baralhos à mão leva tempo.
 
@@ -141,7 +141,7 @@ Dito isso, vamos aprender agora como elaborar nossas próprias cartas.
 
 Há duas formas de criar cartas: dentro do Anki (processo mais lento, mas mais controlado) e por meio de planilhas. Acredito que o segundo é mais conveniente e confortável, mas, para nos familiarizarmos mais com a interface do Anki, comecemos com o primeiro.
 
-### Criando cartas pelo Anki
+### Criando cartas pelo Anki {-}
 
 Ao clicar em "Adicionar", você se deparará com a seguinte tela:
 
@@ -219,7 +219,7 @@ Faça isso com todas as cartas do dia. Ao abrir o Anki novamente amanhã (pois u
 
 A aparência das cartas do Anki pode ser... simples demais. É possível customizá-la para torná-la mais rica. Vamos ver como fazer isso em [Anki: customização de baralhos].
 
-## Criando cartas em planilhas
+## Criando cartas em planilhas {-}
 
 Uma forma mais rápida de criar múltiplas cartas de uma só vez é usando um programa de edição de planilhas como o Microsoft Excel, LibreOffice Calc ou Google Sheets. Por motivos de acessibilidade, usarei aqui o Google Sheets.
 
@@ -269,7 +269,7 @@ Por outro lado, digamos que você tenha assistido uma peça francesa e percebido
 
 Eu pessoalmente acho que utilizar uma planilha para montar as cartas é mais conveniente do que a própria interface do Anki. Aqui, você pode fazer as coisas de forma mais cômoda.
 
-## Práticas para elaborar flashcards
+## Práticas para elaborar flashcards {-}
 
 Nesta página tem uma coisa que ficou subentendida: é necessário que você pesquise e monte suas próprias cartas. Sim, mesmo que você utilize um baralho disponibilizado online, é interessante que você monte as suas próprias cartas com o tempo. Esses baralhos vão abordar o que é _comum_ na língua. Os [próprios baralhos que eu elaborei] têm como orientação a frequência das palavras na língua.
 
@@ -300,7 +300,7 @@ Portanto, é simples: **os flashcards que você monta devem estar associados aos
 
 Não recomendo, entretanto, aprender múltiplas línguas simultaneamente se a sua intenção for alcançar um nível de compreensão e expressão avançados em ambas as línguas. O motivo disso é simples: aprender uma língua só é trabalho o suficiente, e exige esforço. Aprender duas ou mais ao mesmo tempo apenas resultaria numa difusão dos nossos esforços, o que pode nos deixar sobrecarregados e/ou fazer com que tenhamos um progresso mais lento. Todavia, se um progresso mais lento não for um problema para você, ou se você não quer exatamente "alcançar" um nível de expressão ou compreensão, mas apenas aprender um ou mais textos (digamos, aprender a letra do Ode à Alegria de Beethoven em alemão e alguns poemas em francês), não há por que se preocupar com isso.
 
-## Utilizando o Anki pelo celular
+## Utilizando o Anki pelo celular {-}
 
 Para encerrar esta sessão, vou abordar como empregar esse sistema auxiliar para uso em um smartphone. Se você usa Android, o Anki pode ser baixado gratuitamente pelo nome de _AnkiDroid_ na [Play Store](https://play.google.com/store/apps/details?id=com.ichi2.anki). Entretanto, se você usa iOS, será necessário comprar o aplicativo _AnkiMobile_ na [App Store](https://apps.apple.com/us/app/ankimobile-flashcards/id373493387). Uma alternativa para os usuários de iPhone que não querem pagar é acessar o AnkiWeb pelo navegador e fazer os seus estudos por lá -- menos confortável, mas certamente válido.
 
@@ -347,7 +347,7 @@ E _voilà!_ Tudo está pronto. Agora sempre você abrir ou fechar o aplicativo e
 
 **Atenção**: se você não sincronizar sempre que estudar, seja no computador, seja no celular, você pode ter problemas de conflito com o estado do seu baralho. Se houver conflito, você vai ter que apagar um dos estados (ou o que está na Nuvem, ou o que está no aparelho que você está utilizando). Sempre que você sincronizar, o que você acabou de estudar terá ido para a nuvem. Se a última alteração que você tiver feito no seu baralho for a versão que está na nuvem, diante de um tal conflito, selecione "Fazer o Download do AnkiWeb". Se não for -- caso você tenha feito alterações locais que ainda não foram enviadas para a nuvem, e estas forem mais recentes e/ou importantes do que o que está na nuvem -- então selecione "Enviar para o AnkiWeb". Na versão Mobile, ele te perguntará: "qual versão você deseja manter", e então você deverá selecionar _AnkiWeb_ (o que está na nuvem) ou _AnkiDroid_ (a versão local). O estado diferente do que for selecionado será deletado. É necessário cuidado aqui. Para evitar isso, convém habilitar a sincronização automática, como exposto acima.
 
-# Anki: plugins e AwesomeTTS
+# Anki: plugins e AwesomeTTS {-}
 
 Já sabendo como adicionar cartas, você ter o interesse de adicionar som a elas. Claro, isso não é exatamente necessário, mas é um auxílio a mais, principalmente se você estiver estudando uma língua que não tenha uma correspondência entre letra e som tão próxima como o português. Em inglês, por exemplo, as palavras "streak", "break" e "steak"^[Elas soam, respectivamente, como "/strik/", "/brêik/" e "/stêik/"] não têm uma sonoridade previsível apesar de serem parecidas na grafia. Assim, ter um auxílio de pronúncia pode vir a calhar.
 
@@ -358,7 +358,7 @@ Adicionar som ao Anki pode ser feito de duas formas:
 
 2. Mais convenientemente, você pode usar _plugin_ que emprega serviços como o Google Tradutor para ler em voz alta a palavra (ou frase) desejada. Aqui nós aprenderemos a fazer isso.
 
-## Instalando plugins
+## Instalando plugins {-}
 
 O processo de instalação de plugins no Anki é simples. Basta seguir a direção exposta na imagem a seguir:
 
@@ -386,7 +386,7 @@ Depois disso, basta clicar em `OK` que o download da extensão será feita. Feit
 
 Agora veremos como usá-la.
 
-## O menu `Painel`
+## O menu `Painel` {-}
 
 Para usar o AwesomeTTS de forma eficiente, nós precisamos navegar pelo menu `Painel` do Anki. Basta clicar em `Painel`, no mesmo menu em que se encontra as opções `Baralho`, `Adicionar`, `Estatísticas`e `Sincronizar`.
 
@@ -449,7 +449,7 @@ No próximo capítulo nós aprenderemos a adicionar diferentes campos ao baralho
 
 Vimos aqui como utilizar a extensão _AwesomeTTS_ para adicionar som ao Anki. Existem múltiplas outras extensões, umas apenas como valor estético (como o _Minimal Theme_), outras para nos fornecer um panorama geral da nossa frequência de estudo (como o _Review Heatmap_) e ainda há outros que adicionam diferentes funcionalidades ao Anki: memorização de poemas, leitura de PDFs, treinamento para escrita de _Kanji_ para quem está estudando japonês, e muitos outros. Há uma enorme variedade. Caso você tenha alguma demanda que o Anki padrão não cobre, é possível que você encontre uma extensão que serve justamente para ela na página de _plugins_ do Anki.
 
-# Anki: customização de baralhos 
+# Anki: customização de baralhos  {-}
 
 Há certas palavras que possuem muitos significados, e que só o contexto vai poder nos dizer com segurança qual deles deve ser considerado. Há também algumas que talvez possuam um só significado, mas que podem ser especialmente difíceis de memorizar, seja por ser rara, seja por parecer com outras, seja por não se conectar muito bem com o nosso mundo pessoal. 
 
@@ -461,7 +461,7 @@ A proposição continua de pé, entretanto: quanto mais conexões conseguimos fa
 
 É claro, podemos simplesmente ir inserindo informação nos campos de `Frente` e `Verso` na hora de criarmos as nossas cartas, mas isso pode facilmente virar uma bagunça. Uma forma de evitarmos esse tipo de confusão é criar novos campos para as nossas cartas. Para não alterar de forma indesejável as cartas que já existem, vamos criar um tipo novo de carta.
 
-## Criando diferentes tipos de notas
+## Criando diferentes tipos de notas {-}
 
 A primeira coisa que deve ser feita é abrir o menu de edição de notas, sinalizado pelo título "Gerenciar Tipos de Notas":
 
@@ -497,7 +497,7 @@ Clique em `Salvar` e _voilà_, você criou novos campos para esse tipo de _flash
 
 Por ora, entretanto, isso não vai mudar nada nas nossas vidas. Nós criamos novos possíveis campos para o nosso "Tipo de carta" que nomeamos "Básico com exemplos". Agora precisamos adicionar estes campos ao cartão.
 
-## Editando 
+## Editando  {-}
 
 Para fazer essa adição, ainda selecionado o nosso tipo de cartão recém criado ("Básico com exemplos"), clique em `Cartões`. Você verá algo parecido com a seguinte tela:
 
@@ -559,7 +559,7 @@ Está feito! A inserção de diferentes campos pode nos ajudar a colocar informa
 
 Mas dito isso, pode ser útil considerar como podemos organizar planilhas para criar cartas com esses múltiplos novos campos. Veremos isso agora.
 
-## Usando planilhas para criar cartas com múltiplos campos
+## Usando planilhas para criar cartas com múltiplos campos {-}
 
 A princípio, a ordem dos campos (definida no menu `Campos` na hora de criá-los) é a ordem das colunas da planilha, da seguinte forma: 
 
@@ -581,11 +581,11 @@ Podemos deixar as nossas cartas mais atraentes ou mais didáticas utilizando HTM
 
 Contudo, HTML e CSS são um assunto bem técnico e especializado -- sendo sobretudo parte da ocupação de desenvolvedores e designers de websites. Não entraremos a fundo -- apenas veremos o básico do básico, para termos noção do que é possível. Caso você queira se aprofundar neste tema, há múltiplos recursos. Um que eu recomendo é a trilha de HTML e CSS do [Khan Academy](https://pt.khanacademy.org/computing/computer-programming/html-css).
 
-## HTML e CSS
+## HTML e CSS {-}
 
 Esta seção é puramente técnica e estética. Se você não aguenta mais ficar olhando para a tela branca do seu baralho do Anki, você pode usar o conteúdo que você vai aprender aqui Se editar mexer com código de computador te causa ansiedade, saiba que deixar esse capítulo de lado não vai impedir você de aproveitar este método. Dito isso, se você seguir adiante e lê-lo, perceberá que não é tão difícil quanto parece.
 
-### HTML no conteúdo das cartas 
+### HTML no conteúdo das cartas  {-}
 Como é que o Anki faz com que certas palavras ou frases fiquem em negrito, itálico ou colorido? Ele usa HTML.
 
 
@@ -615,7 +615,7 @@ E assim por diante. É aqui que entra o valor da função `Permitir HTML em camp
 
 Porém não é apenas o conteúdo do texto que pode ser editado usando HTML. Você pode editar a própria aparência da carta utilizando-o.
 
-### HTML na estrutura das cartas
+### HTML na estrutura das cartas {-}
 
 Vamos voltar ao campo `Cartões` do menu de edição do tipo de nota. Selecione o `Tipo` "Básico com Exemplos" e clique em `Cartões`. Você será recebido com o modelo de carta que criamos anteriormente. 
 
@@ -625,7 +625,7 @@ Eis o que faremos com essas cartas:
 
 Mãos à obra.
 
-#### Alteração do plano de fundo
+#### Alteração do plano de fundo {-}
 
 Clique em `Estilo`. Você está vendo um pedaço de código CSS.
 
@@ -728,7 +728,7 @@ Que ao salvarmos (clicando em `Salvar`) e vermos sendo utilizado de fato em uma 
 
 E claro, a forma como fazer isso é questão de gosto. Você pode preferir outras cores, ou mudar a ordem dos elementos, ou deixar uma coisa maior do que a outra, ou o que quer que seja. O que importa é que você saiba que, caso você queira, você pode editar a aparência das suas cartas para a forma que você quiser.
 
-# Anki: conclusão
+# Anki: conclusão {-}
 
 Nós acabamos de ver um bocado a respeito do Anki. Para a maioria, apenas o primeir o e talvez o segundo capítulo seriam verdadeiramente necessários. A minha intenção aqui foi fornecer uma visão completa do Anki -- mas não exaustiva. Nós não vimos _tudo_  do que o Anki é capaz, nem editamos cada uma das configurações que são passíveis de serem editadas. Se fizéssemos isso, ficaríamos horas e horas e horas aqui, e seria maçante. Portanto, caso seja do seu interesse, você tem mais do que o necessário aqui para explorar por conta própria as funcionalidades deste programa.
 
