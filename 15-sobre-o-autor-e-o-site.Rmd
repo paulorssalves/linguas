@@ -1,6 +1,6 @@
 # Sobre {-}
 
-## Sobre este site 
+## Sobre este site  {-}
 
 Não fui eu que inventei este método. Há décadas ele é trabalhado e divulgado por pesquisadores e professores como Stephen Krashen. Em outros países, há pessoas de fora das universidades que também falam abertamente a respeito desta forma de aprender. Mesmo no Brasil eu não sou o primeiro a divulgá-lo.
 
@@ -10,7 +10,7 @@ Por que eu quis fazer isso? Porque inúmeras vezes eu estive com pessoas que dem
 
 Este site foi profundamente inspirado pelo Refold.La, pelo trabalho do autor do canal do YouTube "Matt vs. Japan", pelo trabalho de Stephen Krashen, pela minha experiência própria e pelos meus alunos e amigos.
 
-### Sobre o nome do site
+### Sobre o nome do site {-}
 
 "Irídula" é uma palavra que consta no primeiro canto do poema "Fogo pálido" de Nabokov... e em mais nenhum outro lugar. Não existe em nenhum dicionário. Ainda assim, pelo contexto e pela descrição que ele faz dela, acredito ser perfeitamente possível compreender o seu significado. Portanto, ela serve de um bom exemplo de "aprendizado por contexto", que é boa parte do cerne deste website. Segue o trecho:
 
@@ -34,7 +34,7 @@ Que cai talvez num longínquo vale.
 >
 Pois mão de artista em jaula nos prendeu...
 
-## Sobre o autor
+## Sobre o autor {-}
 
 Meu nome é [Paulo](https://www.instagram.com/paulorssalves). Sou psicólogo formado pela UERJ e tenho dado aulas de inglês desde 2016, tanto em curso quanto como professor particular. Atualmente (2024) atuo como psicoterapeuta e faço mestrado em Psicologia Social.
 
