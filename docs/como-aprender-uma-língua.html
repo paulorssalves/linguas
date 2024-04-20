@@ -1,0 +1,457 @@
+<!DOCTYPE html>
+<html lang="" xml:lang="">
+<head>
+
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <title>Irídula</title>
+  <meta name="description" content="Irídula" />
+  <meta name="generator" content="bookdown 0.34 and GitBook 2.6.7" />
+
+  <meta property="og:title" content="Irídula" />
+  <meta property="og:type" content="book" />
+  
+  
+  
+
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:title" content="Irídula" />
+  
+  
+  
+
+
+
+
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+  
+  
+
+<link rel="next" href="introdução.html"/>
+<script src="libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/fuse.js@6.4.6/dist/fuse.min.js"></script>
+<link href="libs/gitbook-2.6.7/css/style.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-table.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-bookdown.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-highlight.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-search.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-fontsettings.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-clipboard.css" rel="stylesheet" />
+
+
+
+
+
+
+
+
+<link href="libs/anchor-sections-1.1.0/anchor-sections.css" rel="stylesheet" />
+<link href="libs/anchor-sections-1.1.0/anchor-sections-hash.css" rel="stylesheet" />
+<script src="libs/anchor-sections-1.1.0/anchor-sections.js"></script>
+
+
+<style type="text/css">
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+    color: #aaaaaa;
+  }
+pre.numberSource { margin-left: 3em; border-left: 1px solid #aaaaaa;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+}
+code span.al { color: #ff0000; font-weight: bold; } /* Alert */
+code span.an { color: #60a0b0; font-weight: bold; font-style: italic; } /* Annotation */
+code span.at { color: #7d9029; } /* Attribute */
+code span.bn { color: #40a070; } /* BaseN */
+code span.bu { color: #008000; } /* BuiltIn */
+code span.cf { color: #007020; font-weight: bold; } /* ControlFlow */
+code span.ch { color: #4070a0; } /* Char */
+code span.cn { color: #880000; } /* Constant */
+code span.co { color: #60a0b0; font-style: italic; } /* Comment */
+code span.cv { color: #60a0b0; font-weight: bold; font-style: italic; } /* CommentVar */
+code span.do { color: #ba2121; font-style: italic; } /* Documentation */
+code span.dt { color: #902000; } /* DataType */
+code span.dv { color: #40a070; } /* DecVal */
+code span.er { color: #ff0000; font-weight: bold; } /* Error */
+code span.ex { } /* Extension */
+code span.fl { color: #40a070; } /* Float */
+code span.fu { color: #06287e; } /* Function */
+code span.im { color: #008000; font-weight: bold; } /* Import */
+code span.in { color: #60a0b0; font-weight: bold; font-style: italic; } /* Information */
+code span.kw { color: #007020; font-weight: bold; } /* Keyword */
+code span.op { color: #666666; } /* Operator */
+code span.ot { color: #007020; } /* Other */
+code span.pp { color: #bc7a00; } /* Preprocessor */
+code span.sc { color: #4070a0; } /* SpecialChar */
+code span.ss { color: #bb6688; } /* SpecialString */
+code span.st { color: #4070a0; } /* String */
+code span.va { color: #19177c; } /* Variable */
+code span.vs { color: #4070a0; } /* VerbatimString */
+code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warning */
+</style>
+
+<style type="text/css">
+  
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+</style>
+
+</head>
+
+<body>
+
+
+
+  <div class="book without-animation with-summary font-size-2 font-family-1" data-basepath=".">
+
+    <div class="book-summary">
+      <nav role="navigation">
+
+<ul class="summary">
+<li class="chapter" data-level="" data-path="como-aprender-uma-língua.html"><a href="como-aprender-uma-língua.html"><i class="fa fa-check"></i>Como aprender uma língua</a>
+<ul>
+<li class="chapter" data-level="" data-path="como-aprender-uma-língua.html"><a href="como-aprender-uma-língua.html#motivação"><i class="fa fa-check"></i>Motivação</a></li>
+<li class="chapter" data-level="" data-path="como-aprender-uma-língua.html"><a href="como-aprender-uma-língua.html#imersão"><i class="fa fa-check"></i>Imersão</a></li>
+<li class="chapter" data-level="0.1" data-path="como-aprender-uma-língua.html"><a href="como-aprender-uma-língua.html#características-do-conteúdo-para-imersão"><i class="fa fa-check"></i><b>0.1</b> Características do conteúdo para imersão</a>
+<ul>
+<li class="chapter" data-level="0.1.1" data-path="como-aprender-uma-língua.html"><a href="como-aprender-uma-língua.html#audiovisual-jogos-filmes-e-séries"><i class="fa fa-check"></i><b>0.1.1</b> Audiovisual: jogos, filmes e séries</a></li>
+<li class="chapter" data-level="0.1.2" data-path="como-aprender-uma-língua.html"><a href="como-aprender-uma-língua.html#livros-e-podcasts"><i class="fa fa-check"></i><b>0.1.2</b> Livros e Podcasts</a></li>
+</ul></li>
+<li class="chapter" data-level="0.2" data-path="como-aprender-uma-língua.html"><a href="como-aprender-uma-língua.html#ferramentas-auxiliares"><i class="fa fa-check"></i><b>0.2</b> Ferramentas auxiliares</a></li>
+<li class="chapter" data-level="0.3" data-path="como-aprender-uma-língua.html"><a href="como-aprender-uma-língua.html#a-habilidade-da-fala"><i class="fa fa-check"></i><b>0.3</b> A habilidade da fala</a></li>
+<li class="chapter" data-level="0.4" data-path="como-aprender-uma-língua.html"><a href="como-aprender-uma-língua.html#o-papel-da-gramática"><i class="fa fa-check"></i><b>0.4</b> O papel da gramática</a></li>
+<li class="chapter" data-level="0.5" data-path="como-aprender-uma-língua.html"><a href="como-aprender-uma-língua.html#a-importância-do-interesse"><i class="fa fa-check"></i><b>0.5</b> A importância do interesse</a></li>
+<li class="chapter" data-level="0.6" data-path="como-aprender-uma-língua.html"><a href="como-aprender-uma-língua.html#conclusão"><i class="fa fa-check"></i><b>0.6</b> Conclusão</a></li>
+</ul></li>
+<li class="chapter" data-level="1" data-path="introdução.html"><a href="introdução.html"><i class="fa fa-check"></i><b>1</b> Introdução</a>
+<ul>
+<li class="chapter" data-level="1.1" data-path="introdução.html"><a href="introdução.html#resumo"><i class="fa fa-check"></i><b>1.1</b> Resumo</a></li>
+</ul></li>
+<li class="chapter" data-level="" data-path="a-motivação.html"><a href="a-motivação.html"><i class="fa fa-check"></i>A motivação</a>
+<ul>
+<li class="chapter" data-level="1.2" data-path="a-motivação.html"><a href="a-motivação.html#resumo-1"><i class="fa fa-check"></i><b>1.2</b> Resumo</a></li>
+</ul></li>
+<li class="chapter" data-level="" data-path="a-diferença-entre-aprendizado-e-aquisição.html"><a href="a-diferença-entre-aprendizado-e-aquisição.html"><i class="fa fa-check"></i>A diferença entre aprendizado e aquisição</a>
+<ul>
+<li class="chapter" data-level="" data-path="a-diferença-entre-aprendizado-e-aquisição.html"><a href="a-diferença-entre-aprendizado-e-aquisição.html#resumo-2"><i class="fa fa-check"></i>Resumo</a></li>
+</ul></li>
+<li class="chapter" data-level="2" data-path="como-adquirir-uma-língua.html"><a href="como-adquirir-uma-língua.html"><i class="fa fa-check"></i><b>2</b> Como adquirir uma língua</a>
+<ul>
+<li class="chapter" data-level="2.1" data-path="como-adquirir-uma-língua.html"><a href="como-adquirir-uma-língua.html#resumo-3"><i class="fa fa-check"></i><b>2.1</b> Resumo</a></li>
+</ul></li>
+<li class="chapter" data-level="3" data-path="melhores-conteúdos-para-aprender-uma-língua.html"><a href="melhores-conteúdos-para-aprender-uma-língua.html"><i class="fa fa-check"></i><b>3</b> Melhores conteúdos para aprender uma língua</a>
+<ul>
+<li class="chapter" data-level="3.1" data-path="melhores-conteúdos-para-aprender-uma-língua.html"><a href="melhores-conteúdos-para-aprender-uma-língua.html#i1"><i class="fa fa-check"></i><b>3.1</b> I+1</a></li>
+<li class="chapter" data-level="3.2" data-path="melhores-conteúdos-para-aprender-uma-língua.html"><a href="melhores-conteúdos-para-aprender-uma-língua.html#tipos-de-conteúdo"><i class="fa fa-check"></i><b>3.2</b> Tipos de conteúdo</a>
+<ul>
+<li class="chapter" data-level="3.2.1" data-path="melhores-conteúdos-para-aprender-uma-língua.html"><a href="melhores-conteúdos-para-aprender-uma-língua.html#jogos"><i class="fa fa-check"></i><b>3.2.1</b> Jogos</a></li>
+<li class="chapter" data-level="3.2.2" data-path="melhores-conteúdos-para-aprender-uma-língua.html"><a href="melhores-conteúdos-para-aprender-uma-língua.html#filmes-séries-documentários-noticiários-etc."><i class="fa fa-check"></i><b>3.2.2</b> Filmes, séries, documentários, noticiários etc.</a></li>
+<li class="chapter" data-level="3.2.3" data-path="melhores-conteúdos-para-aprender-uma-língua.html"><a href="melhores-conteúdos-para-aprender-uma-língua.html#livros-e-podcasts-1"><i class="fa fa-check"></i><b>3.2.3</b> Livros e podcasts</a></li>
+</ul></li>
+<li class="chapter" data-level="3.3" data-path="melhores-conteúdos-para-aprender-uma-língua.html"><a href="melhores-conteúdos-para-aprender-uma-língua.html#necessidade-de-ferramentas-de-apoio-para-a-imersão"><i class="fa fa-check"></i><b>3.3</b> Necessidade de ferramentas de apoio para a imersão</a></li>
+<li class="chapter" data-level="3.4" data-path="melhores-conteúdos-para-aprender-uma-língua.html"><a href="melhores-conteúdos-para-aprender-uma-língua.html#resumo-4"><i class="fa fa-check"></i><b>3.4</b> Resumo</a></li>
+</ul></li>
+<li class="chapter" data-level="" data-path="ferramentas-auxiliares-no-aprendizado-de-línguas.html"><a href="ferramentas-auxiliares-no-aprendizado-de-línguas.html"><i class="fa fa-check"></i>Ferramentas auxiliares no aprendizado de línguas</a>
+<ul>
+<li class="chapter" data-level="" data-path="ferramentas-auxiliares-no-aprendizado-de-línguas.html"><a href="ferramentas-auxiliares-no-aprendizado-de-línguas.html#o-uso-de-aplicativos"><i class="fa fa-check"></i>O uso de aplicativos</a></li>
+<li class="chapter" data-level="" data-path="ferramentas-auxiliares-no-aprendizado-de-línguas.html"><a href="ferramentas-auxiliares-no-aprendizado-de-línguas.html#sistemas-de-repetição-espaçada"><i class="fa fa-check"></i>Sistemas de repetição espaçada</a></li>
+<li class="chapter" data-level="3.5" data-path="ferramentas-auxiliares-no-aprendizado-de-línguas.html"><a href="ferramentas-auxiliares-no-aprendizado-de-línguas.html#resumo-5"><i class="fa fa-check"></i><b>3.5</b> Resumo</a></li>
+</ul></li>
+<li class="chapter" data-level="4" data-path="anki-primeiros-passos.html"><a href="anki-primeiros-passos.html"><i class="fa fa-check"></i><b>4</b> Anki: primeiros passos</a>
+<ul>
+<li class="chapter" data-level="4.1" data-path="anki-primeiros-passos.html"><a href="anki-primeiros-passos.html#utilizando-o-anki-no-computador"><i class="fa fa-check"></i><b>4.1</b> Utilizando o Anki no computador</a>
+<ul>
+<li class="chapter" data-level="4.1.1" data-path="anki-primeiros-passos.html"><a href="anki-primeiros-passos.html#instalação"><i class="fa fa-check"></i><b>4.1.1</b> Instalação</a></li>
+</ul></li>
+<li class="chapter" data-level="4.2" data-path="anki-primeiros-passos.html"><a href="anki-primeiros-passos.html#o-menu-de-baralhos"><i class="fa fa-check"></i><b>4.2</b> O menu de baralhos</a>
+<ul>
+<li class="chapter" data-level="4.2.1" data-path="anki-primeiros-passos.html"><a href="anki-primeiros-passos.html#baralhos"><i class="fa fa-check"></i><b>4.2.1</b> Baralhos</a></li>
+</ul></li>
+<li class="chapter" data-level="4.3" data-path="anki-primeiros-passos.html"><a href="anki-primeiros-passos.html#adicionar-criando-cartas"><i class="fa fa-check"></i><b>4.3</b> Adicionar: Criando cartas</a>
+<ul>
+<li class="chapter" data-level="4.3.1" data-path="anki-primeiros-passos.html"><a href="anki-primeiros-passos.html#criando-cartas-pelo-anki"><i class="fa fa-check"></i><b>4.3.1</b> Criando cartas pelo Anki</a></li>
+</ul></li>
+<li class="chapter" data-level="4.4" data-path="anki-primeiros-passos.html"><a href="anki-primeiros-passos.html#criando-cartas-em-planilhas"><i class="fa fa-check"></i><b>4.4</b> Criando cartas em planilhas</a></li>
+<li class="chapter" data-level="4.5" data-path="anki-primeiros-passos.html"><a href="anki-primeiros-passos.html#práticas-para-elaborar-flashcards"><i class="fa fa-check"></i><b>4.5</b> Práticas para elaborar flashcards</a></li>
+<li class="chapter" data-level="4.6" data-path="anki-primeiros-passos.html"><a href="anki-primeiros-passos.html#utilizando-o-anki-pelo-celular"><i class="fa fa-check"></i><b>4.6</b> Utilizando o Anki pelo celular</a></li>
+</ul></li>
+<li class="chapter" data-level="5" data-path="anki-plugins-e-awesometts.html"><a href="anki-plugins-e-awesometts.html"><i class="fa fa-check"></i><b>5</b> Anki: plugins e AwesomeTTS</a>
+<ul>
+<li class="chapter" data-level="5.1" data-path="anki-plugins-e-awesometts.html"><a href="anki-plugins-e-awesometts.html#instalando-plugins"><i class="fa fa-check"></i><b>5.1</b> Instalando plugins</a></li>
+<li class="chapter" data-level="5.2" data-path="anki-plugins-e-awesometts.html"><a href="anki-plugins-e-awesometts.html#o-menu-painel"><i class="fa fa-check"></i><b>5.2</b> O menu <code>Painel</code></a></li>
+</ul></li>
+<li class="chapter" data-level="6" data-path="anki-customização-de-baralhos.html"><a href="anki-customização-de-baralhos.html"><i class="fa fa-check"></i><b>6</b> Anki: customização de baralhos</a>
+<ul>
+<li class="chapter" data-level="6.1" data-path="anki-customização-de-baralhos.html"><a href="anki-customização-de-baralhos.html#criando-diferentes-tipos-de-notas"><i class="fa fa-check"></i><b>6.1</b> Criando diferentes tipos de notas</a></li>
+<li class="chapter" data-level="6.2" data-path="anki-customização-de-baralhos.html"><a href="anki-customização-de-baralhos.html#editando"><i class="fa fa-check"></i><b>6.2</b> Editando</a></li>
+<li class="chapter" data-level="6.3" data-path="anki-customização-de-baralhos.html"><a href="anki-customização-de-baralhos.html#usando-planilhas-para-criar-cartas-com-múltiplos-campos"><i class="fa fa-check"></i><b>6.3</b> Usando planilhas para criar cartas com múltiplos campos</a></li>
+<li class="chapter" data-level="6.4" data-path="anki-customização-de-baralhos.html"><a href="anki-customização-de-baralhos.html#html-e-css"><i class="fa fa-check"></i><b>6.4</b> HTML e CSS</a>
+<ul>
+<li class="chapter" data-level="6.4.1" data-path="anki-customização-de-baralhos.html"><a href="anki-customização-de-baralhos.html#html-no-conteúdo-das-cartas"><i class="fa fa-check"></i><b>6.4.1</b> HTML no conteúdo das cartas</a></li>
+<li class="chapter" data-level="6.4.2" data-path="anki-customização-de-baralhos.html"><a href="anki-customização-de-baralhos.html#html-na-estrutura-das-cartas"><i class="fa fa-check"></i><b>6.4.2</b> HTML na estrutura das cartas</a></li>
+</ul></li>
+</ul></li>
+<li class="chapter" data-level="7" data-path="anki-conclusão.html"><a href="anki-conclusão.html"><i class="fa fa-check"></i><b>7</b> Anki: conclusão</a></li>
+<li class="chapter" data-level="" data-path="a-interação-entre-repetição-espaçada-e-imersão.html"><a href="a-interação-entre-repetição-espaçada-e-imersão.html"><i class="fa fa-check"></i>A interação entre repetição espaçada e imersão</a></li>
+<li class="chapter" data-level="" data-path="o-desenvolvimento-da-fala.html"><a href="o-desenvolvimento-da-fala.html"><i class="fa fa-check"></i>O desenvolvimento da fala</a>
+<ul>
+<li class="chapter" data-level="7.0.1" data-path="o-desenvolvimento-da-fala.html"><a href="o-desenvolvimento-da-fala.html#regras"><i class="fa fa-check"></i><b>7.0.1</b> Regras</a></li>
+<li class="chapter" data-level="7.0.2" data-path="o-desenvolvimento-da-fala.html"><a href="o-desenvolvimento-da-fala.html#vocabulário"><i class="fa fa-check"></i><b>7.0.2</b> Vocabulário</a></li>
+<li class="chapter" data-level="7.0.3" data-path="o-desenvolvimento-da-fala.html"><a href="o-desenvolvimento-da-fala.html#prática-language-parents"><i class="fa fa-check"></i><b>7.0.3</b> Prática: <em>language parents</em></a></li>
+<li class="chapter" data-level="" data-path="o-desenvolvimento-da-fala.html"><a href="o-desenvolvimento-da-fala.html#resumo-6"><i class="fa fa-check"></i>Resumo</a></li>
+</ul></li>
+<li class="chapter" data-level="" data-path="ansiedade-de-exposição.html"><a href="ansiedade-de-exposição.html"><i class="fa fa-check"></i>Ansiedade de exposição</a>
+<ul>
+<li class="chapter" data-level="7.1" data-path="ansiedade-de-exposição.html"><a href="ansiedade-de-exposição.html#o-medo-de-se-expor"><i class="fa fa-check"></i><b>7.1</b> O medo de se expor</a></li>
+<li class="chapter" data-level="7.2" data-path="ansiedade-de-exposição.html"><a href="ansiedade-de-exposição.html#o-medo-de-não-entender"><i class="fa fa-check"></i><b>7.2</b> O medo de não entender</a></li>
+<li class="chapter" data-level="7.3" data-path="ansiedade-de-exposição.html"><a href="ansiedade-de-exposição.html#o-medo-de-falar-errado"><i class="fa fa-check"></i><b>7.3</b> O medo de falar errado</a>
+<ul>
+<li class="chapter" data-level="7.3.1" data-path="ansiedade-de-exposição.html"><a href="ansiedade-de-exposição.html#interlúdio-o-desejo-de-falar-perfeitamente"><i class="fa fa-check"></i><b>7.3.1</b> Interlúdio: o desejo de falar perfeitamente</a></li>
+<li class="chapter" data-level="7.3.2" data-path="ansiedade-de-exposição.html"><a href="ansiedade-de-exposição.html#como-de-fato-perder-o-medo-de-falar"><i class="fa fa-check"></i><b>7.3.2</b> Como de fato perder o medo de falar</a></li>
+</ul></li>
+<li class="chapter" data-level="7.4" data-path="ansiedade-de-exposição.html"><a href="ansiedade-de-exposição.html#eu-já-deveria-estar-sabendo-disso"><i class="fa fa-check"></i><b>7.4</b> “Eu já deveria estar sabendo disso”</a></li>
+<li class="chapter" data-level="7.5" data-path="ansiedade-de-exposição.html"><a href="ansiedade-de-exposição.html#práticas-errôneas-comuns"><i class="fa fa-check"></i><b>7.5</b> Práticas errôneas comuns</a>
+<ul>
+<li class="chapter" data-level="7.5.1" data-path="ansiedade-de-exposição.html"><a href="ansiedade-de-exposição.html#tirar-legendas"><i class="fa fa-check"></i><b>7.5.1</b> Tirar legendas</a></li>
+<li class="chapter" data-level="7.5.2" data-path="ansiedade-de-exposição.html"><a href="ansiedade-de-exposição.html#colocar-legendas-na-sua-língua-nativa"><i class="fa fa-check"></i><b>7.5.2</b> Colocar legendas na sua língua nativa</a></li>
+<li class="chapter" data-level="7.5.3" data-path="ansiedade-de-exposição.html"><a href="ansiedade-de-exposição.html#usar-apenas-material-que-já-entendo"><i class="fa fa-check"></i><b>7.5.3</b> Usar apenas material que já entendo</a></li>
+<li class="chapter" data-level="7.5.4" data-path="ansiedade-de-exposição.html"><a href="ansiedade-de-exposição.html#praticar-imersão-apenas-depois-de-estar-preparado"><i class="fa fa-check"></i><b>7.5.4</b> Praticar imersão apenas depois de “estar preparado”</a></li>
+<li class="chapter" data-level="7.5.5" data-path="ansiedade-de-exposição.html"><a href="ansiedade-de-exposição.html#usar-substitutos-à-imersão"><i class="fa fa-check"></i><b>7.5.5</b> Usar substitutos à imersão</a></li>
+<li class="chapter" data-level="7.5.6" data-path="ansiedade-de-exposição.html"><a href="ansiedade-de-exposição.html#usar-apenas-materiais-didáticos"><i class="fa fa-check"></i><b>7.5.6</b> Usar apenas materiais didáticos</a></li>
+</ul></li>
+</ul></li>
+<li class="chapter" data-level="8" data-path="sistemas-de-escrita.html"><a href="sistemas-de-escrita.html"><i class="fa fa-check"></i><b>8</b> Sistemas de escrita</a>
+<ul>
+<li class="chapter" data-level="8.1" data-path="sistemas-de-escrita.html"><a href="sistemas-de-escrita.html#alfabeto-cirílico"><i class="fa fa-check"></i><b>8.1</b> Alfabeto cirílico</a></li>
+<li class="chapter" data-level="8.2" data-path="sistemas-de-escrita.html"><a href="sistemas-de-escrita.html#árabe"><i class="fa fa-check"></i><b>8.2</b> Árabe</a></li>
+<li class="chapter" data-level="8.3" data-path="sistemas-de-escrita.html"><a href="sistemas-de-escrita.html#conclusão-1"><i class="fa fa-check"></i><b>8.3</b> Conclusão</a></li>
+</ul></li>
+<li class="chapter" data-level="" data-path="cursos-e-professores.html"><a href="cursos-e-professores.html"><i class="fa fa-check"></i>Cursos e professores</a>
+<ul>
+<li class="chapter" data-level="8.4" data-path="cursos-e-professores.html"><a href="cursos-e-professores.html#professores-particulares-e-tutores"><i class="fa fa-check"></i><b>8.4</b> Professores particulares e tutores</a></li>
+<li class="chapter" data-level="8.5" data-path="cursos-e-professores.html"><a href="cursos-e-professores.html#cursos"><i class="fa fa-check"></i><b>8.5</b> Cursos</a></li>
+<li class="chapter" data-level="8.6" data-path="cursos-e-professores.html"><a href="cursos-e-professores.html#resumo-7"><i class="fa fa-check"></i><b>8.6</b> Resumo</a></li>
+<li class="chapter" data-level="8.7" data-path="cursos-e-professores.html"><a href="cursos-e-professores.html#por-que-eu-deixei-a-gramática-por-último"><i class="fa fa-check"></i><b>8.7</b> Por que eu deixei a gramática por último</a>
+<ul>
+<li class="chapter" data-level="8.7.1" data-path="cursos-e-professores.html"><a href="cursos-e-professores.html#um-adendo"><i class="fa fa-check"></i><b>8.7.1</b> Um adendo</a></li>
+</ul></li>
+<li class="chapter" data-level="8.8" data-path="cursos-e-professores.html"><a href="cursos-e-professores.html#por-que-aprender-gramática"><i class="fa fa-check"></i><b>8.8</b> Por que aprender gramática</a></li>
+<li class="chapter" data-level="8.9" data-path="cursos-e-professores.html"><a href="cursos-e-professores.html#como-aprender-gramática"><i class="fa fa-check"></i><b>8.9</b> Como aprender gramática</a></li>
+<li class="chapter" data-level="8.10" data-path="cursos-e-professores.html"><a href="cursos-e-professores.html#resumo-8"><i class="fa fa-check"></i><b>8.10</b> Resumo</a></li>
+</ul></li>
+<li class="chapter" data-level="9" data-path="referências.html"><a href="referências.html"><i class="fa fa-check"></i><b>9</b> Referências</a>
+<ul>
+<li class="chapter" data-level="9.1" data-path="referências.html"><a href="referências.html#vídeos"><i class="fa fa-check"></i><b>9.1</b> Vídeos</a>
+<ul>
+<li class="chapter" data-level="9.1.1" data-path="referências.html"><a href="referências.html#vídeos-isolados"><i class="fa fa-check"></i><b>9.1.1</b> Vídeos isolados</a></li>
+<li class="chapter" data-level="9.1.2" data-path="referências.html"><a href="referências.html#canais-do-youtube"><i class="fa fa-check"></i><b>9.1.2</b> Canais do YouTube</a></li>
+</ul></li>
+<li class="chapter" data-level="9.2" data-path="referências.html"><a href="referências.html#livros-1"><i class="fa fa-check"></i><b>9.2</b> Livros</a></li>
+<li class="chapter" data-level="9.3" data-path="referências.html"><a href="referências.html#websites"><i class="fa fa-check"></i><b>9.3</b> Websites</a></li>
+<li class="chapter" data-level="9.4" data-path="referências.html"><a href="referências.html#textos"><i class="fa fa-check"></i><b>9.4</b> Textos</a>
+<ul>
+<li class="chapter" data-level="9.4.1" data-path="referências.html"><a href="referências.html#artigos"><i class="fa fa-check"></i><b>9.4.1</b> Artigos</a></li>
+<li class="chapter" data-level="9.4.2" data-path="referências.html"><a href="referências.html#páginas-da-internet"><i class="fa fa-check"></i><b>9.4.2</b> Páginas da internet</a></li>
+</ul></li>
+</ul></li>
+<li class="chapter" data-level="" data-path="sobre.html"><a href="sobre.html"><i class="fa fa-check"></i>Sobre</a>
+<ul>
+<li class="chapter" data-level="9.5" data-path="sobre.html"><a href="sobre.html#sobre-este-site"><i class="fa fa-check"></i><b>9.5</b> Sobre este site</a>
+<ul>
+<li class="chapter" data-level="9.5.1" data-path="sobre.html"><a href="sobre.html#sobre-o-nome-do-site"><i class="fa fa-check"></i><b>9.5.1</b> Sobre o nome do site</a></li>
+</ul></li>
+<li class="chapter" data-level="9.6" data-path="sobre.html"><a href="sobre.html#sobre-o-autor"><i class="fa fa-check"></i><b>9.6</b> Sobre o autor</a></li>
+</ul></li>
+</ul>
+
+      </nav>
+    </div>
+
+    <div class="book-body">
+      <div class="body-inner">
+        <div class="book-header" role="navigation">
+          <h1>
+            <i class="fa fa-circle-o-notch fa-spin"></i><a href="./">Irídula</a>
+          </h1>
+        </div>
+
+        <div class="page-wrapper" tabindex="-1" role="main">
+          <div class="page-inner">
+
+            <section class="normal" id="section-">
+<div id="header">
+<h1 class="title">Irídula</h1>
+</div>
+<div id="como-aprender-uma-língua" class="section level1 unnumbered hasAnchor">
+<h1>Como aprender uma língua<a href="como-aprender-uma-língua.html#como-aprender-uma-língua" class="anchor-section" aria-label="Anchor link to header"></a></h1>
+<p>Aprender línguas é um processo estranho, e de certo modo paradoxal. Língua se aprende através da compreensão: você aprende uma língua quando você a entende. Isso pode parecer um problema: como vou aprender uma língua se para aprender tenho que compreendê-la? É como se o objetivo final fosse um pré-requisito, o que o torna completamente inalcançável.</p>
+<p>Sim, para aprender uma língua é necessário compreendê-la. Mas isso não deve servir como um sinal de “pare” ou um motivo de hesitação, mas nos fornecer uma ideia do que nos espera: o objetivo da jornada é a própria jornada. O meio e o fim têm mais ou menos a mesma cara, e as práticas pouco mudam em diferentes partes da trajetória.</p>
+<p>Vamos nos debruçar agora sobre como aprendemos de fato uma língua.</p>
+<div id="motivação" class="section level2 unnumbered hasAnchor">
+<h2>Motivação<a href="como-aprender-uma-língua.html#motivação" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<p>Primeiro de tudo, para aprender uma língua você só precisa passar tempo com ela. Quanto mais tempo você passar na língua, prestando atenção e (mais importante) se divertindo, mais você vai aprendê-la. <a href="a-motivação.html#a-motivação">Isso obviamente vai exigir motivação</a>. Aprender uma língua leva tempo. Para alcançar algo mais próximo da perfeição (que é de fato inalcançável) são necessários anos. Então é necessário ter um bom motivo pra fazer isso. Mas mesmo que você pare na metade do caminho, não terá sido inútil. Não caia na ladainha perfeccionista de que “não saber perfeitamente é equivalente a não saber nada”. Conhecimento de uma língua é útil em todos os níveis: se você sabe muito ou se você sabe pouco, é sempre melhor do que não saber coisa nenhuma.</p>
+</div>
+<div id="imersão" class="section level2 unnumbered hasAnchor">
+<h2>Imersão<a href="como-aprender-uma-língua.html#imersão" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<p>Mas pra aprender uma língua você <a href="como-adquirir-uma-língua.html#como-adquirir-uma-língua">precisa entendê-la em algum grau</a>. Todavia, se você estiver entendendo tudo, 100%, você não está aprendendo nada, o conteúdo está fácil demais. <a href="melhores-conteúdos-para-aprender-uma-língua.html#melhores-conteúdos-para-aprender-uma-língua">Não é proveitoso seja tão fácil, mas também não é bom que seja tão difícil que você só entenda duas palavras de cem.</a>.</p>
+<p>Esse conteúdo será utilizado para <strong>imersão</strong>. Ele deve ser algo que seja interessante para você e que te desafie. Os recursos para aprender línguas que têm maior custo-benefício são as mídias audiovisuais: jogos, filmes e séries. Documentários e noticiários também podem ser úteis, mas estes costumam ser mais difíceis de compreender. Você precisa passar muito tempo com a língua, assistindo, jogando, ouvindo. <strong>Adquire-se uma língua pela imersão, e imersão é passar tempo com a língua</strong>. Jogos são os mais úteis porque eles exigem que você preste atenção, e você pode se divertir mesmo se não estiver entendendo tudo. Se você não gosta de jogos, filmes e séries têm utilidade inegável. Livros e podcasts também são ferramentas válidas para o aprendizado, principalmente os que são elaborados para leitores e ouvintes de níveis específicos de desenvoltura no idioma (“leitura nivelada”).</p>
+<p>O processo de imersão, assim como o de começar a falar na língua-alvo, pode causar certa ansiedade e insegurança. No capítulo sobre <a href="ansiedade-de-exposição.html#ansiedade-de-exposição">ansiedade de exposição</a> eu trato um pouco mais a respeito dos sentimentos, dúvidas e práticas ruins comuns entre aprendizes de idiomas.</p>
+<p>Algumas línguas são muito diferentes e portanto muito difíceis. Isso torna a imersão mais desconfortável. Por conta disso, considere a seção logo abaixo, nesta mesma página, sobre as <a href="como-aprender-uma-língua.html#ferramentas-auxiliares">ferramentas auxiliares</a> que nos servirão de suporte nesse processo. A imersão sem elas pode ser muito complicada, então é recomendado que você as utilize. Cuidado, porém, para não utilizá-las para ficar “se preparando eternamente”. Não postergue a imersão para aprender palavras isoladamente.</p>
+<p>Se você está aprendendo uma língua que usa outro sistema de escrita, como russo ou grego, é importante que você aprenda logo (e talvez primeiro) esse modo diferente de escrever. Aprender sistemas de escrita não é difícil, e provavelmente pode ser a parte mais fácil da língua. [Sistemas de escrita][Há uma página neste site que mostra justamente isso]. A exceção, óbvio, são as línguas que usam ideogramas (como japonês e mandarim). No caso destas você vai ter que fazer um esforço paralelo para aprender os símbolos individuais. Existem sistemas desenvolvidos para aprender esses modos de escrever. Se este for o seu caso, sugiro que faça uma pesquisa para encontrar um que se adeque às suas necessidades.</p>
+</div>
+<div id="características-do-conteúdo-para-imersão" class="section level2 hasAnchor" number="0.1">
+<h2><span class="header-section-number">0.1</span> Características do conteúdo para imersão<a href="como-aprender-uma-língua.html#características-do-conteúdo-para-imersão" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<p>Imersão é passar tempo com a língua, mas é necessário também prestar atenção no conteúdo que você está utilizando para este propósito. Abaixo discute-se a respeito de diferentes tipos de conteúdo para imersão.</p>
+<div id="audiovisual-jogos-filmes-e-séries" class="section level3 hasAnchor" number="0.1.1">
+<h3><span class="header-section-number">0.1.1</span> Audiovisual: jogos, filmes e séries<a href="como-aprender-uma-língua.html#audiovisual-jogos-filmes-e-séries" class="anchor-section" aria-label="Anchor link to header"></a></h3>
+<p>Os jogos não devem ser multiplayer, mas sim de um único jogador e voltados para enredo.<a href="#fn1" class="footnote-ref" id="fnref1"><sup>1</sup></a> Jogar FIFA em inglês com um amigo não vai te ajudar em nada para aprender esse idioma. O mesmo se aplica a ficar horas jogando Minecraft sozinho. Mais vale que você jogue um jogo cheio de história, como Metal Gear, God of War, The Last of Us, The Witcher 3, entre outros. Contudo, é importante que ele seja interessante para você; que o enredo, que a história te provoque curiosidade, esse tipo de coisa.</p>
+<p>Tanto os jogos quanto os filmes e as séries <strong>devem ter tanto dublagem e legenda na língua que você quer aprender</strong>. Não coloque a legenda em uma língua que você sabe, nem o áudio. Não tire a legenda para “<a href="ansiedade-de-exposição.html#tirar-legendas">se desafiar a treinar suas habilidades de escuta</a>”. Se algo te ajuda a entender mais a língua que você quer aprender, <strong>sem sair da língua</strong>, tanto melhor.</p>
+<p>Conteúdo audiovisual é extremamente útil porque as cenas vão te ajudar a entender o que as palavras querem dizer. O contexto vai revelar o significado do que você não compreende. Se você insistir nisso, você logo verá resultados.</p>
+</div>
+<div id="livros-e-podcasts" class="section level3 hasAnchor" number="0.1.2">
+<h3><span class="header-section-number">0.1.2</span> Livros e Podcasts<a href="como-aprender-uma-língua.html#livros-e-podcasts" class="anchor-section" aria-label="Anchor link to header"></a></h3>
+<p>A leitura também é útil, embora seja difícil encontrar textos que sejam amigáveis ao nível de um iniciante. Leituras niveladas são a solução, neste caso. Pode ser que não haja tanta leitura nivelada disponível pro idioma que você quer aprender (caso você queira aprender um idioma menos “famoso”, como, digamos, a língua maltesa), mas é fácil encontrar conteúdo para línguas como inglês, francês, espanhol, russo, entre outras. Recomendo sites como o <a href="https://english-e-reader.net/findbook/">English e-Reader</a> (apenas para o inglês) e o <a href="https://www.lingua.com/">Lingua.com</a> (para diversas línguas). Falo mais sobre isso na seção sobre <a href="melhores-conteúdos-para-aprender-uma-língua.html#livros">Livros</a>. Você pode encontrar mais coisas pesquisando online em inglês, usando as palavras chave “[LÍNGUA] graded readers”. Por exemplo: “russian graded readers”, ou “italian graded readers”.</p>
+<p>Tudo o que é verdadeiro para a leitura, também o é para podcasts. Você pode encontrar podcasts nivelados por aí. Se você pesquisar coisas como “Beginner English Podcast” (Podcast para iniciantes no inglês) ou “Beginner French Podcast” (Podcast para iniciantes no francês) você encontra podcasts para iniciantes nas línguas do seu interesse. [Podcasts][Os podcasts variam em qualidade], e existem podcastas didáticos ruins e podcasts didáticos bons.</p>
+</div>
+</div>
+<div id="ferramentas-auxiliares" class="section level2 hasAnchor" number="0.2">
+<h2><span class="header-section-number">0.2</span> Ferramentas auxiliares<a href="como-aprender-uma-língua.html#ferramentas-auxiliares" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<p>Pode ser que só a leitura e/ou os podcasts esteja disponível para você, caso você não tenha acesso a conteúdo audiovisual, seja por não ter acesso a serviços de streaming, ser deficiente visual ou simplesmente achá-los insuportáveis. Se esse for o seu caso, você também precisará suplementar sua prática com alguma ferramenta para aumentar o seu vocabulário. Para este propósito, o <a href="ferramentas-auxiliares-no-aprendizado-de-línguas.html#o-uso-de-aplicativos">Anki</a> é perfeito. <a href="ferramentas-auxiliares-no-aprendizado-de-línguas.html#o-uso-de-aplicativos">Neste link</a> eu explico mais sobre o que o Anki é e como como utilizá-lo.</p>
+<p>Entretanto, eu não recomendo que você considere o Anki <em>apenas</em> como um suporte alternativo, voltado para pessoas que não utilizarão mídias audiovisuais. Eu acho que <em>todos</em> podem se beneficiar em utilizá-lo. Ele pode acelerar <em>muito</em> o seu processo de aprendizado. Você vai descobrir logo, principalmente com o uso recorrente, que ele é um pouco chato, mas extremamente útil. <a href="a-interação-entre-repetição-espaçada-e-imersão.html#a-interação-entre-repetição-espaçada-e-imersão">Ele por si só não basta</a>, mas é inegável que acelera o processo.</p>
+</div>
+<div id="a-habilidade-da-fala" class="section level2 hasAnchor" number="0.3">
+<h2><span class="header-section-number">0.3</span> A habilidade da fala<a href="como-aprender-uma-língua.html#a-habilidade-da-fala" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<p><a href="o-desenvolvimento-da-fala.html#o-desenvolvimento-da-fala">Quanto à habilidade da fala</a>, é simples: a fala depende da sua compreensão. Se você quiser falar bem, você deve primeiro ser capaz de compreender bem. Quando você for capaz de entender livros inteiros, você provavelmente estará numa boa condição para trabalhar a fala. Claro, você pode fazer isso antes, mas:</p>
+<ul>
+<li>Na musculação, você treina um músculo e ele cresce. A fala não procede da mesma forma. Sua fala não melhora simplesmente por você praticar falar com frequência.</li>
+<li>A melhor forma de melhorar a sua fala (e a sua escrita) é pela leitura e pela escuta.</li>
+</ul>
+<p>A fala é resultado do que você consome, e você deve consumir tanto em quantidade como em qualidade. Falar cedo demais pode resultar em vícios, assim como vícios podem resultar de falar com pessoas que falam errado.</p>
+<p>Para te ajudar a desenvolver a fala, é bom ter um <a href="o-desenvolvimento-da-fala.html#prática-language-parents">language parent</a>, que é um tutor que vai se dedicar a falar com você na habilidade. Atenção: tutor, e não “um colega”. Se falar cedo demais pode resultar em vícios, isso pode igualmente acontecer se você falar com alguém que está no mesmo nível com você, ou abaixo, ou apenas um pouco acima. Você quer alguém que realmente domine o idioma. Cabe <em>pagar</em> alguém para conversar contigo. Aqui se encontra <a href="cursos-e-professores.html#cursos-e-professores">o valor dos professores e dos cursos, e também as ressalvas a respeito dos mesmos</a>.</p>
+</div>
+<div id="o-papel-da-gramática" class="section level2 hasAnchor" number="0.4">
+<h2><span class="header-section-number">0.4</span> O papel da gramática<a href="como-aprender-uma-língua.html#o-papel-da-gramática" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<p>Não se preocupe com gramática. Ela tem o seu lugar, mas você pode deixá-la para depois. O motivo disso é o seguinte: <a href="como-aprender-uma-língua.html#o-papel-da-gramática">a gramática serve para firmar o que está bambo</a>; serve para aperfeiçoar o que já existe. Uma outra utilidade dela é “espremer o restinho do suco da fruta”. Você precisa ter substância, e muita substância, para poder dar pra ela alguma estrutura; você também não precisa se preocupar em extrair até a última gota enquanto a sua fonte ainda te rende litros com facilidade. Focar-se em gramática desde o princípio é colocar a carroça na frente dos bois. Se você não tem areia, para que você vai querer um molde? Deixe para utilizar o molde para quando você tiver areia de sobra.</p>
+<p>O que é essa areia? Horas e horas – <strong>centenas</strong> de horas – de exposição a conteúdo na língua que você aprendeu.</p>
+</div>
+<div id="a-importância-do-interesse" class="section level2 hasAnchor" number="0.5">
+<h2><span class="header-section-number">0.5</span> A importância do interesse<a href="como-aprender-uma-língua.html#a-importância-do-interesse" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<p>E qual é o melhor tipo de conteúdo? Aquele que é interessante para você. Como foi falado anteriormente, o conteúdo não deve ser nem difícil demais, nem fácil demais – mas se ele for muito difícil e mesmo assim muito interessante, continue com ele.</p>
+</div>
+<div id="conclusão" class="section level2 hasAnchor" number="0.6">
+<h2><span class="header-section-number">0.6</span> Conclusão<a href="como-aprender-uma-língua.html#conclusão" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<p>Isso é tudo o que você precisa saber. Caso julgue necessário, siga a leitura do site, ou explore os links dessa página conforme seu interesse. Você não precisa lê-los sequencialmente. Cada uma das questões aqui expostas será destrinchada minuciosamente nas próximas páginas.</p>
+<p>Vá. Mergulhe. Imerja-se na língua que você quer aprender. <strong>Não fique se preparando eternamente</strong>. <a href="ansiedade-de-exposição.html#ansiedade-de-exposição">Não existe isso de “estar preparado” para a imersão</a>. É a imersão que te prepara para ela, e se você quer falar, é ela que vai te dar essa capacidade. Use uma ferramenta como o Anki para te ajudar a amplificar o seu vocabulário e facilitar a imersão. Porém <strong>cuidado</strong>: não deixe que tais ferramentas se tornem substitutos.</p>
+<p>As páginas a diante são uma exposição mais detalhada de como fazer isso, começando por uma exposição geral do que você pode esperar encontrar neste site.</p>
+
+</div>
+</div>
+<div class="footnotes">
+<hr />
+<ol start="1">
+<li id="fn1"><p>Excessão: um jogo multiplayer em que quase todo mundo nele fale a língua que você quer aprender. Hoje em dia encontrar esse tipo de coisa está cada vez mais difícil.<a href="como-aprender-uma-língua.html#fnref1" class="footnote-back">↩︎</a></p></li>
+</ol>
+</div>
+            </section>
+
+          </div>
+        </div>
+      </div>
+
+<a href="introdução.html" class="navigation navigation-next navigation-unique" aria-label="Next page"><i class="fa fa-angle-right"></i></a>
+    </div>
+  </div>
+<script src="libs/gitbook-2.6.7/js/app.min.js"></script>
+<script src="libs/gitbook-2.6.7/js/clipboard.min.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-search.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-sharing.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-fontsettings.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-bookdown.js"></script>
+<script src="libs/gitbook-2.6.7/js/jquery.highlight.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-clipboard.js"></script>
+<script>
+gitbook.require(["gitbook"], function(gitbook) {
+gitbook.start({
+"sharing": {
+"github": false,
+"facebook": true,
+"twitter": true,
+"linkedin": false,
+"weibo": false,
+"instapaper": false,
+"vk": false,
+"whatsapp": false,
+"all": ["facebook", "twitter", "linkedin", "weibo", "instapaper"]
+},
+"fontsettings": {
+"theme": "white",
+"family": "sans",
+"size": 2
+},
+"edit": {
+"link": null,
+"text": null
+},
+"history": {
+"link": null,
+"text": null
+},
+"view": {
+"link": null,
+"text": null
+},
+"download": null,
+"search": {
+"engine": "fuse",
+"options": null
+},
+"toc": {
+"collapse": "subsection"
+}
+});
+});
+</script>
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    var src = "true";
+    if (src === "" || src === "true") src = "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.9/latest.js?config=TeX-MML-AM_CHTML";
+    if (location.protocol !== "file:")
+      if (/^https?:/.test(src))
+        src = src.replace(/^https?:/, '');
+    script.src = src;
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+</body>
+
+</html>

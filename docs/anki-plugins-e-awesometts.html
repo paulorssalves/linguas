@@ -1,0 +1,475 @@
+<!DOCTYPE html>
+<html lang="" xml:lang="">
+<head>
+
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <title>5 Anki: plugins e AwesomeTTS | Irídula</title>
+  <meta name="description" content="5 Anki: plugins e AwesomeTTS | Irídula" />
+  <meta name="generator" content="bookdown 0.34 and GitBook 2.6.7" />
+
+  <meta property="og:title" content="5 Anki: plugins e AwesomeTTS | Irídula" />
+  <meta property="og:type" content="book" />
+  
+  
+  
+
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:title" content="5 Anki: plugins e AwesomeTTS | Irídula" />
+  
+  
+  
+
+
+
+
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+  
+  
+<link rel="prev" href="anki-primeiros-passos.html"/>
+<link rel="next" href="anki-customização-de-baralhos.html"/>
+<script src="libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/fuse.js@6.4.6/dist/fuse.min.js"></script>
+<link href="libs/gitbook-2.6.7/css/style.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-table.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-bookdown.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-highlight.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-search.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-fontsettings.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-clipboard.css" rel="stylesheet" />
+
+
+
+
+
+
+
+
+<link href="libs/anchor-sections-1.1.0/anchor-sections.css" rel="stylesheet" />
+<link href="libs/anchor-sections-1.1.0/anchor-sections-hash.css" rel="stylesheet" />
+<script src="libs/anchor-sections-1.1.0/anchor-sections.js"></script>
+
+
+<style type="text/css">
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+    color: #aaaaaa;
+  }
+pre.numberSource { margin-left: 3em; border-left: 1px solid #aaaaaa;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+}
+code span.al { color: #ff0000; font-weight: bold; } /* Alert */
+code span.an { color: #60a0b0; font-weight: bold; font-style: italic; } /* Annotation */
+code span.at { color: #7d9029; } /* Attribute */
+code span.bn { color: #40a070; } /* BaseN */
+code span.bu { color: #008000; } /* BuiltIn */
+code span.cf { color: #007020; font-weight: bold; } /* ControlFlow */
+code span.ch { color: #4070a0; } /* Char */
+code span.cn { color: #880000; } /* Constant */
+code span.co { color: #60a0b0; font-style: italic; } /* Comment */
+code span.cv { color: #60a0b0; font-weight: bold; font-style: italic; } /* CommentVar */
+code span.do { color: #ba2121; font-style: italic; } /* Documentation */
+code span.dt { color: #902000; } /* DataType */
+code span.dv { color: #40a070; } /* DecVal */
+code span.er { color: #ff0000; font-weight: bold; } /* Error */
+code span.ex { } /* Extension */
+code span.fl { color: #40a070; } /* Float */
+code span.fu { color: #06287e; } /* Function */
+code span.im { color: #008000; font-weight: bold; } /* Import */
+code span.in { color: #60a0b0; font-weight: bold; font-style: italic; } /* Information */
+code span.kw { color: #007020; font-weight: bold; } /* Keyword */
+code span.op { color: #666666; } /* Operator */
+code span.ot { color: #007020; } /* Other */
+code span.pp { color: #bc7a00; } /* Preprocessor */
+code span.sc { color: #4070a0; } /* SpecialChar */
+code span.ss { color: #bb6688; } /* SpecialString */
+code span.st { color: #4070a0; } /* String */
+code span.va { color: #19177c; } /* Variable */
+code span.vs { color: #4070a0; } /* VerbatimString */
+code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warning */
+</style>
+
+<style type="text/css">
+  
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+</style>
+
+</head>
+
+<body>
+
+
+
+  <div class="book without-animation with-summary font-size-2 font-family-1" data-basepath=".">
+
+    <div class="book-summary">
+      <nav role="navigation">
+
+<ul class="summary">
+<li class="chapter" data-level="" data-path="como-aprender-uma-língua.html"><a href="como-aprender-uma-língua.html"><i class="fa fa-check"></i>Como aprender uma língua</a>
+<ul>
+<li class="chapter" data-level="" data-path="como-aprender-uma-língua.html"><a href="como-aprender-uma-língua.html#motivação"><i class="fa fa-check"></i>Motivação</a></li>
+<li class="chapter" data-level="" data-path="como-aprender-uma-língua.html"><a href="como-aprender-uma-língua.html#imersão"><i class="fa fa-check"></i>Imersão</a></li>
+<li class="chapter" data-level="0.1" data-path="como-aprender-uma-língua.html"><a href="como-aprender-uma-língua.html#características-do-conteúdo-para-imersão"><i class="fa fa-check"></i><b>0.1</b> Características do conteúdo para imersão</a>
+<ul>
+<li class="chapter" data-level="0.1.1" data-path="como-aprender-uma-língua.html"><a href="como-aprender-uma-língua.html#audiovisual-jogos-filmes-e-séries"><i class="fa fa-check"></i><b>0.1.1</b> Audiovisual: jogos, filmes e séries</a></li>
+<li class="chapter" data-level="0.1.2" data-path="como-aprender-uma-língua.html"><a href="como-aprender-uma-língua.html#livros-e-podcasts"><i class="fa fa-check"></i><b>0.1.2</b> Livros e Podcasts</a></li>
+</ul></li>
+<li class="chapter" data-level="0.2" data-path="como-aprender-uma-língua.html"><a href="como-aprender-uma-língua.html#ferramentas-auxiliares"><i class="fa fa-check"></i><b>0.2</b> Ferramentas auxiliares</a></li>
+<li class="chapter" data-level="0.3" data-path="como-aprender-uma-língua.html"><a href="como-aprender-uma-língua.html#a-habilidade-da-fala"><i class="fa fa-check"></i><b>0.3</b> A habilidade da fala</a></li>
+<li class="chapter" data-level="0.4" data-path="como-aprender-uma-língua.html"><a href="como-aprender-uma-língua.html#o-papel-da-gramática"><i class="fa fa-check"></i><b>0.4</b> O papel da gramática</a></li>
+<li class="chapter" data-level="0.5" data-path="como-aprender-uma-língua.html"><a href="como-aprender-uma-língua.html#a-importância-do-interesse"><i class="fa fa-check"></i><b>0.5</b> A importância do interesse</a></li>
+<li class="chapter" data-level="0.6" data-path="como-aprender-uma-língua.html"><a href="como-aprender-uma-língua.html#conclusão"><i class="fa fa-check"></i><b>0.6</b> Conclusão</a></li>
+</ul></li>
+<li class="chapter" data-level="1" data-path="introdução.html"><a href="introdução.html"><i class="fa fa-check"></i><b>1</b> Introdução</a>
+<ul>
+<li class="chapter" data-level="1.1" data-path="introdução.html"><a href="introdução.html#resumo"><i class="fa fa-check"></i><b>1.1</b> Resumo</a></li>
+</ul></li>
+<li class="chapter" data-level="" data-path="a-motivação.html"><a href="a-motivação.html"><i class="fa fa-check"></i>A motivação</a>
+<ul>
+<li class="chapter" data-level="1.2" data-path="a-motivação.html"><a href="a-motivação.html#resumo-1"><i class="fa fa-check"></i><b>1.2</b> Resumo</a></li>
+</ul></li>
+<li class="chapter" data-level="" data-path="a-diferença-entre-aprendizado-e-aquisição.html"><a href="a-diferença-entre-aprendizado-e-aquisição.html"><i class="fa fa-check"></i>A diferença entre aprendizado e aquisição</a>
+<ul>
+<li class="chapter" data-level="" data-path="a-diferença-entre-aprendizado-e-aquisição.html"><a href="a-diferença-entre-aprendizado-e-aquisição.html#resumo-2"><i class="fa fa-check"></i>Resumo</a></li>
+</ul></li>
+<li class="chapter" data-level="2" data-path="como-adquirir-uma-língua.html"><a href="como-adquirir-uma-língua.html"><i class="fa fa-check"></i><b>2</b> Como adquirir uma língua</a>
+<ul>
+<li class="chapter" data-level="2.1" data-path="como-adquirir-uma-língua.html"><a href="como-adquirir-uma-língua.html#resumo-3"><i class="fa fa-check"></i><b>2.1</b> Resumo</a></li>
+</ul></li>
+<li class="chapter" data-level="3" data-path="melhores-conteúdos-para-aprender-uma-língua.html"><a href="melhores-conteúdos-para-aprender-uma-língua.html"><i class="fa fa-check"></i><b>3</b> Melhores conteúdos para aprender uma língua</a>
+<ul>
+<li class="chapter" data-level="3.1" data-path="melhores-conteúdos-para-aprender-uma-língua.html"><a href="melhores-conteúdos-para-aprender-uma-língua.html#i1"><i class="fa fa-check"></i><b>3.1</b> I+1</a></li>
+<li class="chapter" data-level="3.2" data-path="melhores-conteúdos-para-aprender-uma-língua.html"><a href="melhores-conteúdos-para-aprender-uma-língua.html#tipos-de-conteúdo"><i class="fa fa-check"></i><b>3.2</b> Tipos de conteúdo</a>
+<ul>
+<li class="chapter" data-level="3.2.1" data-path="melhores-conteúdos-para-aprender-uma-língua.html"><a href="melhores-conteúdos-para-aprender-uma-língua.html#jogos"><i class="fa fa-check"></i><b>3.2.1</b> Jogos</a></li>
+<li class="chapter" data-level="3.2.2" data-path="melhores-conteúdos-para-aprender-uma-língua.html"><a href="melhores-conteúdos-para-aprender-uma-língua.html#filmes-séries-documentários-noticiários-etc."><i class="fa fa-check"></i><b>3.2.2</b> Filmes, séries, documentários, noticiários etc.</a></li>
+<li class="chapter" data-level="3.2.3" data-path="melhores-conteúdos-para-aprender-uma-língua.html"><a href="melhores-conteúdos-para-aprender-uma-língua.html#livros-e-podcasts-1"><i class="fa fa-check"></i><b>3.2.3</b> Livros e podcasts</a></li>
+</ul></li>
+<li class="chapter" data-level="3.3" data-path="melhores-conteúdos-para-aprender-uma-língua.html"><a href="melhores-conteúdos-para-aprender-uma-língua.html#necessidade-de-ferramentas-de-apoio-para-a-imersão"><i class="fa fa-check"></i><b>3.3</b> Necessidade de ferramentas de apoio para a imersão</a></li>
+<li class="chapter" data-level="3.4" data-path="melhores-conteúdos-para-aprender-uma-língua.html"><a href="melhores-conteúdos-para-aprender-uma-língua.html#resumo-4"><i class="fa fa-check"></i><b>3.4</b> Resumo</a></li>
+</ul></li>
+<li class="chapter" data-level="" data-path="ferramentas-auxiliares-no-aprendizado-de-línguas.html"><a href="ferramentas-auxiliares-no-aprendizado-de-línguas.html"><i class="fa fa-check"></i>Ferramentas auxiliares no aprendizado de línguas</a>
+<ul>
+<li class="chapter" data-level="" data-path="ferramentas-auxiliares-no-aprendizado-de-línguas.html"><a href="ferramentas-auxiliares-no-aprendizado-de-línguas.html#o-uso-de-aplicativos"><i class="fa fa-check"></i>O uso de aplicativos</a></li>
+<li class="chapter" data-level="" data-path="ferramentas-auxiliares-no-aprendizado-de-línguas.html"><a href="ferramentas-auxiliares-no-aprendizado-de-línguas.html#sistemas-de-repetição-espaçada"><i class="fa fa-check"></i>Sistemas de repetição espaçada</a></li>
+<li class="chapter" data-level="3.5" data-path="ferramentas-auxiliares-no-aprendizado-de-línguas.html"><a href="ferramentas-auxiliares-no-aprendizado-de-línguas.html#resumo-5"><i class="fa fa-check"></i><b>3.5</b> Resumo</a></li>
+</ul></li>
+<li class="chapter" data-level="4" data-path="anki-primeiros-passos.html"><a href="anki-primeiros-passos.html"><i class="fa fa-check"></i><b>4</b> Anki: primeiros passos</a>
+<ul>
+<li class="chapter" data-level="4.1" data-path="anki-primeiros-passos.html"><a href="anki-primeiros-passos.html#utilizando-o-anki-no-computador"><i class="fa fa-check"></i><b>4.1</b> Utilizando o Anki no computador</a>
+<ul>
+<li class="chapter" data-level="4.1.1" data-path="anki-primeiros-passos.html"><a href="anki-primeiros-passos.html#instalação"><i class="fa fa-check"></i><b>4.1.1</b> Instalação</a></li>
+</ul></li>
+<li class="chapter" data-level="4.2" data-path="anki-primeiros-passos.html"><a href="anki-primeiros-passos.html#o-menu-de-baralhos"><i class="fa fa-check"></i><b>4.2</b> O menu de baralhos</a>
+<ul>
+<li class="chapter" data-level="4.2.1" data-path="anki-primeiros-passos.html"><a href="anki-primeiros-passos.html#baralhos"><i class="fa fa-check"></i><b>4.2.1</b> Baralhos</a></li>
+</ul></li>
+<li class="chapter" data-level="4.3" data-path="anki-primeiros-passos.html"><a href="anki-primeiros-passos.html#adicionar-criando-cartas"><i class="fa fa-check"></i><b>4.3</b> Adicionar: Criando cartas</a>
+<ul>
+<li class="chapter" data-level="4.3.1" data-path="anki-primeiros-passos.html"><a href="anki-primeiros-passos.html#criando-cartas-pelo-anki"><i class="fa fa-check"></i><b>4.3.1</b> Criando cartas pelo Anki</a></li>
+</ul></li>
+<li class="chapter" data-level="4.4" data-path="anki-primeiros-passos.html"><a href="anki-primeiros-passos.html#criando-cartas-em-planilhas"><i class="fa fa-check"></i><b>4.4</b> Criando cartas em planilhas</a></li>
+<li class="chapter" data-level="4.5" data-path="anki-primeiros-passos.html"><a href="anki-primeiros-passos.html#práticas-para-elaborar-flashcards"><i class="fa fa-check"></i><b>4.5</b> Práticas para elaborar flashcards</a></li>
+<li class="chapter" data-level="4.6" data-path="anki-primeiros-passos.html"><a href="anki-primeiros-passos.html#utilizando-o-anki-pelo-celular"><i class="fa fa-check"></i><b>4.6</b> Utilizando o Anki pelo celular</a></li>
+</ul></li>
+<li class="chapter" data-level="5" data-path="anki-plugins-e-awesometts.html"><a href="anki-plugins-e-awesometts.html"><i class="fa fa-check"></i><b>5</b> Anki: plugins e AwesomeTTS</a>
+<ul>
+<li class="chapter" data-level="5.1" data-path="anki-plugins-e-awesometts.html"><a href="anki-plugins-e-awesometts.html#instalando-plugins"><i class="fa fa-check"></i><b>5.1</b> Instalando plugins</a></li>
+<li class="chapter" data-level="5.2" data-path="anki-plugins-e-awesometts.html"><a href="anki-plugins-e-awesometts.html#o-menu-painel"><i class="fa fa-check"></i><b>5.2</b> O menu <code>Painel</code></a></li>
+</ul></li>
+<li class="chapter" data-level="6" data-path="anki-customização-de-baralhos.html"><a href="anki-customização-de-baralhos.html"><i class="fa fa-check"></i><b>6</b> Anki: customização de baralhos</a>
+<ul>
+<li class="chapter" data-level="6.1" data-path="anki-customização-de-baralhos.html"><a href="anki-customização-de-baralhos.html#criando-diferentes-tipos-de-notas"><i class="fa fa-check"></i><b>6.1</b> Criando diferentes tipos de notas</a></li>
+<li class="chapter" data-level="6.2" data-path="anki-customização-de-baralhos.html"><a href="anki-customização-de-baralhos.html#editando"><i class="fa fa-check"></i><b>6.2</b> Editando</a></li>
+<li class="chapter" data-level="6.3" data-path="anki-customização-de-baralhos.html"><a href="anki-customização-de-baralhos.html#usando-planilhas-para-criar-cartas-com-múltiplos-campos"><i class="fa fa-check"></i><b>6.3</b> Usando planilhas para criar cartas com múltiplos campos</a></li>
+<li class="chapter" data-level="6.4" data-path="anki-customização-de-baralhos.html"><a href="anki-customização-de-baralhos.html#html-e-css"><i class="fa fa-check"></i><b>6.4</b> HTML e CSS</a>
+<ul>
+<li class="chapter" data-level="6.4.1" data-path="anki-customização-de-baralhos.html"><a href="anki-customização-de-baralhos.html#html-no-conteúdo-das-cartas"><i class="fa fa-check"></i><b>6.4.1</b> HTML no conteúdo das cartas</a></li>
+<li class="chapter" data-level="6.4.2" data-path="anki-customização-de-baralhos.html"><a href="anki-customização-de-baralhos.html#html-na-estrutura-das-cartas"><i class="fa fa-check"></i><b>6.4.2</b> HTML na estrutura das cartas</a></li>
+</ul></li>
+</ul></li>
+<li class="chapter" data-level="7" data-path="anki-conclusão.html"><a href="anki-conclusão.html"><i class="fa fa-check"></i><b>7</b> Anki: conclusão</a></li>
+<li class="chapter" data-level="" data-path="a-interação-entre-repetição-espaçada-e-imersão.html"><a href="a-interação-entre-repetição-espaçada-e-imersão.html"><i class="fa fa-check"></i>A interação entre repetição espaçada e imersão</a></li>
+<li class="chapter" data-level="" data-path="o-desenvolvimento-da-fala.html"><a href="o-desenvolvimento-da-fala.html"><i class="fa fa-check"></i>O desenvolvimento da fala</a>
+<ul>
+<li class="chapter" data-level="7.0.1" data-path="o-desenvolvimento-da-fala.html"><a href="o-desenvolvimento-da-fala.html#regras"><i class="fa fa-check"></i><b>7.0.1</b> Regras</a></li>
+<li class="chapter" data-level="7.0.2" data-path="o-desenvolvimento-da-fala.html"><a href="o-desenvolvimento-da-fala.html#vocabulário"><i class="fa fa-check"></i><b>7.0.2</b> Vocabulário</a></li>
+<li class="chapter" data-level="7.0.3" data-path="o-desenvolvimento-da-fala.html"><a href="o-desenvolvimento-da-fala.html#prática-language-parents"><i class="fa fa-check"></i><b>7.0.3</b> Prática: <em>language parents</em></a></li>
+<li class="chapter" data-level="" data-path="o-desenvolvimento-da-fala.html"><a href="o-desenvolvimento-da-fala.html#resumo-6"><i class="fa fa-check"></i>Resumo</a></li>
+</ul></li>
+<li class="chapter" data-level="" data-path="ansiedade-de-exposição.html"><a href="ansiedade-de-exposição.html"><i class="fa fa-check"></i>Ansiedade de exposição</a>
+<ul>
+<li class="chapter" data-level="7.1" data-path="ansiedade-de-exposição.html"><a href="ansiedade-de-exposição.html#o-medo-de-se-expor"><i class="fa fa-check"></i><b>7.1</b> O medo de se expor</a></li>
+<li class="chapter" data-level="7.2" data-path="ansiedade-de-exposição.html"><a href="ansiedade-de-exposição.html#o-medo-de-não-entender"><i class="fa fa-check"></i><b>7.2</b> O medo de não entender</a></li>
+<li class="chapter" data-level="7.3" data-path="ansiedade-de-exposição.html"><a href="ansiedade-de-exposição.html#o-medo-de-falar-errado"><i class="fa fa-check"></i><b>7.3</b> O medo de falar errado</a>
+<ul>
+<li class="chapter" data-level="7.3.1" data-path="ansiedade-de-exposição.html"><a href="ansiedade-de-exposição.html#interlúdio-o-desejo-de-falar-perfeitamente"><i class="fa fa-check"></i><b>7.3.1</b> Interlúdio: o desejo de falar perfeitamente</a></li>
+<li class="chapter" data-level="7.3.2" data-path="ansiedade-de-exposição.html"><a href="ansiedade-de-exposição.html#como-de-fato-perder-o-medo-de-falar"><i class="fa fa-check"></i><b>7.3.2</b> Como de fato perder o medo de falar</a></li>
+</ul></li>
+<li class="chapter" data-level="7.4" data-path="ansiedade-de-exposição.html"><a href="ansiedade-de-exposição.html#eu-já-deveria-estar-sabendo-disso"><i class="fa fa-check"></i><b>7.4</b> “Eu já deveria estar sabendo disso”</a></li>
+<li class="chapter" data-level="7.5" data-path="ansiedade-de-exposição.html"><a href="ansiedade-de-exposição.html#práticas-errôneas-comuns"><i class="fa fa-check"></i><b>7.5</b> Práticas errôneas comuns</a>
+<ul>
+<li class="chapter" data-level="7.5.1" data-path="ansiedade-de-exposição.html"><a href="ansiedade-de-exposição.html#tirar-legendas"><i class="fa fa-check"></i><b>7.5.1</b> Tirar legendas</a></li>
+<li class="chapter" data-level="7.5.2" data-path="ansiedade-de-exposição.html"><a href="ansiedade-de-exposição.html#colocar-legendas-na-sua-língua-nativa"><i class="fa fa-check"></i><b>7.5.2</b> Colocar legendas na sua língua nativa</a></li>
+<li class="chapter" data-level="7.5.3" data-path="ansiedade-de-exposição.html"><a href="ansiedade-de-exposição.html#usar-apenas-material-que-já-entendo"><i class="fa fa-check"></i><b>7.5.3</b> Usar apenas material que já entendo</a></li>
+<li class="chapter" data-level="7.5.4" data-path="ansiedade-de-exposição.html"><a href="ansiedade-de-exposição.html#praticar-imersão-apenas-depois-de-estar-preparado"><i class="fa fa-check"></i><b>7.5.4</b> Praticar imersão apenas depois de “estar preparado”</a></li>
+<li class="chapter" data-level="7.5.5" data-path="ansiedade-de-exposição.html"><a href="ansiedade-de-exposição.html#usar-substitutos-à-imersão"><i class="fa fa-check"></i><b>7.5.5</b> Usar substitutos à imersão</a></li>
+<li class="chapter" data-level="7.5.6" data-path="ansiedade-de-exposição.html"><a href="ansiedade-de-exposição.html#usar-apenas-materiais-didáticos"><i class="fa fa-check"></i><b>7.5.6</b> Usar apenas materiais didáticos</a></li>
+</ul></li>
+</ul></li>
+<li class="chapter" data-level="8" data-path="sistemas-de-escrita.html"><a href="sistemas-de-escrita.html"><i class="fa fa-check"></i><b>8</b> Sistemas de escrita</a>
+<ul>
+<li class="chapter" data-level="8.1" data-path="sistemas-de-escrita.html"><a href="sistemas-de-escrita.html#alfabeto-cirílico"><i class="fa fa-check"></i><b>8.1</b> Alfabeto cirílico</a></li>
+<li class="chapter" data-level="8.2" data-path="sistemas-de-escrita.html"><a href="sistemas-de-escrita.html#árabe"><i class="fa fa-check"></i><b>8.2</b> Árabe</a></li>
+<li class="chapter" data-level="8.3" data-path="sistemas-de-escrita.html"><a href="sistemas-de-escrita.html#conclusão-1"><i class="fa fa-check"></i><b>8.3</b> Conclusão</a></li>
+</ul></li>
+<li class="chapter" data-level="" data-path="cursos-e-professores.html"><a href="cursos-e-professores.html"><i class="fa fa-check"></i>Cursos e professores</a>
+<ul>
+<li class="chapter" data-level="8.4" data-path="cursos-e-professores.html"><a href="cursos-e-professores.html#professores-particulares-e-tutores"><i class="fa fa-check"></i><b>8.4</b> Professores particulares e tutores</a></li>
+<li class="chapter" data-level="8.5" data-path="cursos-e-professores.html"><a href="cursos-e-professores.html#cursos"><i class="fa fa-check"></i><b>8.5</b> Cursos</a></li>
+<li class="chapter" data-level="8.6" data-path="cursos-e-professores.html"><a href="cursos-e-professores.html#resumo-7"><i class="fa fa-check"></i><b>8.6</b> Resumo</a></li>
+<li class="chapter" data-level="8.7" data-path="cursos-e-professores.html"><a href="cursos-e-professores.html#por-que-eu-deixei-a-gramática-por-último"><i class="fa fa-check"></i><b>8.7</b> Por que eu deixei a gramática por último</a>
+<ul>
+<li class="chapter" data-level="8.7.1" data-path="cursos-e-professores.html"><a href="cursos-e-professores.html#um-adendo"><i class="fa fa-check"></i><b>8.7.1</b> Um adendo</a></li>
+</ul></li>
+<li class="chapter" data-level="8.8" data-path="cursos-e-professores.html"><a href="cursos-e-professores.html#por-que-aprender-gramática"><i class="fa fa-check"></i><b>8.8</b> Por que aprender gramática</a></li>
+<li class="chapter" data-level="8.9" data-path="cursos-e-professores.html"><a href="cursos-e-professores.html#como-aprender-gramática"><i class="fa fa-check"></i><b>8.9</b> Como aprender gramática</a></li>
+<li class="chapter" data-level="8.10" data-path="cursos-e-professores.html"><a href="cursos-e-professores.html#resumo-8"><i class="fa fa-check"></i><b>8.10</b> Resumo</a></li>
+</ul></li>
+<li class="chapter" data-level="9" data-path="referências.html"><a href="referências.html"><i class="fa fa-check"></i><b>9</b> Referências</a>
+<ul>
+<li class="chapter" data-level="9.1" data-path="referências.html"><a href="referências.html#vídeos"><i class="fa fa-check"></i><b>9.1</b> Vídeos</a>
+<ul>
+<li class="chapter" data-level="9.1.1" data-path="referências.html"><a href="referências.html#vídeos-isolados"><i class="fa fa-check"></i><b>9.1.1</b> Vídeos isolados</a></li>
+<li class="chapter" data-level="9.1.2" data-path="referências.html"><a href="referências.html#canais-do-youtube"><i class="fa fa-check"></i><b>9.1.2</b> Canais do YouTube</a></li>
+</ul></li>
+<li class="chapter" data-level="9.2" data-path="referências.html"><a href="referências.html#livros-1"><i class="fa fa-check"></i><b>9.2</b> Livros</a></li>
+<li class="chapter" data-level="9.3" data-path="referências.html"><a href="referências.html#websites"><i class="fa fa-check"></i><b>9.3</b> Websites</a></li>
+<li class="chapter" data-level="9.4" data-path="referências.html"><a href="referências.html#textos"><i class="fa fa-check"></i><b>9.4</b> Textos</a>
+<ul>
+<li class="chapter" data-level="9.4.1" data-path="referências.html"><a href="referências.html#artigos"><i class="fa fa-check"></i><b>9.4.1</b> Artigos</a></li>
+<li class="chapter" data-level="9.4.2" data-path="referências.html"><a href="referências.html#páginas-da-internet"><i class="fa fa-check"></i><b>9.4.2</b> Páginas da internet</a></li>
+</ul></li>
+</ul></li>
+<li class="chapter" data-level="" data-path="sobre.html"><a href="sobre.html"><i class="fa fa-check"></i>Sobre</a>
+<ul>
+<li class="chapter" data-level="9.5" data-path="sobre.html"><a href="sobre.html#sobre-este-site"><i class="fa fa-check"></i><b>9.5</b> Sobre este site</a>
+<ul>
+<li class="chapter" data-level="9.5.1" data-path="sobre.html"><a href="sobre.html#sobre-o-nome-do-site"><i class="fa fa-check"></i><b>9.5.1</b> Sobre o nome do site</a></li>
+</ul></li>
+<li class="chapter" data-level="9.6" data-path="sobre.html"><a href="sobre.html#sobre-o-autor"><i class="fa fa-check"></i><b>9.6</b> Sobre o autor</a></li>
+</ul></li>
+</ul>
+
+      </nav>
+    </div>
+
+    <div class="book-body">
+      <div class="body-inner">
+        <div class="book-header" role="navigation">
+          <h1>
+            <i class="fa fa-circle-o-notch fa-spin"></i><a href="./">Irídula</a>
+          </h1>
+        </div>
+
+        <div class="page-wrapper" tabindex="-1" role="main">
+          <div class="page-inner">
+
+            <section class="normal" id="section-">
+<div id="anki-plugins-e-awesometts" class="section level1 hasAnchor" number="5">
+<h1><span class="header-section-number">5</span> Anki: plugins e AwesomeTTS<a href="anki-plugins-e-awesometts.html#anki-plugins-e-awesometts" class="anchor-section" aria-label="Anchor link to header"></a></h1>
+<p>Já sabendo como adicionar cartas, você ter o interesse de adicionar som a elas. Claro, isso não é exatamente necessário, mas é um auxílio a mais, principalmente se você estiver estudando uma língua que não tenha uma correspondência entre letra e som tão próxima como o português. Em inglês, por exemplo, as palavras “streak”, “break” e “steak”<a href="#fn13" class="footnote-ref" id="fnref13"><sup>13</sup></a> não têm uma sonoridade previsível apesar de serem parecidas na grafia. Assim, ter um auxílio de pronúncia pode vir a calhar.</p>
+<p>Adicionar som ao Anki pode ser feito de duas formas:</p>
+<ol style="list-style-type: decimal">
+<li><p>Você pode simplesmente adicionar uma gravação da sua voz (ou da voz de outra pessoa) utilizando as funções de “anexar arquivo” ou de “gravar áudio”:
+<img src="img/tut19_attach.png" style="width:30.0%" alt="Os botões com as funções em questão estão em vermelho." /></p></li>
+<li><p>Mais convenientemente, você pode usar <em>plugin</em> que emprega serviços como o Google Tradutor para ler em voz alta a palavra (ou frase) desejada. Aqui nós aprenderemos a fazer isso.</p></li>
+</ol>
+<div id="instalando-plugins" class="section level2 hasAnchor" number="5.1">
+<h2><span class="header-section-number">5.1</span> Instalando plugins<a href="anki-plugins-e-awesometts.html#instalando-plugins" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<p>O processo de instalação de plugins no Anki é simples. Basta seguir a direção exposta na imagem a seguir:</p>
+<div class="float">
+<img src="img/tut20_extension.png" alt="O meno de instalação de plugins é encontrado clicando em “Ferramentas” e então em “Extensões”." />
+<div class="figcaption">O meno de instalação de <em>plugins</em> é encontrado clicando em “Ferramentas” e então em “Extensões”.</div>
+</div>
+<p>Você será recebido com um menu ao lado de um campo branco. Ao clicar em <code>Obter extensões</code>, o programa pedirá de você um código. Se você não sabe qual código inserir, clique em <code>Explorar Extensões</code>. Você será levado para um site onde você poderá pesquisar pelos plugins que você deseja.</p>
+<p><img src="img/tut21.png" /></p>
+<p>Você será recebido pela seguinte página:</p>
+<div class="float">
+<img src="img/tut22.png" alt="Há uma multiplicidade de plugins disponíveis." />
+<div class="figcaption">Há uma multiplicidade de <em>plugins</em> disponíveis.</div>
+</div>
+<p>Há duas opções de plugins de inserção de áudio nesta tela: <em>HyperTTS</em> e <em>AwesomeTTS</em>. Ambos foram feitos pelo mesmo desenvolvedor, e o HyperTTS é a alternativa mais atualizada. Contudo, embora gratuito, ele exige que o usuário se registre, então em prol da simplicidade e rapidez nós vamos abordar o AwesomeTTS aqui.</p>
+<p>Clicando no nome do plugin (“AwesomeTTS”) nesta tela, você será levado para a página da extensão. Há várias imagens, descrições, comentários e tudo mais, mas o que você quer é o código numérico na seção “Download”, logo antes das “Reviews”:</p>
+<p><img src="img/tut23.png" /></p>
+<p>Para facilitar as coisas, o código é este: <code>1436550454</code>. Você precisa copiar esse código e inseri-lo no campo que aparece logo após clicarmos em <code>Obter extensões</code>.</p>
+<p><img src="img/tut24.png" /></p>
+<p>Depois disso, basta clicar em <code>OK</code> que o download da extensão será feita. Feito isso, feche o Anki, abra-o de novo e a extensão estará instalada.</p>
+<p>Agora veremos como usá-la.</p>
+</div>
+<div id="o-menu-painel" class="section level2 hasAnchor" number="5.2">
+<h2><span class="header-section-number">5.2</span> O menu <code>Painel</code><a href="anki-plugins-e-awesometts.html#o-menu-painel" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<p>Para usar o AwesomeTTS de forma eficiente, nós precisamos navegar pelo menu <code>Painel</code> do Anki. Basta clicar em <code>Painel</code>, no mesmo menu em que se encontra as opções <code>Baralho</code>, <code>Adicionar</code>, <code>Estatísticas</code>e <code>Sincronizar</code>.</p>
+<div class="float">
+<img src="img/tut25.png" alt="Aqui você pode editar todas as suas cartas de uma vez só." />
+<div class="figcaption">Aqui você pode editar todas as suas cartas de uma vez só.</div>
+</div>
+<p>Nesta página há várias coisas que podem ser feitas: pode-se substituir caracteres e expressões em massa (caso você tenha cometido um mesmo erro em todas as suas cartas), editar uma por uma, ver as datas de inclusão e de próxima revisão de cada carta, e assim por diante. Pode-se também ver múltiplos baralhos separados ou em conjunto.</p>
+<p>As cartas marcadas como “Novo” na coluna <code>A Revisar</code> ainda não foram estudadas. Você provavelmente vai inserir áudios a novas cartas múltiplas vezes, e você não vai querer adicionar duas ou mais vezes a cartas que já têm áudio. Uma forma de discriminar quais cartas já têm áudio das que não têm é adotar a seguinte estratégia:</p>
+<ul>
+<li>Adicionar áudio às cartas logo após adicioná-las</li>
+<li>Não adicionar novas cartas até ter terminado de estudar as cartas que você estudou antes.
+<ul>
+<li>Você pode também simplesmente ir guardando as cartas que você adicionará no futuro em uma planilha e só fazer a adição de fato após já ter estudo pelo menos uma vez as que estão pendentes. Assim você evita postegar a coleta de novas cartas para além do necessário.</li>
+<li>Alternativamente, você pode criar um baralho separado para as cartas que não têm áudio e após tê-lo adicionado migrá-las para outro baralho;</li>
+</ul></li>
+<li>Apenas adicionar áudio a cartas que não estão marcadas como “Novo”, ou seja, cartas que já foram estudadas.</li>
+</ul>
+<p>Você pode separar as cartas que já foram estudadas das que não foram clicando no nome da coluna “A Revisar”. Isso as organizará por data de revisão. Feito isso, você pode selecionar apenas as que estão marcadas como “Novo”.</p>
+<p>Todavia, neste exemplo nós vamos selecionar todas, pois todas as cartas deste baralho estão sem nenhum arquivo de áudio. Clique na primeira carta, role para o fim da lista com o seu mouse, segure a tecla <code>Shift</code> no seu teclado e então clique na última carta. Elas serão todas selecionadas e ficarão marcadas em cinza.</p>
+<p><img src="img/tut26.png" /></p>
+<p>Se você instalou o <em>AwesomeTTS</em>, você perceberá que lá em cima todas há um novo menu chamado <em>AwesomeTTS</em>. Clique nele e depois em “<em>Add Audio to Selected</em>”. Você verá o seguinte menu:</p>
+<div class="float">
+<img src="img/tut27.png" alt="Aqui pode-se escolher qual serviço utilizar para gerar o som, testar o serviço, escolher o campo a que adicionar a faixa de áudio e algumas outras coisas." />
+<div class="figcaption">Aqui pode-se escolher qual serviço utilizar para gerar o som, testar o serviço, escolher o campo a que adicionar a faixa de áudio e algumas outras coisas.</div>
+</div>
+<p>Dependendo da língua você utilizar, você vai ter que testar serviços diferentes. Você pode escolher o serviço utilizando o menu ao lado do campo <code>Generate using</code>, na seção <code>Configure Service</code>.</p>
+<p>Alguns serviços são pagos, outros exigem que você faça um registro. Há, contudo, serviços que não impõem esses incômodos, e estes são os que nós usaremos. O melhor serviço depende da língua que você for utilizar. Para este exemplo consideraremos a língua inglesa, e por isso utilizaremos a opção que eu acho ser a melhor desta lista: o <em>Youdao Dictionary</em>.</p>
+<p>Feito essa escolha, escolha a voz desejada. Há duas opções: inglês americano ou britânico. É questão de gosto.</p>
+<p>Do lado direito da tela, há a opção de <code>Preview</code>, em que você pode testar palavras e frases. Abaixo desta, <code>Fields and Handling</code>. <code>Source Field</code> é a parte do seu baralho que o serviço selecionado usará como fonte para produzir os sons. <code>Destination Field</code> é a parte do seu baralho em que a faixa de áudio produzida vai ser armazenada.</p>
+<p>Se você quiser “adivinhar” ou “lembrar” a pronúncia correta de uma palavra, coloque no <code>Destination Field</code> o campo <code>Verso</code>. Mas eu não acho que isso é necessário, então por conta disso, para este exemplo, nós colocaremos tanto o <code>Source Field</code> quanto o <code>Destination Field</code> como <code>Frente</code>.</p>
+<p>Logo abaixo você verá duas opções:</p>
+<ol style="list-style-type: decimal">
+<li><code>Append [sound:xxx] Tag onto Destination Field</code>
+<ul>
+<li>Esta função simplesmente adiciona a faixa de som ao <code>Destination Field</code>.</li>
+</ul></li>
+<li><code>Overwrite the Destination Field w/ Media Filename</code>
+<ul>
+<li>Esta função apaga o conteúdo do <code>Destination Field</code> e coloca a faixa de som no seu lugar.</li>
+</ul></li>
+</ol>
+<p>Escolha a primeira. Se você escolher a segunda, você apagará o conteúdo do campo que está como <code>Destination Field</code>, e você provavelmente não quer isso.</p>
+<p>Deixe marcada também a caixa “<code>Remove Existing [sound:xxx] Tag(s)</code>”. Ela faz com que qualquer faixa de som que você tenha adicionado a este campo antes seja substituída pela que você está inserindo agora. Não há razão para desmarcar esta opção, a menos que você tenha anteriormente adicionado alguma outra faixa de som que você queira manter.</p>
+<p><img src="img/tut29.png" /></p>
+<p>Feito tudo isso, clique em <code>Generate</code>. O programa começará a coletar as palavras marcadas e adicioná-las ao campo conforme você configurou. A cada 10 palavras coletadas, o programa fará uma pausa de 30 segundos. O motivo desta pausa é não sobrecarregar o servidor do serviço selecionado (neste caso, o <em>Youdao Dictionary</em>). Outros serviços, como o <em>Google Translate</em>, impõem uma pausa de 30 segundos <em>a cada uma</em> palavra, motivo pelo qual eu não gosto tanto de utilizá-los. O Yandex também é bom, mas não é o melhor para o inglês.</p>
+<p>Se tudo der certo, você verá a seguinte página:</p>
+<p><img src="img/tut30.png" /></p>
+<p>E pronto! Agora suas cartas têm áudio.</p>
+<p>No próximo capítulo nós aprenderemos a adicionar diferentes campos ao baralho e a editar a aparência deles. Neste momento o nosso baralho só tem dois campos: <code>Frente</code> e <code>Verso</code>. Nós adicionaremos os campos <code>Exemplos</code>, <code>Tradução dos exemplos</code> e <code>Áudio</code>.</p>
+<hr />
+<p>Vimos aqui como utilizar a extensão <em>AwesomeTTS</em> para adicionar som ao Anki. Existem múltiplas outras extensões, umas apenas como valor estético (como o <em>Minimal Theme</em>), outras para nos fornecer um panorama geral da nossa frequência de estudo (como o <em>Review Heatmap</em>) e ainda há outros que adicionam diferentes funcionalidades ao Anki: memorização de poemas, leitura de PDFs, treinamento para escrita de <em>Kanji</em> para quem está estudando japonês, e muitos outros. Há uma enorme variedade. Caso você tenha alguma demanda que o Anki padrão não cobre, é possível que você encontre uma extensão que serve justamente para ela na página de <em>plugins</em> do Anki.</p>
+</div>
+</div>
+<div class="footnotes">
+<hr />
+<ol start="13">
+<li id="fn13"><p>Elas soam, respectivamente, como “/strik/”, “/brêik/” e “/stêik/”<a href="anki-plugins-e-awesometts.html#fnref13" class="footnote-back">↩︎</a></p></li>
+</ol>
+</div>
+            </section>
+
+          </div>
+        </div>
+      </div>
+<a href="anki-primeiros-passos.html" class="navigation navigation-prev " aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
+<a href="anki-customização-de-baralhos.html" class="navigation navigation-next " aria-label="Next page"><i class="fa fa-angle-right"></i></a>
+    </div>
+  </div>
+<script src="libs/gitbook-2.6.7/js/app.min.js"></script>
+<script src="libs/gitbook-2.6.7/js/clipboard.min.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-search.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-sharing.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-fontsettings.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-bookdown.js"></script>
+<script src="libs/gitbook-2.6.7/js/jquery.highlight.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-clipboard.js"></script>
+<script>
+gitbook.require(["gitbook"], function(gitbook) {
+gitbook.start({
+"sharing": {
+"github": false,
+"facebook": true,
+"twitter": true,
+"linkedin": false,
+"weibo": false,
+"instapaper": false,
+"vk": false,
+"whatsapp": false,
+"all": ["facebook", "twitter", "linkedin", "weibo", "instapaper"]
+},
+"fontsettings": {
+"theme": "white",
+"family": "sans",
+"size": 2
+},
+"edit": {
+"link": null,
+"text": null
+},
+"history": {
+"link": null,
+"text": null
+},
+"view": {
+"link": null,
+"text": null
+},
+"download": null,
+"search": {
+"engine": "fuse",
+"options": null
+},
+"toc": {
+"collapse": "subsection"
+}
+});
+});
+</script>
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    var src = "true";
+    if (src === "" || src === "true") src = "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.9/latest.js?config=TeX-MML-AM_CHTML";
+    if (location.protocol !== "file:")
+      if (/^https?:/.test(src))
+        src = src.replace(/^https?:/, '');
+    script.src = src;
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+</body>
+
+</html>

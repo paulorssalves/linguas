@@ -1,3 +1,8 @@
+---
+output:
+  pdf_document: default
+  html_document: default
+---
 # Como adquirir uma língua
 
 Para adquirir uma língua, você deve passar tempo com ela. Não pense na língua como uma ferramenta que você tem que dominar. Língua não é matemática, e ficar fazendo exercícios de gramática não vai te levar muito longe. Caso isso soe estranho, ou mesmo ultrajante, recomendo a leitura da página sobre [o papel da gramática][O papel da gramática].

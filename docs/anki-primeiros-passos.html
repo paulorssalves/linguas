@@ -1,0 +1,611 @@
+<!DOCTYPE html>
+<html lang="" xml:lang="">
+<head>
+
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <title>4 Anki: primeiros passos | Irídula</title>
+  <meta name="description" content="4 Anki: primeiros passos | Irídula" />
+  <meta name="generator" content="bookdown 0.34 and GitBook 2.6.7" />
+
+  <meta property="og:title" content="4 Anki: primeiros passos | Irídula" />
+  <meta property="og:type" content="book" />
+  
+  
+  
+
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:title" content="4 Anki: primeiros passos | Irídula" />
+  
+  
+  
+
+
+
+
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+  
+  
+<link rel="prev" href="ferramentas-auxiliares-no-aprendizado-de-línguas.html"/>
+<link rel="next" href="anki-plugins-e-awesometts.html"/>
+<script src="libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/fuse.js@6.4.6/dist/fuse.min.js"></script>
+<link href="libs/gitbook-2.6.7/css/style.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-table.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-bookdown.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-highlight.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-search.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-fontsettings.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-clipboard.css" rel="stylesheet" />
+
+
+
+
+
+
+
+
+<link href="libs/anchor-sections-1.1.0/anchor-sections.css" rel="stylesheet" />
+<link href="libs/anchor-sections-1.1.0/anchor-sections-hash.css" rel="stylesheet" />
+<script src="libs/anchor-sections-1.1.0/anchor-sections.js"></script>
+
+
+<style type="text/css">
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+    color: #aaaaaa;
+  }
+pre.numberSource { margin-left: 3em; border-left: 1px solid #aaaaaa;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+}
+code span.al { color: #ff0000; font-weight: bold; } /* Alert */
+code span.an { color: #60a0b0; font-weight: bold; font-style: italic; } /* Annotation */
+code span.at { color: #7d9029; } /* Attribute */
+code span.bn { color: #40a070; } /* BaseN */
+code span.bu { color: #008000; } /* BuiltIn */
+code span.cf { color: #007020; font-weight: bold; } /* ControlFlow */
+code span.ch { color: #4070a0; } /* Char */
+code span.cn { color: #880000; } /* Constant */
+code span.co { color: #60a0b0; font-style: italic; } /* Comment */
+code span.cv { color: #60a0b0; font-weight: bold; font-style: italic; } /* CommentVar */
+code span.do { color: #ba2121; font-style: italic; } /* Documentation */
+code span.dt { color: #902000; } /* DataType */
+code span.dv { color: #40a070; } /* DecVal */
+code span.er { color: #ff0000; font-weight: bold; } /* Error */
+code span.ex { } /* Extension */
+code span.fl { color: #40a070; } /* Float */
+code span.fu { color: #06287e; } /* Function */
+code span.im { color: #008000; font-weight: bold; } /* Import */
+code span.in { color: #60a0b0; font-weight: bold; font-style: italic; } /* Information */
+code span.kw { color: #007020; font-weight: bold; } /* Keyword */
+code span.op { color: #666666; } /* Operator */
+code span.ot { color: #007020; } /* Other */
+code span.pp { color: #bc7a00; } /* Preprocessor */
+code span.sc { color: #4070a0; } /* SpecialChar */
+code span.ss { color: #bb6688; } /* SpecialString */
+code span.st { color: #4070a0; } /* String */
+code span.va { color: #19177c; } /* Variable */
+code span.vs { color: #4070a0; } /* VerbatimString */
+code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warning */
+</style>
+
+<style type="text/css">
+  
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+</style>
+
+</head>
+
+<body>
+
+
+
+  <div class="book without-animation with-summary font-size-2 font-family-1" data-basepath=".">
+
+    <div class="book-summary">
+      <nav role="navigation">
+
+<ul class="summary">
+<li class="chapter" data-level="" data-path="como-aprender-uma-língua.html"><a href="como-aprender-uma-língua.html"><i class="fa fa-check"></i>Como aprender uma língua</a>
+<ul>
+<li class="chapter" data-level="" data-path="como-aprender-uma-língua.html"><a href="como-aprender-uma-língua.html#motivação"><i class="fa fa-check"></i>Motivação</a></li>
+<li class="chapter" data-level="" data-path="como-aprender-uma-língua.html"><a href="como-aprender-uma-língua.html#imersão"><i class="fa fa-check"></i>Imersão</a></li>
+<li class="chapter" data-level="0.1" data-path="como-aprender-uma-língua.html"><a href="como-aprender-uma-língua.html#características-do-conteúdo-para-imersão"><i class="fa fa-check"></i><b>0.1</b> Características do conteúdo para imersão</a>
+<ul>
+<li class="chapter" data-level="0.1.1" data-path="como-aprender-uma-língua.html"><a href="como-aprender-uma-língua.html#audiovisual-jogos-filmes-e-séries"><i class="fa fa-check"></i><b>0.1.1</b> Audiovisual: jogos, filmes e séries</a></li>
+<li class="chapter" data-level="0.1.2" data-path="como-aprender-uma-língua.html"><a href="como-aprender-uma-língua.html#livros-e-podcasts"><i class="fa fa-check"></i><b>0.1.2</b> Livros e Podcasts</a></li>
+</ul></li>
+<li class="chapter" data-level="0.2" data-path="como-aprender-uma-língua.html"><a href="como-aprender-uma-língua.html#ferramentas-auxiliares"><i class="fa fa-check"></i><b>0.2</b> Ferramentas auxiliares</a></li>
+<li class="chapter" data-level="0.3" data-path="como-aprender-uma-língua.html"><a href="como-aprender-uma-língua.html#a-habilidade-da-fala"><i class="fa fa-check"></i><b>0.3</b> A habilidade da fala</a></li>
+<li class="chapter" data-level="0.4" data-path="como-aprender-uma-língua.html"><a href="como-aprender-uma-língua.html#o-papel-da-gramática"><i class="fa fa-check"></i><b>0.4</b> O papel da gramática</a></li>
+<li class="chapter" data-level="0.5" data-path="como-aprender-uma-língua.html"><a href="como-aprender-uma-língua.html#a-importância-do-interesse"><i class="fa fa-check"></i><b>0.5</b> A importância do interesse</a></li>
+<li class="chapter" data-level="0.6" data-path="como-aprender-uma-língua.html"><a href="como-aprender-uma-língua.html#conclusão"><i class="fa fa-check"></i><b>0.6</b> Conclusão</a></li>
+</ul></li>
+<li class="chapter" data-level="1" data-path="introdução.html"><a href="introdução.html"><i class="fa fa-check"></i><b>1</b> Introdução</a>
+<ul>
+<li class="chapter" data-level="1.1" data-path="introdução.html"><a href="introdução.html#resumo"><i class="fa fa-check"></i><b>1.1</b> Resumo</a></li>
+</ul></li>
+<li class="chapter" data-level="" data-path="a-motivação.html"><a href="a-motivação.html"><i class="fa fa-check"></i>A motivação</a>
+<ul>
+<li class="chapter" data-level="1.2" data-path="a-motivação.html"><a href="a-motivação.html#resumo-1"><i class="fa fa-check"></i><b>1.2</b> Resumo</a></li>
+</ul></li>
+<li class="chapter" data-level="" data-path="a-diferença-entre-aprendizado-e-aquisição.html"><a href="a-diferença-entre-aprendizado-e-aquisição.html"><i class="fa fa-check"></i>A diferença entre aprendizado e aquisição</a>
+<ul>
+<li class="chapter" data-level="" data-path="a-diferença-entre-aprendizado-e-aquisição.html"><a href="a-diferença-entre-aprendizado-e-aquisição.html#resumo-2"><i class="fa fa-check"></i>Resumo</a></li>
+</ul></li>
+<li class="chapter" data-level="2" data-path="como-adquirir-uma-língua.html"><a href="como-adquirir-uma-língua.html"><i class="fa fa-check"></i><b>2</b> Como adquirir uma língua</a>
+<ul>
+<li class="chapter" data-level="2.1" data-path="como-adquirir-uma-língua.html"><a href="como-adquirir-uma-língua.html#resumo-3"><i class="fa fa-check"></i><b>2.1</b> Resumo</a></li>
+</ul></li>
+<li class="chapter" data-level="3" data-path="melhores-conteúdos-para-aprender-uma-língua.html"><a href="melhores-conteúdos-para-aprender-uma-língua.html"><i class="fa fa-check"></i><b>3</b> Melhores conteúdos para aprender uma língua</a>
+<ul>
+<li class="chapter" data-level="3.1" data-path="melhores-conteúdos-para-aprender-uma-língua.html"><a href="melhores-conteúdos-para-aprender-uma-língua.html#i1"><i class="fa fa-check"></i><b>3.1</b> I+1</a></li>
+<li class="chapter" data-level="3.2" data-path="melhores-conteúdos-para-aprender-uma-língua.html"><a href="melhores-conteúdos-para-aprender-uma-língua.html#tipos-de-conteúdo"><i class="fa fa-check"></i><b>3.2</b> Tipos de conteúdo</a>
+<ul>
+<li class="chapter" data-level="3.2.1" data-path="melhores-conteúdos-para-aprender-uma-língua.html"><a href="melhores-conteúdos-para-aprender-uma-língua.html#jogos"><i class="fa fa-check"></i><b>3.2.1</b> Jogos</a></li>
+<li class="chapter" data-level="3.2.2" data-path="melhores-conteúdos-para-aprender-uma-língua.html"><a href="melhores-conteúdos-para-aprender-uma-língua.html#filmes-séries-documentários-noticiários-etc."><i class="fa fa-check"></i><b>3.2.2</b> Filmes, séries, documentários, noticiários etc.</a></li>
+<li class="chapter" data-level="3.2.3" data-path="melhores-conteúdos-para-aprender-uma-língua.html"><a href="melhores-conteúdos-para-aprender-uma-língua.html#livros-e-podcasts-1"><i class="fa fa-check"></i><b>3.2.3</b> Livros e podcasts</a></li>
+</ul></li>
+<li class="chapter" data-level="3.3" data-path="melhores-conteúdos-para-aprender-uma-língua.html"><a href="melhores-conteúdos-para-aprender-uma-língua.html#necessidade-de-ferramentas-de-apoio-para-a-imersão"><i class="fa fa-check"></i><b>3.3</b> Necessidade de ferramentas de apoio para a imersão</a></li>
+<li class="chapter" data-level="3.4" data-path="melhores-conteúdos-para-aprender-uma-língua.html"><a href="melhores-conteúdos-para-aprender-uma-língua.html#resumo-4"><i class="fa fa-check"></i><b>3.4</b> Resumo</a></li>
+</ul></li>
+<li class="chapter" data-level="" data-path="ferramentas-auxiliares-no-aprendizado-de-línguas.html"><a href="ferramentas-auxiliares-no-aprendizado-de-línguas.html"><i class="fa fa-check"></i>Ferramentas auxiliares no aprendizado de línguas</a>
+<ul>
+<li class="chapter" data-level="" data-path="ferramentas-auxiliares-no-aprendizado-de-línguas.html"><a href="ferramentas-auxiliares-no-aprendizado-de-línguas.html#o-uso-de-aplicativos"><i class="fa fa-check"></i>O uso de aplicativos</a></li>
+<li class="chapter" data-level="" data-path="ferramentas-auxiliares-no-aprendizado-de-línguas.html"><a href="ferramentas-auxiliares-no-aprendizado-de-línguas.html#sistemas-de-repetição-espaçada"><i class="fa fa-check"></i>Sistemas de repetição espaçada</a></li>
+<li class="chapter" data-level="3.5" data-path="ferramentas-auxiliares-no-aprendizado-de-línguas.html"><a href="ferramentas-auxiliares-no-aprendizado-de-línguas.html#resumo-5"><i class="fa fa-check"></i><b>3.5</b> Resumo</a></li>
+</ul></li>
+<li class="chapter" data-level="4" data-path="anki-primeiros-passos.html"><a href="anki-primeiros-passos.html"><i class="fa fa-check"></i><b>4</b> Anki: primeiros passos</a>
+<ul>
+<li class="chapter" data-level="4.1" data-path="anki-primeiros-passos.html"><a href="anki-primeiros-passos.html#utilizando-o-anki-no-computador"><i class="fa fa-check"></i><b>4.1</b> Utilizando o Anki no computador</a>
+<ul>
+<li class="chapter" data-level="4.1.1" data-path="anki-primeiros-passos.html"><a href="anki-primeiros-passos.html#instalação"><i class="fa fa-check"></i><b>4.1.1</b> Instalação</a></li>
+</ul></li>
+<li class="chapter" data-level="4.2" data-path="anki-primeiros-passos.html"><a href="anki-primeiros-passos.html#o-menu-de-baralhos"><i class="fa fa-check"></i><b>4.2</b> O menu de baralhos</a>
+<ul>
+<li class="chapter" data-level="4.2.1" data-path="anki-primeiros-passos.html"><a href="anki-primeiros-passos.html#baralhos"><i class="fa fa-check"></i><b>4.2.1</b> Baralhos</a></li>
+</ul></li>
+<li class="chapter" data-level="4.3" data-path="anki-primeiros-passos.html"><a href="anki-primeiros-passos.html#adicionar-criando-cartas"><i class="fa fa-check"></i><b>4.3</b> Adicionar: Criando cartas</a>
+<ul>
+<li class="chapter" data-level="4.3.1" data-path="anki-primeiros-passos.html"><a href="anki-primeiros-passos.html#criando-cartas-pelo-anki"><i class="fa fa-check"></i><b>4.3.1</b> Criando cartas pelo Anki</a></li>
+</ul></li>
+<li class="chapter" data-level="4.4" data-path="anki-primeiros-passos.html"><a href="anki-primeiros-passos.html#criando-cartas-em-planilhas"><i class="fa fa-check"></i><b>4.4</b> Criando cartas em planilhas</a></li>
+<li class="chapter" data-level="4.5" data-path="anki-primeiros-passos.html"><a href="anki-primeiros-passos.html#práticas-para-elaborar-flashcards"><i class="fa fa-check"></i><b>4.5</b> Práticas para elaborar flashcards</a></li>
+<li class="chapter" data-level="4.6" data-path="anki-primeiros-passos.html"><a href="anki-primeiros-passos.html#utilizando-o-anki-pelo-celular"><i class="fa fa-check"></i><b>4.6</b> Utilizando o Anki pelo celular</a></li>
+</ul></li>
+<li class="chapter" data-level="5" data-path="anki-plugins-e-awesometts.html"><a href="anki-plugins-e-awesometts.html"><i class="fa fa-check"></i><b>5</b> Anki: plugins e AwesomeTTS</a>
+<ul>
+<li class="chapter" data-level="5.1" data-path="anki-plugins-e-awesometts.html"><a href="anki-plugins-e-awesometts.html#instalando-plugins"><i class="fa fa-check"></i><b>5.1</b> Instalando plugins</a></li>
+<li class="chapter" data-level="5.2" data-path="anki-plugins-e-awesometts.html"><a href="anki-plugins-e-awesometts.html#o-menu-painel"><i class="fa fa-check"></i><b>5.2</b> O menu <code>Painel</code></a></li>
+</ul></li>
+<li class="chapter" data-level="6" data-path="anki-customização-de-baralhos.html"><a href="anki-customização-de-baralhos.html"><i class="fa fa-check"></i><b>6</b> Anki: customização de baralhos</a>
+<ul>
+<li class="chapter" data-level="6.1" data-path="anki-customização-de-baralhos.html"><a href="anki-customização-de-baralhos.html#criando-diferentes-tipos-de-notas"><i class="fa fa-check"></i><b>6.1</b> Criando diferentes tipos de notas</a></li>
+<li class="chapter" data-level="6.2" data-path="anki-customização-de-baralhos.html"><a href="anki-customização-de-baralhos.html#editando"><i class="fa fa-check"></i><b>6.2</b> Editando</a></li>
+<li class="chapter" data-level="6.3" data-path="anki-customização-de-baralhos.html"><a href="anki-customização-de-baralhos.html#usando-planilhas-para-criar-cartas-com-múltiplos-campos"><i class="fa fa-check"></i><b>6.3</b> Usando planilhas para criar cartas com múltiplos campos</a></li>
+<li class="chapter" data-level="6.4" data-path="anki-customização-de-baralhos.html"><a href="anki-customização-de-baralhos.html#html-e-css"><i class="fa fa-check"></i><b>6.4</b> HTML e CSS</a>
+<ul>
+<li class="chapter" data-level="6.4.1" data-path="anki-customização-de-baralhos.html"><a href="anki-customização-de-baralhos.html#html-no-conteúdo-das-cartas"><i class="fa fa-check"></i><b>6.4.1</b> HTML no conteúdo das cartas</a></li>
+<li class="chapter" data-level="6.4.2" data-path="anki-customização-de-baralhos.html"><a href="anki-customização-de-baralhos.html#html-na-estrutura-das-cartas"><i class="fa fa-check"></i><b>6.4.2</b> HTML na estrutura das cartas</a></li>
+</ul></li>
+</ul></li>
+<li class="chapter" data-level="7" data-path="anki-conclusão.html"><a href="anki-conclusão.html"><i class="fa fa-check"></i><b>7</b> Anki: conclusão</a></li>
+<li class="chapter" data-level="" data-path="a-interação-entre-repetição-espaçada-e-imersão.html"><a href="a-interação-entre-repetição-espaçada-e-imersão.html"><i class="fa fa-check"></i>A interação entre repetição espaçada e imersão</a></li>
+<li class="chapter" data-level="" data-path="o-desenvolvimento-da-fala.html"><a href="o-desenvolvimento-da-fala.html"><i class="fa fa-check"></i>O desenvolvimento da fala</a>
+<ul>
+<li class="chapter" data-level="7.0.1" data-path="o-desenvolvimento-da-fala.html"><a href="o-desenvolvimento-da-fala.html#regras"><i class="fa fa-check"></i><b>7.0.1</b> Regras</a></li>
+<li class="chapter" data-level="7.0.2" data-path="o-desenvolvimento-da-fala.html"><a href="o-desenvolvimento-da-fala.html#vocabulário"><i class="fa fa-check"></i><b>7.0.2</b> Vocabulário</a></li>
+<li class="chapter" data-level="7.0.3" data-path="o-desenvolvimento-da-fala.html"><a href="o-desenvolvimento-da-fala.html#prática-language-parents"><i class="fa fa-check"></i><b>7.0.3</b> Prática: <em>language parents</em></a></li>
+<li class="chapter" data-level="" data-path="o-desenvolvimento-da-fala.html"><a href="o-desenvolvimento-da-fala.html#resumo-6"><i class="fa fa-check"></i>Resumo</a></li>
+</ul></li>
+<li class="chapter" data-level="" data-path="ansiedade-de-exposição.html"><a href="ansiedade-de-exposição.html"><i class="fa fa-check"></i>Ansiedade de exposição</a>
+<ul>
+<li class="chapter" data-level="7.1" data-path="ansiedade-de-exposição.html"><a href="ansiedade-de-exposição.html#o-medo-de-se-expor"><i class="fa fa-check"></i><b>7.1</b> O medo de se expor</a></li>
+<li class="chapter" data-level="7.2" data-path="ansiedade-de-exposição.html"><a href="ansiedade-de-exposição.html#o-medo-de-não-entender"><i class="fa fa-check"></i><b>7.2</b> O medo de não entender</a></li>
+<li class="chapter" data-level="7.3" data-path="ansiedade-de-exposição.html"><a href="ansiedade-de-exposição.html#o-medo-de-falar-errado"><i class="fa fa-check"></i><b>7.3</b> O medo de falar errado</a>
+<ul>
+<li class="chapter" data-level="7.3.1" data-path="ansiedade-de-exposição.html"><a href="ansiedade-de-exposição.html#interlúdio-o-desejo-de-falar-perfeitamente"><i class="fa fa-check"></i><b>7.3.1</b> Interlúdio: o desejo de falar perfeitamente</a></li>
+<li class="chapter" data-level="7.3.2" data-path="ansiedade-de-exposição.html"><a href="ansiedade-de-exposição.html#como-de-fato-perder-o-medo-de-falar"><i class="fa fa-check"></i><b>7.3.2</b> Como de fato perder o medo de falar</a></li>
+</ul></li>
+<li class="chapter" data-level="7.4" data-path="ansiedade-de-exposição.html"><a href="ansiedade-de-exposição.html#eu-já-deveria-estar-sabendo-disso"><i class="fa fa-check"></i><b>7.4</b> “Eu já deveria estar sabendo disso”</a></li>
+<li class="chapter" data-level="7.5" data-path="ansiedade-de-exposição.html"><a href="ansiedade-de-exposição.html#práticas-errôneas-comuns"><i class="fa fa-check"></i><b>7.5</b> Práticas errôneas comuns</a>
+<ul>
+<li class="chapter" data-level="7.5.1" data-path="ansiedade-de-exposição.html"><a href="ansiedade-de-exposição.html#tirar-legendas"><i class="fa fa-check"></i><b>7.5.1</b> Tirar legendas</a></li>
+<li class="chapter" data-level="7.5.2" data-path="ansiedade-de-exposição.html"><a href="ansiedade-de-exposição.html#colocar-legendas-na-sua-língua-nativa"><i class="fa fa-check"></i><b>7.5.2</b> Colocar legendas na sua língua nativa</a></li>
+<li class="chapter" data-level="7.5.3" data-path="ansiedade-de-exposição.html"><a href="ansiedade-de-exposição.html#usar-apenas-material-que-já-entendo"><i class="fa fa-check"></i><b>7.5.3</b> Usar apenas material que já entendo</a></li>
+<li class="chapter" data-level="7.5.4" data-path="ansiedade-de-exposição.html"><a href="ansiedade-de-exposição.html#praticar-imersão-apenas-depois-de-estar-preparado"><i class="fa fa-check"></i><b>7.5.4</b> Praticar imersão apenas depois de “estar preparado”</a></li>
+<li class="chapter" data-level="7.5.5" data-path="ansiedade-de-exposição.html"><a href="ansiedade-de-exposição.html#usar-substitutos-à-imersão"><i class="fa fa-check"></i><b>7.5.5</b> Usar substitutos à imersão</a></li>
+<li class="chapter" data-level="7.5.6" data-path="ansiedade-de-exposição.html"><a href="ansiedade-de-exposição.html#usar-apenas-materiais-didáticos"><i class="fa fa-check"></i><b>7.5.6</b> Usar apenas materiais didáticos</a></li>
+</ul></li>
+</ul></li>
+<li class="chapter" data-level="8" data-path="sistemas-de-escrita.html"><a href="sistemas-de-escrita.html"><i class="fa fa-check"></i><b>8</b> Sistemas de escrita</a>
+<ul>
+<li class="chapter" data-level="8.1" data-path="sistemas-de-escrita.html"><a href="sistemas-de-escrita.html#alfabeto-cirílico"><i class="fa fa-check"></i><b>8.1</b> Alfabeto cirílico</a></li>
+<li class="chapter" data-level="8.2" data-path="sistemas-de-escrita.html"><a href="sistemas-de-escrita.html#árabe"><i class="fa fa-check"></i><b>8.2</b> Árabe</a></li>
+<li class="chapter" data-level="8.3" data-path="sistemas-de-escrita.html"><a href="sistemas-de-escrita.html#conclusão-1"><i class="fa fa-check"></i><b>8.3</b> Conclusão</a></li>
+</ul></li>
+<li class="chapter" data-level="" data-path="cursos-e-professores.html"><a href="cursos-e-professores.html"><i class="fa fa-check"></i>Cursos e professores</a>
+<ul>
+<li class="chapter" data-level="8.4" data-path="cursos-e-professores.html"><a href="cursos-e-professores.html#professores-particulares-e-tutores"><i class="fa fa-check"></i><b>8.4</b> Professores particulares e tutores</a></li>
+<li class="chapter" data-level="8.5" data-path="cursos-e-professores.html"><a href="cursos-e-professores.html#cursos"><i class="fa fa-check"></i><b>8.5</b> Cursos</a></li>
+<li class="chapter" data-level="8.6" data-path="cursos-e-professores.html"><a href="cursos-e-professores.html#resumo-7"><i class="fa fa-check"></i><b>8.6</b> Resumo</a></li>
+<li class="chapter" data-level="8.7" data-path="cursos-e-professores.html"><a href="cursos-e-professores.html#por-que-eu-deixei-a-gramática-por-último"><i class="fa fa-check"></i><b>8.7</b> Por que eu deixei a gramática por último</a>
+<ul>
+<li class="chapter" data-level="8.7.1" data-path="cursos-e-professores.html"><a href="cursos-e-professores.html#um-adendo"><i class="fa fa-check"></i><b>8.7.1</b> Um adendo</a></li>
+</ul></li>
+<li class="chapter" data-level="8.8" data-path="cursos-e-professores.html"><a href="cursos-e-professores.html#por-que-aprender-gramática"><i class="fa fa-check"></i><b>8.8</b> Por que aprender gramática</a></li>
+<li class="chapter" data-level="8.9" data-path="cursos-e-professores.html"><a href="cursos-e-professores.html#como-aprender-gramática"><i class="fa fa-check"></i><b>8.9</b> Como aprender gramática</a></li>
+<li class="chapter" data-level="8.10" data-path="cursos-e-professores.html"><a href="cursos-e-professores.html#resumo-8"><i class="fa fa-check"></i><b>8.10</b> Resumo</a></li>
+</ul></li>
+<li class="chapter" data-level="9" data-path="referências.html"><a href="referências.html"><i class="fa fa-check"></i><b>9</b> Referências</a>
+<ul>
+<li class="chapter" data-level="9.1" data-path="referências.html"><a href="referências.html#vídeos"><i class="fa fa-check"></i><b>9.1</b> Vídeos</a>
+<ul>
+<li class="chapter" data-level="9.1.1" data-path="referências.html"><a href="referências.html#vídeos-isolados"><i class="fa fa-check"></i><b>9.1.1</b> Vídeos isolados</a></li>
+<li class="chapter" data-level="9.1.2" data-path="referências.html"><a href="referências.html#canais-do-youtube"><i class="fa fa-check"></i><b>9.1.2</b> Canais do YouTube</a></li>
+</ul></li>
+<li class="chapter" data-level="9.2" data-path="referências.html"><a href="referências.html#livros-1"><i class="fa fa-check"></i><b>9.2</b> Livros</a></li>
+<li class="chapter" data-level="9.3" data-path="referências.html"><a href="referências.html#websites"><i class="fa fa-check"></i><b>9.3</b> Websites</a></li>
+<li class="chapter" data-level="9.4" data-path="referências.html"><a href="referências.html#textos"><i class="fa fa-check"></i><b>9.4</b> Textos</a>
+<ul>
+<li class="chapter" data-level="9.4.1" data-path="referências.html"><a href="referências.html#artigos"><i class="fa fa-check"></i><b>9.4.1</b> Artigos</a></li>
+<li class="chapter" data-level="9.4.2" data-path="referências.html"><a href="referências.html#páginas-da-internet"><i class="fa fa-check"></i><b>9.4.2</b> Páginas da internet</a></li>
+</ul></li>
+</ul></li>
+<li class="chapter" data-level="" data-path="sobre.html"><a href="sobre.html"><i class="fa fa-check"></i>Sobre</a>
+<ul>
+<li class="chapter" data-level="9.5" data-path="sobre.html"><a href="sobre.html#sobre-este-site"><i class="fa fa-check"></i><b>9.5</b> Sobre este site</a>
+<ul>
+<li class="chapter" data-level="9.5.1" data-path="sobre.html"><a href="sobre.html#sobre-o-nome-do-site"><i class="fa fa-check"></i><b>9.5.1</b> Sobre o nome do site</a></li>
+</ul></li>
+<li class="chapter" data-level="9.6" data-path="sobre.html"><a href="sobre.html#sobre-o-autor"><i class="fa fa-check"></i><b>9.6</b> Sobre o autor</a></li>
+</ul></li>
+</ul>
+
+      </nav>
+    </div>
+
+    <div class="book-body">
+      <div class="body-inner">
+        <div class="book-header" role="navigation">
+          <h1>
+            <i class="fa fa-circle-o-notch fa-spin"></i><a href="./">Irídula</a>
+          </h1>
+        </div>
+
+        <div class="page-wrapper" tabindex="-1" role="main">
+          <div class="page-inner">
+
+            <section class="normal" id="section-">
+<div id="anki-primeiros-passos" class="section level1 hasAnchor" number="4">
+<h1><span class="header-section-number">4</span> Anki: primeiros passos<a href="anki-primeiros-passos.html#anki-primeiros-passos" class="anchor-section" aria-label="Anchor link to header"></a></h1>
+<p>Antes de mais nada, o que é o Anki?</p>
+<p>O Anki é um programa feito pra te ajudar a <em>memorizar coisas</em>. As pessoas o utilizam para memorizar poemas, matérias na faculdade (o Anki é muito comum entre estudantes de medicina), teoria e notação musical e – o nosso caso – palavras em uma língua estrangeira.</p>
+<p>Ele funciona por meio de flashcards digitais. Como foi dito anteriormente, flashcards são cartas com uma pergunta na frente e sua resposta no verso. Uma exemplo de pergunta na frente pode ser “Qual é o maior músculo da metade inferior do corpo”, diante da qual o verso seria o “Glúteo Máximo”. No estudo de línguas, o lado da frente da carta poderia ser simplesmente algo como “Actually”, diante do qual o verso seria “Na verdade”; frente: “Wreak havoc”, verso: “Causar caos; causar destruição”. É possível adicionar mais informação além de só uma pergunta, como diretrizes de pronúncia, desenhos, ilustrações ou que quer que seja considerado útil.</p>
+<div class="float">
+<img src="img/bas0102.png" alt="Frente (à direita) de um flashcard no Anki e frente e verso (à esquerda). Repare no painel na parte de baixo da tela: ao se mostrar o verso da carta, ele muda." />
+<div class="figcaption">Frente (à direita) de um <em>flashcard</em> no Anki e frente e verso (à esquerda). Repare no painel na parte de baixo da tela: ao se mostrar o verso da carta, ele muda.</div>
+</div>
+<p>Mas isso pode ser muito trabalhoso de fazer à mão, e por conta disso o Anki foi desenvolvido para alavancar o mundo digital em benefício desta tarefa.</p>
+<p>Os próximos três capítulos são dedicados ao aprendizado do Anki em três etapas:</p>
+<ol style="list-style-type: decimal">
+<li>O básico do Anki;
+<ul>
+<li>Aprendermos qual é a lógica por trás desse programa;</li>
+<li>Aprenderemos a sincronizar o Anki no computador e no smartphone, para que possamos cumprir com os nossos objetivos de estudo onde quer que estejamos.</li>
+</ul></li>
+<li>Como inserir plugins
+<ul>
+<li>Instalaremos um plugin que pode nos ajudar a aprender a pronúncia correta das palavras;</li>
+</ul></li>
+<li>Como criar novos tipos de carta e editar a aparência do Anki.
+<ul>
+<li>Veremos como criar cartas mais elaboradas;</li>
+<li>Veremos como alterar a aparência dessas cartas para fins estéticos.</li>
+</ul></li>
+</ol>
+<p>Você não precisa aprender tudo de uma vez para começar a usar o Anki: apenas a primeira parte basta. Contudo, eu recomendo que você vá pelo menos até a segunda, pois ela é extremamente útil.</p>
+<p>A terceira parte serve para você que quer organizar melhor suas cartas e/ou alterar a aparência delas. A parte da alteração da aparência é um tanto técnica e não será abordada ao fundo, pois ela envolve o uso de HTML e CSS, que estão fora do escopo deste site. Contudo, forneço uma referência para quem quiser aprender o básico dessas tecnologias.</p>
+<p>Estes capítulos foram criados tendo em mente pessoas que não possuem elevado grau de fluidez com computadores, e portanto eles são <em>consideravelmente</em> detalhados.</p>
+<p>Vamos agora à prática.</p>
+<hr />
+<p>A primeira coisa que é necessária é fazer o download do Anki. Isso pode ser feito tanto em um smartphone quanto em um computador. O Anki pode ser utilizado em qualquer um dos dois e é possível criar uma conta no <a href="https://ankiweb.net/"></a> para sincronizar os dois aparelhos, de modo que você possa retomar no celular o que você começou no computador e vice-versa.</p>
+<p>Embora ele possa ser utilizado em qualquer aparelho, algumas coisas ou são tornadas mais fáceis com o uso do computador, ou necessitam dele para sem realizadas. Por conta disso, começaremos falando dos computadores.</p>
+<div id="utilizando-o-anki-no-computador" class="section level2 hasAnchor" number="4.1">
+<h2><span class="header-section-number">4.1</span> Utilizando o Anki no computador<a href="anki-primeiros-passos.html#utilizando-o-anki-no-computador" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<div id="instalação" class="section level3 hasAnchor" number="4.1.1">
+<h3><span class="header-section-number">4.1.1</span> Instalação<a href="anki-primeiros-passos.html#instalação" class="anchor-section" aria-label="Anchor link to header"></a></h3>
+<p>É necessário antes de mais nada falar o download do Anki. Isso pode ser feito pelo site, <a href="https://apps.ankiweb.net/" class="uri">https://apps.ankiweb.net/</a>. Logo ao entrar no site você vai se deparar com um grande botão azul em que está escrito “Download”.</p>
+<p><img src="img/tut01_download.png" /></p>
+<p>Ao clicar nesse botão, você será levado para uma área da página com várias opções para download. O site provavelmente conseguirá discernir qual sistema operacional você está utilizando (se Windows, Mac ou Linux).</p>
+<p><img src="img/tut02_download02.png" /></p>
+<p>Clique no primeiro ou segundo botão e baixe uma das versões. A diferença entre Qt5 e Qt6 é majoritariamente técnica<a href="#fn10" class="footnote-ref" id="fnref10"><sup>10</sup></a> e (pelo menos neste momento) não diferença qual você escolhe.</p>
+<p>Após ter feito o download do programa, abra o arquivo que você baixou e siga a instalação normalmente.(<strong>detalhar mais essa parte</strong>)</p>
+</div>
+</div>
+<div id="o-menu-de-baralhos" class="section level2 hasAnchor" number="4.2">
+<h2><span class="header-section-number">4.2</span> O menu de baralhos<a href="anki-primeiros-passos.html#o-menu-de-baralhos" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<p>Ao abri-lo, você verá algo que se parecerá mais ou menos com isso:</p>
+<p><img src="img/tut03_default.png" /></p>
+<p>Em cima você tem uma <code>barra de menu</code> em que se lê: “Arquivo”, “Editar”, “Exibir”, “Ferramentas”, “Ajuda”. Vamos abordar este apenas quando formos trabalhar com customizações mais detalhadas das nossas cartas.</p>
+<p>Logo abaixo há um menu com cinco opções: “Baralhos”, “Adicionar”, “Painel”, “Estatísticas” e “Sincronizar”. O menu “<strong>Baralhos</strong>” é onde você está agora. Não veremos com detalhes cada um deles – você pode explorá-los por conta própria – mas nos debruçaremos sobre alguns.</p>
+<p>Em “<strong>Adicionar</strong>” nós podemos adicionar novas cartas”. Trabalharemos neste adiante.</p>
+<p>Em “<strong>Painel</strong>” nós podemos ver todas as cartas criadas. Podemos também efetuar modificações sobre elas, excluí-las ou utilizar plugins que façam alterações em massa em nossas cartas. Vamos abordar este menu quando formos utilizar o plugin <em>AwesomeTTS</em> para adicionar som às nossas cartas de forma automatizada.</p>
+<p>Em “<strong>Estatísticas</strong>” é possível ver o nosso progresso, e ver um relatório da forma como utilizamos o Anki: nossa assiduidade em usá-lo; previsões acerca do tempo que levaremos para terminar um (ou todos os) baralho(s) em função da nossa frequência de estudo; quantas cartas faltam, quantas são fáceis e quantas são difíceis, e outras coisas. Se você nunca utilizou o Anki, esta área provavelmente estará vazia.</p>
+<p>No menu “<strong>Sincronizar</strong>” você será convidado a fazer uma conta do AnkiWeb. Recomendo registrar-se. A utilidade em fazer isso é poder ter o mesmo material, no mesmo estado, tanto no seu atual computador como em outros computadores e também em smartphones. Isso elimina a redundância de ter que estudar a mesma coisa mais vezes do que o necessário, caso você utilize aparelhos diferentes.</p>
+<div id="baralhos" class="section level3 hasAnchor" number="4.2.1">
+<h3><span class="header-section-number">4.2.1</span> Baralhos<a href="anki-primeiros-passos.html#baralhos" class="anchor-section" aria-label="Anchor link to header"></a></h3>
+<p>O Anki não é um programa como o Duolingo, em que você já tem um “curso” pronto para você. Aqui você monta o seu material. Por isso você pode ver um Baralho chamado <em>Padrão</em>, que está vazio. Se você clicar nele você será recebido com uma mensagem que diz “Parabéns! Você terminou este baralho por enquanto”, o que é um pouco fora do tom, já que ele está vazio.</p>
+<p>Mas você pode adicionar coisas a ele ou pode, olhando para o menu na parte inferior da tela, clicar em <code>Criar baralho</code> para criar um novo. Deste modo você pode organizar baralhos por tema da forma que você achar mais conveniente. Logo logo veremos como fazer isso.</p>
+<p>Há duas opções ao lado de <code>Criar baralho</code>: “Obter compartilhados” e “Importar arquivo”. Ao clicar na primeira você será levado a uma página no AnkiWeb em que as pessoas compartilham os baralhos que elas criam, e lá você pode procurar pelo tipo de coisa que chama a sua atenção. Se pesquisarmos, por exemplo, por “Inglês”, poderemos encontrar algo assim:</p>
+<p><img src="img/tut04_ankiweb.png" /></p>
+<p>Se você clicar em qualquer um desses decks, ao rolar para baixo você encontrará o botão para Download:</p>
+<p><img src="img/tut05_deck-download.png" /></p>
+<p>É aqui que entra a utilidade do outro botão, <code>Importar arquivo</code>. Nele você pode importar os baralhos que você baixa pela Internet, ou pode importar arquivos <code>.csv</code> contendo as cartas que você quer criar. Trabalharemos adiante.</p>
+</div>
+</div>
+<div id="adicionar-criando-cartas" class="section level2 hasAnchor" number="4.3">
+<h2><span class="header-section-number">4.3</span> Adicionar: Criando cartas<a href="anki-primeiros-passos.html#adicionar-criando-cartas" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<p>Você pode explorar baixar um baralho qualquer, ou criar o seu próprio. Há grande vantagem em baixar baralhos prontos: eles nos poupam de um grande trabalho – criar baralhos à mão leva tempo.</p>
+<p>Contudo, há uma grande vantagem em criar seus baralhos por conta própria: eles refletem os seus interesses e a sua própria jornada ao longo da língua. Se você gosta de psicologia, você utilizará cotidianamente palavras diferentes das que utilizarão um economista, e vice-versa.</p>
+<p>No início pode ser útil aprender as palavras mais comuns. Convém utilizar um baralho pronto com esse conteúdo e ir gradualmente adicionando as palavras que refletem nossas jornadas individuais. Para facilitar este propósito, ofereço [o conjunto de decks que eu elaborei][Apoie este projeto], que vão das 500 às 2000 palavras mais comuns, <em>excluindo cognatos verdadeiros</em> (você não precisa que o Anki te diga que a tradução de “Justice” é “Justiça”, nem que a de “Constitution” é “Constituição”) <a href="#fn11" class="footnote-ref" id="fnref11"><sup>11</sup></a>.</p>
+<p>Dito isso, vamos aprender agora como elaborar nossas próprias cartas.</p>
+<hr />
+<p>Há duas formas de criar cartas: dentro do Anki (processo mais lento, mas mais controlado) e por meio de planilhas. Acredito que o segundo é mais conveniente e confortável, mas, para nos familiarizarmos mais com a interface do Anki, comecemos com o primeiro.</p>
+<div id="criando-cartas-pelo-anki" class="section level3 hasAnchor" number="4.3.1">
+<h3><span class="header-section-number">4.3.1</span> Criando cartas pelo Anki<a href="anki-primeiros-passos.html#criando-cartas-pelo-anki" class="anchor-section" aria-label="Anchor link to header"></a></h3>
+<p>Ao clicar em “Adicionar”, você se deparará com a seguinte tela:</p>
+<p><img src="img/tut06_adicionar.png" /></p>
+<p>Na parte superior você pode ver o <code>Tipo</code>, que provavelmente está como “Básico” e também o <code>Baralho</code>. O <code>Tipo</code> “Básico” de cartas tem o que você vê no centro da tela – dois campos: <code>Frente</code> e <code>Verso</code>. É possível adicionar mais campos para incluir coisas como imagens, áudio, exemplos de frases em que a palavra é contextualizada etc. Nós aprenderemos a editar e criar os <code>Tipos</code> de baralhos no capítulo <a href="anki-customização-de-baralhos.html#anki-customização-de-baralhos">Anki: customização de baralhos</a>.</p>
+<p>Ao clicar em um desses campos, <code>Frente</code> ou <code>Verso</code>, é habilitado o editor de texto. Você pode adiconar negrito, itálico, mudar as clores das palavras, adicionar tags em HTML, fazer listas, importar imagens, gravar áudio. Após criar a frente e o verso da carta, clique em “Adicionar” na parte inferior do menu.</p>
+<p>Os campos foram esvaziados, mas sua carta foi criada. Para ilustrar o exemplo, vou criar seis cartas:</p>
+<ul>
+<li>Actually: na verdade</li>
+<li>Tough: duro, difícil</li>
+<li>Thought: pensei, pensou, pensam, pensa; pensamento</li>
+<li>Though: entretanto; a despeito de</li>
+<li>Through: através</li>
+<li>Thorough: completamente; completo; rigoroso</li>
+</ul>
+<p>Os exemplos são simplificados; algumas dessas palavras possuem mais significados. Para “aumentar” o tamanho de um dos campos, basta apertar a tecla <code>Enter</code> no teclado que ele se ajusta.</p>
+<p><img src="img/tut07_thorough.png" /></p>
+<p>Não se preocupe em fazer os flashcards com perfeição. Eles são importantes, mas o mais importante é a imersão – lembre-se disso. Vale a pena investir tempo, entretanto, em construí-los, principalmente quando nós sabemos que elas podem nos ajudar a cumprir um objetivo de curto prazo – lembre-se da importância de elaborar objetivos, trabalhada no capítulo sobre <a href="a-motivação.html#a-motivação"></a>. Tratarei mais acerca disso em [Diretrizes para elaborar flashcards].</p>
+<hr />
+<p>Ao ter criado as cartas, você verá que agora há um número (aqui são seis, pois criei seis cartas) ao lado do baralho “Padrão” (que foi o que eu selecionei; pode ser diferente para você, caso tenha criado outro ou baixado um do AnkiWeb), sob a coluna “Novos”. Clicando no baralho, veremos a seguinte tela:</p>
+<p><img src="img/tut08_estudar.png" /></p>
+<p>Vamos desmembrar o que significa essa tela:</p>
+<ul>
+<li>São seis novas cartas que estão previstas para serem estudadas hoje. Se eu tivesse um baralho com 6000 cartas, o Anki não me imporia tudo no mesmo dia: ele me passaria um número pré-definido (por mim) de cartas.</li>
+<li>Há 0 cartas marcadas como “Aprendizagem”. Estas são as cartas que eu errei ou que ainda não acertei ao menos duas vezes seguidas hoje.</li>
+<li>Há 0 cartas marcadas como “A Revisar”. Estas são as cartas que eu acertei ao menos duas vezes seguidas no passado.</li>
+</ul>
+<p>O Anki é um sistema de repetição espçada. Ele foi elaborado para nos ajudar a dar conta de grandes quantidades de informação que precisam ser memorizadas. Se eu tivesse 6000 cartas em um baralho, eu não deveria ter que revisá-las todos os dias.</p>
+<p>O Anki percebe, pela forma como estudamos, quais cartas são mais fáceis e quais são mais difíceis para nós. Às cartas mais fáceis são atribuídos intervalos maiores. Assim, você pode ter 10 cartas para aprender hoje, 30 para revisar hoje, e o restante das 6000 cartas espalhadas em um intervalo de 2 anos. As que você erra mais serão apresentadas mais cedo (hoje ou amanhã) e as que você acerta sucessivamente ganham intervalos cada vez maiores: 2 dias, 5 dias, 11 dias, 3 semanas, 1 mês e meio, três meses, seis, um ano, dois, e assim por diante. Deste modo, é perfeitamente concebível dar conta de um baralho com 6000 cartas ou mais.</p>
+<p>Recomendo começar com 10 cartas novas por dia. Para configurar o Anki deste modo, clique em <code>Opções</code> na parte inferior da . Você verá um campo denominado “Novos cartões/dia”. Mude de 20 para 10 e clique em <code>Salvar</code>.</p>
+<p>Agora vamos clicar em <code>Estudar agora</code>.</p>
+<hr />
+<p>Você será recebido com a primeira carta que você criou. Na imagem abaixo podemos ver a frente da carta “Tough”.</p>
+<p><img src="img/tut10_tough.png" /></p>
+<p>O que você pode ver a princípio é apenas a palavra-desafio. Essa tela te pergunta o seguinte: <em>o que significa “tough”?</em></p>
+<p>O que você quer fazer é <em>tentar lembrar</em>, ou ao menos adivinhar, utilizando o conhecimento que você já tem. Tendo conseguido fazer isso ou não, clique em <code>Mostrar resposta</code>.</p>
+<p><img src="img/tut10_tough2.png" /></p>
+<p>Agora você vê a resposta, logo abaixo da pergunta. O painel em que você clicou em <code>Mostrar resposta</code> agora mudou. Há quatro opções agora: <code>Errei</code>, <code>Difícil</code>, <code>Bom</code> e <code>Fácil</code>. Cada uma delas com um intervalo de tempo: <em>&lt;1min(s), &lt;6min(s), &lt; 10min(s), 4dia(s)</em>. Cada uma delas representa o intervalo entre a o clique nesta opção e a próxima vez em que você terá que revisar esta carta.</p>
+<p>Se eu clico em “Bom”, “Difícil” ou “Errei”, você verá o número de cartas marcadas como “Aprendizagem” aumentar: este é o significado do número vermelho acima de “Mostrar resposta”. O número azul são as que ainda terei que aprender, e o número verde são as que terei que terei que revisar em decorrência de estudos futuros.</p>
+<p>A menos que você altere as configurações do Anki, os intervalos vão todos mudando, com exceção do “Errei”. A lógica é a seguinte:</p>
+<ul>
+<li>Fácil: acrescentar intervalo longo até a próxima revisão desta carta</li>
+<li>Bom: acrescentar intervalo normal</li>
+<li>Difícil: acrescentar intervalo curto</li>
+<li>Errei: zerar intervalo; revisá-la daqui a um minuto ou pouco mais.</li>
+</ul>
+<p>De modo que mesmo a carta “Difícil” pode ser revisada apenas daqui a um mês, dependendo da sua frequência e qualidade de estudo.</p>
+<p>A ideia é que você responda <strong>com sinceridade</strong>. Mentir para o Anki é mentir para si mesmo. Assim, clique em Fácil se você acha fácil, clique em Bom se estiver tudo ok, em Difícil se você achou difícil mas acertou, e em Errei caso tenha errado ou não tenha conseguido se lembrar.</p>
+<p>Faça isso com todas as cartas do dia. Ao abrir o Anki novamente amanhã (pois utilizar o Anki deve ser um hábito diário), você verá que o número verde (A Revisar) corresponderá às cartas que você estudou ontem.</p>
+<hr />
+<p>A aparência das cartas do Anki pode ser… simples demais. É possível customizá-la para torná-la mais rica. Vamos ver como fazer isso em <a href="anki-customização-de-baralhos.html#anki-customização-de-baralhos">Anki: customização de baralhos</a>.</p>
+</div>
+</div>
+<div id="criando-cartas-em-planilhas" class="section level2 hasAnchor" number="4.4">
+<h2><span class="header-section-number">4.4</span> Criando cartas em planilhas<a href="anki-primeiros-passos.html#criando-cartas-em-planilhas" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<p>Uma forma mais rápida de criar múltiplas cartas de uma só vez é usando um programa de edição de planilhas como o Microsoft Excel, LibreOffice Calc ou Google Sheets. Por motivos de acessibilidade, usarei aqui o Google Sheets.</p>
+<p>Mas antes de criar as cartas, é necessário considerarmos <em>que tipo</em> de carta nós vamos criar. É necessário pensar no que haverá nessas cartas.</p>
+<p>No menu “Adicionar” do Anki, você pode ver a possibilidade de escolher o <code>Tipo</code> de carta. O <code>Tipo</code> Básico só tem dois campos: “Frente” e “Verso”.</p>
+<p><img src="img/tut11_invertido.png" /></p>
+<p>Se você clicar no nome do <code>Tipo</code> e escolher a opção “Básico (cartão invertido opcional)”, você verá um cartão com <em>três</em> campos. Mais para frente veremos como criar um cartão com quantos campos for necessário. A relevância disso para nós agora, entretanto, é uma: a nossa planilha deve corresponder ao <code>Tipo</code> da nossa carta. Se ele tem dois campos, ela deve ter duas colunas.</p>
+<p>Vamos ver como fazer isso no Google Sheets. O procedimento é o mesmo em qualquer outro editor de planilhas – usarei este por ser o mais acessível. Caso queira acompanhar, basta ir em <a href="https://sheets.google.com" class="uri">https://sheets.google.com</a> e clicar em “Branco” (se você já tem uma conta no Google) para abrir uma planilha nova.</p>
+<p><img src="img/tut12_planilha.png" /></p>
+<p>Como o nosso baralho do <code>Tipo</code> “Básico” tem apenas duas colunas, vamos utilizar apenas as colunas A e B – destacadas em azul na imagem acima – para montar nossas cartas.</p>
+<p>A vantagem de utilizar uma planilha em vez de utilizar a própria interface do Anki é que planilhas são mais navegáveis. Pode-se preencher os campos da planilha mais rapidamente utilizando atalhos do teclado do que se pode fazer dentro do próprio programa de flashcards. Apertando “Tab” no teclado nós podemos ir para a célula à direita da atual (e “Shift+Tab” para ir para a célula À esquerda); apertando “Enter” nós podemos mover o cursor uma célula para baixo, e “Shift+Enter” faz o movimento inverso. Nós precisamos coletar os dados que nos são necessários até que tenhamos algo mais ou menos assim:</p>
+<p><img src="img/tut15_english.png" /></p>
+<p>Quando obtivermos isso, precisamos baixar a planilha, ou salvá-la em formato <code>.csv</code>. No Google Sheets, isso pode ser feito clicando em “Arquivo” (na barra de menu na parte superior da tela), “Fazer download” e então “Valores separados por vírgula (.csv)”:</p>
+<p><img src="img/tut16_download.png" /></p>
+<p>Basta então abrir o Anki e <code>Importar Arquivo</code>, o que pode ser feito pelo botão de mesmo nome na parte inferior do menu “Baralhos” ou então clicando em “Arquivos” (na barra de menu, na parte superior da tela) e então em “Importar”.</p>
+<p><img src="img/tut17_import.png" /></p>
+<p>Eis a importância de fazer as colunas das planilhas coincidirem com os campos do seu baralho. A primeira coluna corresponde à “Frente” e a segunda coluna corresponde ao “Verso”. Na seção sobre <a href="anki-customização-de-baralhos.html#anki-customização-de-baralhos">customização de baralhos</a> nós veremos como usar isso ao nosso favor, mas a princípio o necessário é simples: manter o <code>Tipo</code> como “Básico” e escolher o <code>Baralho</code> em que desejamos inserir estas cartas.</p>
+<p>Ao utilizar a interface do próprio Anki para adicionar as cartas, nós podemos usar o editor de texto interno para deixar as palavras em negrito, itálico e coisa do tipo. Nós também podemos fazer isso aqui, mas precisamos marcar a opção “Permitir HTML em campos”, e inserirmos o HTML manualmente nas nossas planilhas. Veremos isso também na seção sobre <a href="anki-customização-de-baralhos.html#anki-customização-de-baralhos">customização de baralhos</a>.</p>
+<hr />
+<p>Planilhas são mais convenientes. Você pode preenchê-las no computador ou no celular, ao passo que utilizar o aplicativo do Anki para smartphones para adicionar cartas não é tão prático. Além disso, você pode simplesmente ir acumulando apenas uma parte das cartas, em vez de ser obrigado a preencher os dois campos de uma vez só, e ir preenchendo o restante conforme necessidade.</p>
+<p>Por exemplo, imagine que você esteja aprendendo alemão para estudar filosofia. Existe um certo número de palavras que você conhece na sua língua, mas que desconhece no alemão, que você quer aprender. Neste caso, você pode ir coletando essas palavras aos poucos, no seu tempo, e quando você julgar pertinente você vai atrás do significado delas para então importá-las para o Anki. Neste meio tempo, você vai apenas colecionando os campos do “Verso”:</p>
+<p><img src="img/tut13_alemao.png" /></p>
+<p>Por outro lado, digamos que você tenha assistido uma peça francesa e percebido várias palavras que se repetem, mas não conseguiu ainda pegar o significado delas. Neste caso, você vai apenas coletando, no seu ritmo, as palavras do campo da “Frente”, e preenche o “Verso” quando julgar pertinente:</p>
+<p><img src="img/tut14_french.png" /></p>
+<p>(Inspirado no vídeo “<a href="https://www.youtube.com/watch?v=DYWP5dnLxCM">Le pape des fous</a>”.)</p>
+<p>Eu pessoalmente acho que utilizar uma planilha para montar as cartas é mais conveniente do que a própria interface do Anki. Aqui, você pode fazer as coisas de forma mais cômoda.</p>
+</div>
+<div id="práticas-para-elaborar-flashcards" class="section level2 hasAnchor" number="4.5">
+<h2><span class="header-section-number">4.5</span> Práticas para elaborar flashcards<a href="anki-primeiros-passos.html#práticas-para-elaborar-flashcards" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<p>Nesta página tem uma coisa que ficou subentendida: é necessário que você pesquise e monte suas próprias cartas. Sim, mesmo que você utilize um baralho disponibilizado online, é interessante que você monte as suas próprias cartas com o tempo. Esses baralhos vão abordar o que é <em>comum</em> na língua. Os [próprios baralhos que eu elaborei] têm como orientação a frequência das palavras na língua.</p>
+<p>Mas existe uma diferença entre as palavras mais frequentemente utilizadas na língua <em>pelas pessoas como um todo</em> e há as que são mais frequentes <em>no seu</em> vocabulário. Isso depende das coisas que você considera importantes. Isso vai depender do seu hobby, da sua profissão, dos seus interesses e das suas necessidades.</p>
+<p>Se você for aprender em um curso de inglês, você vai aprender as mesmas palavras que todas as outras. A lógica é encontrar <em>algo de comum</em>. Veja bem: é importante ter algo de comum, justamente para que você possa compreender o que os outros falam e para que os outros possam te compreender de volta, mas é necessário também cultivar <em>o que lhe é peculiar</em>. Se você é um psicólogo, as palavras “mente”, “comportamento”, “ambiente”, “inconsciente”, “pesquisa” e outras coisas do tipo vão ser partes importantes e recorrentes do seu vocabulário. Em inglês, as palavras que a estas correspondem, – “<em>mind, behavior, environment, unconscious, research</em>” – não figuram entre as palavras mais comuns da língua. Esse é o tipo de coisa que você teria que buscar por conta própria.</p>
+<p>Claro, você pode ir pela via da insanidade: vou pegar o maior deck que eu encontrar online, digamos, um com 12.000 palavras, e vou aprender todas, na ordem de frequência. Embora eu não ache que isso seja uma má ideia se isso for <em>parte</em> do seu plano, certamente não é uma prática boa se é nisso que consiste todo o seu sistema auxiliar de repetição espaçada.</p>
+<p>Ok, como assim? Qual seria a melhor via, então? Exponho: faça paralelamente o seguinte:</p>
+<ol style="list-style-type: decimal">
+<li>Aprenda palavras comuns, estabelecidas <em>por frequência</em>;</li>
+<li>Trace um objetivo – ler um conto, um texto curto; aprender certas palavras que me são importantes; aprender um determinado número de músicas ou poemas, entre outros – e crie um baralho que te aproxime dele.</li>
+</ol>
+<p>Enquanto você rotineiramente aprende as palavras mais comuns, você paralelamente estabelece seus objetivos de curto prazo. Digamos que você queira ler <strong>uma</strong><a href="#fn12" class="footnote-ref" id="fnref12"><sup>12</sup></a> das <a href="https://read.gov/aesop/001.html">Fábulas de Ésopo</a>, o que você poderia fazer é:</p>
+<ol style="list-style-type: decimal">
+<li>Dar uma primeira lida (imprimir o texto pode ser útil aqui)</li>
+<li>Marcar as palavras desconhecidas</li>
+<li>Anotá-las todas numa planilha</li>
+<li>Aos poucos, no seu tempo, procurar pelo significado delas</li>
+<li>Importá-las para o Anki</li>
+<li>Estudá-las até ter aprendido todas</li>
+<li>Reler o texto</li>
+</ol>
+<p>Deste modo, você estabelece os ganchos e as metas e então busca por elas. É um processo bem simples: você aprende as palavras associadas às coisas que são do seu interesse. A chave aqui é o fato de que <strong>elas são do seu interesse</strong>. É importante traçar metas, pois buscá-las e alcançá-las mantém a nossa motivação. A pura imersão e o aprendizado de vocabulário por frequência pode ser muito produtivo, mas acredito que muitos podem se sentir meio “largados” e “jogados” se não tiverem uma forma mais clara de medir o próprio progresso. Estabelecer esse tipo de objetivo é uma dessas formas.</p>
+<p>Portanto, é simples: <strong>os flashcards que você monta devem estar associados aos seus objetivos, necessidades e interesses.</strong> Você pode ter múltiplos baralhos, digamos: um com as palavras do seu interesse, um frases interessantes que você tenha visto por aí, um com palavras selecionados por frequência, entre outros. Cuidado para não se sobrecarregar, criando múltiplos baralhos com um alto número de cartas novas por dia. Se você for utilizar múltiplos baralhos, module a quantidade de cartas que são reveladas diariamente – lembre-se: <strong>o Anki é um esforço diário!</strong> – para que isso se encaixe na sua rotina e você não fique sobrecarregado.</p>
+<p>Não recomendo, entretanto, aprender múltiplas línguas simultaneamente se a sua intenção for alcançar um nível de compreensão e expressão avançados em ambas as línguas. O motivo disso é simples: aprender uma língua só é trabalho o suficiente, e exige esforço. Aprender duas ou mais ao mesmo tempo apenas resultaria numa difusão dos nossos esforços, o que pode nos deixar sobrecarregados e/ou fazer com que tenhamos um progresso mais lento. Todavia, se um progresso mais lento não for um problema para você, ou se você não quer exatamente “alcançar” um nível de expressão ou compreensão, mas apenas aprender um ou mais textos (digamos, aprender a letra do Ode à Alegria de Beethoven em alemão e alguns poemas em francês), não há por que se preocupar com isso.</p>
+</div>
+<div id="utilizando-o-anki-pelo-celular" class="section level2 hasAnchor" number="4.6">
+<h2><span class="header-section-number">4.6</span> Utilizando o Anki pelo celular<a href="anki-primeiros-passos.html#utilizando-o-anki-pelo-celular" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<p>Para encerrar esta sessão, vou abordar como empregar esse sistema auxiliar para uso em um smartphone. Se você usa Android, o Anki pode ser baixado gratuitamente pelo nome de <em>AnkiDroid</em> na <a href="https://play.google.com/store/apps/details?id=com.ichi2.anki">Play Store</a>. Entretanto, se você usa iOS, será necessário comprar o aplicativo <em>AnkiMobile</em> na <a href="https://apps.apple.com/us/app/ankimobile-flashcards/id373493387">App Store</a>. Uma alternativa para os usuários de iPhone que não querem pagar é acessar o AnkiWeb pelo navegador e fazer os seus estudos por lá – menos confortável, mas certamente válido.</p>
+<p>Eu penso que o Anki deve ser utilizado no celular para o simples fim de <strong>estudar com comodidade</strong>: na cama, no transporte público, no sofá – onde quer que se possa usar o celular tranquilamente. Deste modo não precisamos nos deslocar para o computador para dar cabo na nossa cota diária de estudo.</p>
+<p>Dito isso, não acho que o Anki em sua versão <em>mobile</em> deve ser utilizado para <em>criar cartas</em>. Ele não é comodo para esse propósito. Claro, você pode, mas eu recomendo altamente que você deixe para fazer isso no computador se for possível. De qualquer modo, você pode utilizar um aplicativo de planilhas no celular para criar cartas caso esse seja o seu objetivo, e então importá-las para o Anki pela função de importação que também está presente no aplicativo. Porém, a versão <em>mobile</em> do Anki não tem a capacidade de utilizar <em>plugins</em> como o AwesomeTTS (que veremos na próxima página), o que de fato o faz figurar especialmente não como um programa para criação de material, mas sim como um para estudá-lo.</p>
+<p>Vou utilizar o AnkiDroid como exemplo.</p>
+<p>A lógica interna do AnkiDroid é a mesma que a do Anki para computador: você tem os seus baralhos com as suas cartas, e você as marca de acordo com quão fácil ou difícil você as considera. Abaixo há uma imagem de uma carta criada para estudo do francês, com campos extras, áudio e exemplos da frase em contexto.</p>
+<div class="float">
+<img src="img/tut18_damour.jpg" style="width:30.0%" alt="Esta carta tem certas peculiaridades que serão trabalhadas no capítulo sobre customização de baralhos. A bandeira da França atrás é uma edição opcional, assim como os campos extras em que se encontra a palavra d’amour sendo utilizada em diferentes contextos." />
+<div class="figcaption">Esta carta tem certas peculiaridades que serão trabalhadas no capítulo sobre customização de baralhos. A bandeira da França atrás é uma edição opcional, assim como os campos extras em que se encontra a palavra <em>d’amour</em> sendo utilizada em diferentes contextos.</div>
+</div>
+<p>Mas o importante aqui é que essa carta não foi criada no AnkiDroid, mas no computador, o qual foi <em>sincronizado</em> com o AnkiDroid pela nuvem. É aqui que ele brilha de verdade. Para sincronizar é necessário ter uma conta no AnkiWeb, que pode ser criada de forma simple – algo que você talvez já tenha feito –. Para entrar ou criar na conta, basta fazer o seguinte:</p>
+<ol style="list-style-type: decimal">
+<li>Repare no botão de “Sincronizar”, com as setas em círculo e um ponto de exclamação vermelho, na parte superior direita da tela.</li>
+</ol>
+<p><img src="img/sinc01.jpg" style="width:30.0%" /></p>
+<ol start="2" style="list-style-type: decimal">
+<li>O aplicativo pedirá que você faça um login. Clique em “Logar”.</li>
+</ol>
+<p><img src="img/sinc02.jpg" style="width:30.0%" /></p>
+<ol start="3" style="list-style-type: decimal">
+<li>Coloque o seu e-mail e senha.</li>
+</ol>
+<p><img src="img/sinc03.jpg" style="width:30.0%" /></p>
+<p>Caso você não tenha criado uma conta ainda, clicar em “Inscreva-se” e esta tela será aberta.</p>
+<p><img src="img/sinc04.jpg" style="width:30.0%" /></p>
+<p>Após ter preenchido com as suas credenciais, basta acessar o seu e-mail e confirmar a conta recém-criada.</p>
+<p>Com as mesmas credenciais que você criar nesta tela, você deverá fazer o <em>login</em> tanto no computador quanto no celular. Feito isto, você poderá sincronizar livremente, de modo que você não precisará se preocupar em manter o estudo separadamente.</p>
+<p>O Anki na versão para computador, se você tiver feito o login, sincronizará sempre que você abrir ou fechar o programa. No celular, é necessário sincronizar manualmente, apertando no ícone de sincronização (as setinhas em círculo em que clicamos para fazer o login). É possível habilitar a sincronização automática no menu de configurações, fazendo o seguinte:</p>
+<ol style="list-style-type: decimal">
+<li>Apertar as três barras horizontais no canto superior esquerdo da tela;</li>
+<li>Selecionar o menu “Configurações”</li>
+<li>Selecionar “AnkiDroid – Configurações Gerais”</li>
+<li>Habilitar a “Sincronização automática”.</li>
+</ol>
+<p>E <em>voilà!</em> Tudo está pronto. Agora sempre você abrir ou fechar o aplicativo ele efetuará a sincronização.</p>
+<p><strong>Atenção</strong>: se você não sincronizar sempre que estudar, seja no computador, seja no celular, você pode ter problemas de conflito com o estado do seu baralho. Se houver conflito, você vai ter que apagar um dos estados (ou o que está na Nuvem, ou o que está no aparelho que você está utilizando). Sempre que você sincronizar, o que você acabou de estudar terá ido para a nuvem. Se a última alteração que você tiver feito no seu baralho for a versão que está na nuvem, diante de um tal conflito, selecione “Fazer o Download do AnkiWeb”. Se não for – caso você tenha feito alterações locais que ainda não foram enviadas para a nuvem, e estas forem mais recentes e/ou importantes do que o que está na nuvem – então selecione “Enviar para o AnkiWeb”. Na versão Mobile, ele te perguntará: “qual versão você deseja manter”, e então você deverá selecionar <em>AnkiWeb</em> (o que está na nuvem) ou <em>AnkiDroid</em> (a versão local). O estado diferente do que for selecionado será deletado. É necessário cuidado aqui. Para evitar isso, convém habilitar a sincronização automática, como exposto acima.</p>
+</div>
+</div>
+<div class="footnotes">
+<hr />
+<ol start="10">
+<li id="fn10"><p>Qt é o conjunto de ferramentas utilizados pelos desenvolvedores do Anki para elaborar a interface gráfica do programa. A diferença entre esses pacotes é relevante apenas para quem utiliza certos plugins extras (que não serão abordados aqui), ou para quem os desenvolve.<a href="anki-primeiros-passos.html#fnref10" class="footnote-back">↩︎</a></p></li>
+<li id="fn11"><p>há falsos cognatos, entretanto, como “Actually”, que <strong>não</strong> quer dizer “Atualmente”, mas sim “Na verdade”<a href="anki-primeiros-passos.html#fnref11" class="footnote-back">↩︎</a></p></li>
+<li id="fn12"><p>É importante que os objetivos sejam facilmente alcançáveis para manter a motivação, ainda mais considerando que <strong>elaborar flashcards é trabalhoso</strong>. Se você traçar a meta de ler as cem primeiras fábulas de Esopo, isto seria um peso muito grande sobre os ombros. Se você é um dos tipos que gosta de traçar metas grandiosas, talvez seja bom proceder da seguinte forma: aprender as cinco primeiras, depois as próximas cinco, depois as próxima cinco… E assim por diante. Assim você equilibra a tensão entre “buscar” e “alcançar”, de modo que não seja tão fácil alcançar (e portanto chato) e nem muito longa a busca (e portanto estressante)<a href="anki-primeiros-passos.html#fnref12" class="footnote-back">↩︎</a></p></li>
+</ol>
+</div>
+            </section>
+
+          </div>
+        </div>
+      </div>
+<a href="ferramentas-auxiliares-no-aprendizado-de-línguas.html" class="navigation navigation-prev " aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
+<a href="anki-plugins-e-awesometts.html" class="navigation navigation-next " aria-label="Next page"><i class="fa fa-angle-right"></i></a>
+    </div>
+  </div>
+<script src="libs/gitbook-2.6.7/js/app.min.js"></script>
+<script src="libs/gitbook-2.6.7/js/clipboard.min.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-search.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-sharing.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-fontsettings.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-bookdown.js"></script>
+<script src="libs/gitbook-2.6.7/js/jquery.highlight.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-clipboard.js"></script>
+<script>
+gitbook.require(["gitbook"], function(gitbook) {
+gitbook.start({
+"sharing": {
+"github": false,
+"facebook": true,
+"twitter": true,
+"linkedin": false,
+"weibo": false,
+"instapaper": false,
+"vk": false,
+"whatsapp": false,
+"all": ["facebook", "twitter", "linkedin", "weibo", "instapaper"]
+},
+"fontsettings": {
+"theme": "white",
+"family": "sans",
+"size": 2
+},
+"edit": {
+"link": null,
+"text": null
+},
+"history": {
+"link": null,
+"text": null
+},
+"view": {
+"link": null,
+"text": null
+},
+"download": null,
+"search": {
+"engine": "fuse",
+"options": null
+},
+"toc": {
+"collapse": "subsection"
+}
+});
+});
+</script>
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    var src = "true";
+    if (src === "" || src === "true") src = "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.9/latest.js?config=TeX-MML-AM_CHTML";
+    if (location.protocol !== "file:")
+      if (/^https?:/.test(src))
+        src = src.replace(/^https?:/, '');
+    script.src = src;
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+</body>
+
+</html>

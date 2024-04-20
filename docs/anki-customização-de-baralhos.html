@@ -1,0 +1,611 @@
+<!DOCTYPE html>
+<html lang="" xml:lang="">
+<head>
+
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <title>6 Anki: customização de baralhos | Irídula</title>
+  <meta name="description" content="6 Anki: customização de baralhos | Irídula" />
+  <meta name="generator" content="bookdown 0.34 and GitBook 2.6.7" />
+
+  <meta property="og:title" content="6 Anki: customização de baralhos | Irídula" />
+  <meta property="og:type" content="book" />
+  
+  
+  
+
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:title" content="6 Anki: customização de baralhos | Irídula" />
+  
+  
+  
+
+
+
+
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+  
+  
+<link rel="prev" href="anki-plugins-e-awesometts.html"/>
+<link rel="next" href="anki-conclusão.html"/>
+<script src="libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/fuse.js@6.4.6/dist/fuse.min.js"></script>
+<link href="libs/gitbook-2.6.7/css/style.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-table.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-bookdown.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-highlight.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-search.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-fontsettings.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-clipboard.css" rel="stylesheet" />
+
+
+
+
+
+
+
+
+<link href="libs/anchor-sections-1.1.0/anchor-sections.css" rel="stylesheet" />
+<link href="libs/anchor-sections-1.1.0/anchor-sections-hash.css" rel="stylesheet" />
+<script src="libs/anchor-sections-1.1.0/anchor-sections.js"></script>
+
+
+<style type="text/css">
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+    color: #aaaaaa;
+  }
+pre.numberSource { margin-left: 3em; border-left: 1px solid #aaaaaa;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+}
+code span.al { color: #ff0000; font-weight: bold; } /* Alert */
+code span.an { color: #60a0b0; font-weight: bold; font-style: italic; } /* Annotation */
+code span.at { color: #7d9029; } /* Attribute */
+code span.bn { color: #40a070; } /* BaseN */
+code span.bu { color: #008000; } /* BuiltIn */
+code span.cf { color: #007020; font-weight: bold; } /* ControlFlow */
+code span.ch { color: #4070a0; } /* Char */
+code span.cn { color: #880000; } /* Constant */
+code span.co { color: #60a0b0; font-style: italic; } /* Comment */
+code span.cv { color: #60a0b0; font-weight: bold; font-style: italic; } /* CommentVar */
+code span.do { color: #ba2121; font-style: italic; } /* Documentation */
+code span.dt { color: #902000; } /* DataType */
+code span.dv { color: #40a070; } /* DecVal */
+code span.er { color: #ff0000; font-weight: bold; } /* Error */
+code span.ex { } /* Extension */
+code span.fl { color: #40a070; } /* Float */
+code span.fu { color: #06287e; } /* Function */
+code span.im { color: #008000; font-weight: bold; } /* Import */
+code span.in { color: #60a0b0; font-weight: bold; font-style: italic; } /* Information */
+code span.kw { color: #007020; font-weight: bold; } /* Keyword */
+code span.op { color: #666666; } /* Operator */
+code span.ot { color: #007020; } /* Other */
+code span.pp { color: #bc7a00; } /* Preprocessor */
+code span.sc { color: #4070a0; } /* SpecialChar */
+code span.ss { color: #bb6688; } /* SpecialString */
+code span.st { color: #4070a0; } /* String */
+code span.va { color: #19177c; } /* Variable */
+code span.vs { color: #4070a0; } /* VerbatimString */
+code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warning */
+</style>
+
+<style type="text/css">
+  
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+</style>
+
+</head>
+
+<body>
+
+
+
+  <div class="book without-animation with-summary font-size-2 font-family-1" data-basepath=".">
+
+    <div class="book-summary">
+      <nav role="navigation">
+
+<ul class="summary">
+<li class="chapter" data-level="" data-path="como-aprender-uma-língua.html"><a href="como-aprender-uma-língua.html"><i class="fa fa-check"></i>Como aprender uma língua</a>
+<ul>
+<li class="chapter" data-level="" data-path="como-aprender-uma-língua.html"><a href="como-aprender-uma-língua.html#motivação"><i class="fa fa-check"></i>Motivação</a></li>
+<li class="chapter" data-level="" data-path="como-aprender-uma-língua.html"><a href="como-aprender-uma-língua.html#imersão"><i class="fa fa-check"></i>Imersão</a></li>
+<li class="chapter" data-level="0.1" data-path="como-aprender-uma-língua.html"><a href="como-aprender-uma-língua.html#características-do-conteúdo-para-imersão"><i class="fa fa-check"></i><b>0.1</b> Características do conteúdo para imersão</a>
+<ul>
+<li class="chapter" data-level="0.1.1" data-path="como-aprender-uma-língua.html"><a href="como-aprender-uma-língua.html#audiovisual-jogos-filmes-e-séries"><i class="fa fa-check"></i><b>0.1.1</b> Audiovisual: jogos, filmes e séries</a></li>
+<li class="chapter" data-level="0.1.2" data-path="como-aprender-uma-língua.html"><a href="como-aprender-uma-língua.html#livros-e-podcasts"><i class="fa fa-check"></i><b>0.1.2</b> Livros e Podcasts</a></li>
+</ul></li>
+<li class="chapter" data-level="0.2" data-path="como-aprender-uma-língua.html"><a href="como-aprender-uma-língua.html#ferramentas-auxiliares"><i class="fa fa-check"></i><b>0.2</b> Ferramentas auxiliares</a></li>
+<li class="chapter" data-level="0.3" data-path="como-aprender-uma-língua.html"><a href="como-aprender-uma-língua.html#a-habilidade-da-fala"><i class="fa fa-check"></i><b>0.3</b> A habilidade da fala</a></li>
+<li class="chapter" data-level="0.4" data-path="como-aprender-uma-língua.html"><a href="como-aprender-uma-língua.html#o-papel-da-gramática"><i class="fa fa-check"></i><b>0.4</b> O papel da gramática</a></li>
+<li class="chapter" data-level="0.5" data-path="como-aprender-uma-língua.html"><a href="como-aprender-uma-língua.html#a-importância-do-interesse"><i class="fa fa-check"></i><b>0.5</b> A importância do interesse</a></li>
+<li class="chapter" data-level="0.6" data-path="como-aprender-uma-língua.html"><a href="como-aprender-uma-língua.html#conclusão"><i class="fa fa-check"></i><b>0.6</b> Conclusão</a></li>
+</ul></li>
+<li class="chapter" data-level="1" data-path="introdução.html"><a href="introdução.html"><i class="fa fa-check"></i><b>1</b> Introdução</a>
+<ul>
+<li class="chapter" data-level="1.1" data-path="introdução.html"><a href="introdução.html#resumo"><i class="fa fa-check"></i><b>1.1</b> Resumo</a></li>
+</ul></li>
+<li class="chapter" data-level="" data-path="a-motivação.html"><a href="a-motivação.html"><i class="fa fa-check"></i>A motivação</a>
+<ul>
+<li class="chapter" data-level="1.2" data-path="a-motivação.html"><a href="a-motivação.html#resumo-1"><i class="fa fa-check"></i><b>1.2</b> Resumo</a></li>
+</ul></li>
+<li class="chapter" data-level="" data-path="a-diferença-entre-aprendizado-e-aquisição.html"><a href="a-diferença-entre-aprendizado-e-aquisição.html"><i class="fa fa-check"></i>A diferença entre aprendizado e aquisição</a>
+<ul>
+<li class="chapter" data-level="" data-path="a-diferença-entre-aprendizado-e-aquisição.html"><a href="a-diferença-entre-aprendizado-e-aquisição.html#resumo-2"><i class="fa fa-check"></i>Resumo</a></li>
+</ul></li>
+<li class="chapter" data-level="2" data-path="como-adquirir-uma-língua.html"><a href="como-adquirir-uma-língua.html"><i class="fa fa-check"></i><b>2</b> Como adquirir uma língua</a>
+<ul>
+<li class="chapter" data-level="2.1" data-path="como-adquirir-uma-língua.html"><a href="como-adquirir-uma-língua.html#resumo-3"><i class="fa fa-check"></i><b>2.1</b> Resumo</a></li>
+</ul></li>
+<li class="chapter" data-level="3" data-path="melhores-conteúdos-para-aprender-uma-língua.html"><a href="melhores-conteúdos-para-aprender-uma-língua.html"><i class="fa fa-check"></i><b>3</b> Melhores conteúdos para aprender uma língua</a>
+<ul>
+<li class="chapter" data-level="3.1" data-path="melhores-conteúdos-para-aprender-uma-língua.html"><a href="melhores-conteúdos-para-aprender-uma-língua.html#i1"><i class="fa fa-check"></i><b>3.1</b> I+1</a></li>
+<li class="chapter" data-level="3.2" data-path="melhores-conteúdos-para-aprender-uma-língua.html"><a href="melhores-conteúdos-para-aprender-uma-língua.html#tipos-de-conteúdo"><i class="fa fa-check"></i><b>3.2</b> Tipos de conteúdo</a>
+<ul>
+<li class="chapter" data-level="3.2.1" data-path="melhores-conteúdos-para-aprender-uma-língua.html"><a href="melhores-conteúdos-para-aprender-uma-língua.html#jogos"><i class="fa fa-check"></i><b>3.2.1</b> Jogos</a></li>
+<li class="chapter" data-level="3.2.2" data-path="melhores-conteúdos-para-aprender-uma-língua.html"><a href="melhores-conteúdos-para-aprender-uma-língua.html#filmes-séries-documentários-noticiários-etc."><i class="fa fa-check"></i><b>3.2.2</b> Filmes, séries, documentários, noticiários etc.</a></li>
+<li class="chapter" data-level="3.2.3" data-path="melhores-conteúdos-para-aprender-uma-língua.html"><a href="melhores-conteúdos-para-aprender-uma-língua.html#livros-e-podcasts-1"><i class="fa fa-check"></i><b>3.2.3</b> Livros e podcasts</a></li>
+</ul></li>
+<li class="chapter" data-level="3.3" data-path="melhores-conteúdos-para-aprender-uma-língua.html"><a href="melhores-conteúdos-para-aprender-uma-língua.html#necessidade-de-ferramentas-de-apoio-para-a-imersão"><i class="fa fa-check"></i><b>3.3</b> Necessidade de ferramentas de apoio para a imersão</a></li>
+<li class="chapter" data-level="3.4" data-path="melhores-conteúdos-para-aprender-uma-língua.html"><a href="melhores-conteúdos-para-aprender-uma-língua.html#resumo-4"><i class="fa fa-check"></i><b>3.4</b> Resumo</a></li>
+</ul></li>
+<li class="chapter" data-level="" data-path="ferramentas-auxiliares-no-aprendizado-de-línguas.html"><a href="ferramentas-auxiliares-no-aprendizado-de-línguas.html"><i class="fa fa-check"></i>Ferramentas auxiliares no aprendizado de línguas</a>
+<ul>
+<li class="chapter" data-level="" data-path="ferramentas-auxiliares-no-aprendizado-de-línguas.html"><a href="ferramentas-auxiliares-no-aprendizado-de-línguas.html#o-uso-de-aplicativos"><i class="fa fa-check"></i>O uso de aplicativos</a></li>
+<li class="chapter" data-level="" data-path="ferramentas-auxiliares-no-aprendizado-de-línguas.html"><a href="ferramentas-auxiliares-no-aprendizado-de-línguas.html#sistemas-de-repetição-espaçada"><i class="fa fa-check"></i>Sistemas de repetição espaçada</a></li>
+<li class="chapter" data-level="3.5" data-path="ferramentas-auxiliares-no-aprendizado-de-línguas.html"><a href="ferramentas-auxiliares-no-aprendizado-de-línguas.html#resumo-5"><i class="fa fa-check"></i><b>3.5</b> Resumo</a></li>
+</ul></li>
+<li class="chapter" data-level="4" data-path="anki-primeiros-passos.html"><a href="anki-primeiros-passos.html"><i class="fa fa-check"></i><b>4</b> Anki: primeiros passos</a>
+<ul>
+<li class="chapter" data-level="4.1" data-path="anki-primeiros-passos.html"><a href="anki-primeiros-passos.html#utilizando-o-anki-no-computador"><i class="fa fa-check"></i><b>4.1</b> Utilizando o Anki no computador</a>
+<ul>
+<li class="chapter" data-level="4.1.1" data-path="anki-primeiros-passos.html"><a href="anki-primeiros-passos.html#instalação"><i class="fa fa-check"></i><b>4.1.1</b> Instalação</a></li>
+</ul></li>
+<li class="chapter" data-level="4.2" data-path="anki-primeiros-passos.html"><a href="anki-primeiros-passos.html#o-menu-de-baralhos"><i class="fa fa-check"></i><b>4.2</b> O menu de baralhos</a>
+<ul>
+<li class="chapter" data-level="4.2.1" data-path="anki-primeiros-passos.html"><a href="anki-primeiros-passos.html#baralhos"><i class="fa fa-check"></i><b>4.2.1</b> Baralhos</a></li>
+</ul></li>
+<li class="chapter" data-level="4.3" data-path="anki-primeiros-passos.html"><a href="anki-primeiros-passos.html#adicionar-criando-cartas"><i class="fa fa-check"></i><b>4.3</b> Adicionar: Criando cartas</a>
+<ul>
+<li class="chapter" data-level="4.3.1" data-path="anki-primeiros-passos.html"><a href="anki-primeiros-passos.html#criando-cartas-pelo-anki"><i class="fa fa-check"></i><b>4.3.1</b> Criando cartas pelo Anki</a></li>
+</ul></li>
+<li class="chapter" data-level="4.4" data-path="anki-primeiros-passos.html"><a href="anki-primeiros-passos.html#criando-cartas-em-planilhas"><i class="fa fa-check"></i><b>4.4</b> Criando cartas em planilhas</a></li>
+<li class="chapter" data-level="4.5" data-path="anki-primeiros-passos.html"><a href="anki-primeiros-passos.html#práticas-para-elaborar-flashcards"><i class="fa fa-check"></i><b>4.5</b> Práticas para elaborar flashcards</a></li>
+<li class="chapter" data-level="4.6" data-path="anki-primeiros-passos.html"><a href="anki-primeiros-passos.html#utilizando-o-anki-pelo-celular"><i class="fa fa-check"></i><b>4.6</b> Utilizando o Anki pelo celular</a></li>
+</ul></li>
+<li class="chapter" data-level="5" data-path="anki-plugins-e-awesometts.html"><a href="anki-plugins-e-awesometts.html"><i class="fa fa-check"></i><b>5</b> Anki: plugins e AwesomeTTS</a>
+<ul>
+<li class="chapter" data-level="5.1" data-path="anki-plugins-e-awesometts.html"><a href="anki-plugins-e-awesometts.html#instalando-plugins"><i class="fa fa-check"></i><b>5.1</b> Instalando plugins</a></li>
+<li class="chapter" data-level="5.2" data-path="anki-plugins-e-awesometts.html"><a href="anki-plugins-e-awesometts.html#o-menu-painel"><i class="fa fa-check"></i><b>5.2</b> O menu <code>Painel</code></a></li>
+</ul></li>
+<li class="chapter" data-level="6" data-path="anki-customização-de-baralhos.html"><a href="anki-customização-de-baralhos.html"><i class="fa fa-check"></i><b>6</b> Anki: customização de baralhos</a>
+<ul>
+<li class="chapter" data-level="6.1" data-path="anki-customização-de-baralhos.html"><a href="anki-customização-de-baralhos.html#criando-diferentes-tipos-de-notas"><i class="fa fa-check"></i><b>6.1</b> Criando diferentes tipos de notas</a></li>
+<li class="chapter" data-level="6.2" data-path="anki-customização-de-baralhos.html"><a href="anki-customização-de-baralhos.html#editando"><i class="fa fa-check"></i><b>6.2</b> Editando</a></li>
+<li class="chapter" data-level="6.3" data-path="anki-customização-de-baralhos.html"><a href="anki-customização-de-baralhos.html#usando-planilhas-para-criar-cartas-com-múltiplos-campos"><i class="fa fa-check"></i><b>6.3</b> Usando planilhas para criar cartas com múltiplos campos</a></li>
+<li class="chapter" data-level="6.4" data-path="anki-customização-de-baralhos.html"><a href="anki-customização-de-baralhos.html#html-e-css"><i class="fa fa-check"></i><b>6.4</b> HTML e CSS</a>
+<ul>
+<li class="chapter" data-level="6.4.1" data-path="anki-customização-de-baralhos.html"><a href="anki-customização-de-baralhos.html#html-no-conteúdo-das-cartas"><i class="fa fa-check"></i><b>6.4.1</b> HTML no conteúdo das cartas</a></li>
+<li class="chapter" data-level="6.4.2" data-path="anki-customização-de-baralhos.html"><a href="anki-customização-de-baralhos.html#html-na-estrutura-das-cartas"><i class="fa fa-check"></i><b>6.4.2</b> HTML na estrutura das cartas</a></li>
+</ul></li>
+</ul></li>
+<li class="chapter" data-level="7" data-path="anki-conclusão.html"><a href="anki-conclusão.html"><i class="fa fa-check"></i><b>7</b> Anki: conclusão</a></li>
+<li class="chapter" data-level="" data-path="a-interação-entre-repetição-espaçada-e-imersão.html"><a href="a-interação-entre-repetição-espaçada-e-imersão.html"><i class="fa fa-check"></i>A interação entre repetição espaçada e imersão</a></li>
+<li class="chapter" data-level="" data-path="o-desenvolvimento-da-fala.html"><a href="o-desenvolvimento-da-fala.html"><i class="fa fa-check"></i>O desenvolvimento da fala</a>
+<ul>
+<li class="chapter" data-level="7.0.1" data-path="o-desenvolvimento-da-fala.html"><a href="o-desenvolvimento-da-fala.html#regras"><i class="fa fa-check"></i><b>7.0.1</b> Regras</a></li>
+<li class="chapter" data-level="7.0.2" data-path="o-desenvolvimento-da-fala.html"><a href="o-desenvolvimento-da-fala.html#vocabulário"><i class="fa fa-check"></i><b>7.0.2</b> Vocabulário</a></li>
+<li class="chapter" data-level="7.0.3" data-path="o-desenvolvimento-da-fala.html"><a href="o-desenvolvimento-da-fala.html#prática-language-parents"><i class="fa fa-check"></i><b>7.0.3</b> Prática: <em>language parents</em></a></li>
+<li class="chapter" data-level="" data-path="o-desenvolvimento-da-fala.html"><a href="o-desenvolvimento-da-fala.html#resumo-6"><i class="fa fa-check"></i>Resumo</a></li>
+</ul></li>
+<li class="chapter" data-level="" data-path="ansiedade-de-exposição.html"><a href="ansiedade-de-exposição.html"><i class="fa fa-check"></i>Ansiedade de exposição</a>
+<ul>
+<li class="chapter" data-level="7.1" data-path="ansiedade-de-exposição.html"><a href="ansiedade-de-exposição.html#o-medo-de-se-expor"><i class="fa fa-check"></i><b>7.1</b> O medo de se expor</a></li>
+<li class="chapter" data-level="7.2" data-path="ansiedade-de-exposição.html"><a href="ansiedade-de-exposição.html#o-medo-de-não-entender"><i class="fa fa-check"></i><b>7.2</b> O medo de não entender</a></li>
+<li class="chapter" data-level="7.3" data-path="ansiedade-de-exposição.html"><a href="ansiedade-de-exposição.html#o-medo-de-falar-errado"><i class="fa fa-check"></i><b>7.3</b> O medo de falar errado</a>
+<ul>
+<li class="chapter" data-level="7.3.1" data-path="ansiedade-de-exposição.html"><a href="ansiedade-de-exposição.html#interlúdio-o-desejo-de-falar-perfeitamente"><i class="fa fa-check"></i><b>7.3.1</b> Interlúdio: o desejo de falar perfeitamente</a></li>
+<li class="chapter" data-level="7.3.2" data-path="ansiedade-de-exposição.html"><a href="ansiedade-de-exposição.html#como-de-fato-perder-o-medo-de-falar"><i class="fa fa-check"></i><b>7.3.2</b> Como de fato perder o medo de falar</a></li>
+</ul></li>
+<li class="chapter" data-level="7.4" data-path="ansiedade-de-exposição.html"><a href="ansiedade-de-exposição.html#eu-já-deveria-estar-sabendo-disso"><i class="fa fa-check"></i><b>7.4</b> “Eu já deveria estar sabendo disso”</a></li>
+<li class="chapter" data-level="7.5" data-path="ansiedade-de-exposição.html"><a href="ansiedade-de-exposição.html#práticas-errôneas-comuns"><i class="fa fa-check"></i><b>7.5</b> Práticas errôneas comuns</a>
+<ul>
+<li class="chapter" data-level="7.5.1" data-path="ansiedade-de-exposição.html"><a href="ansiedade-de-exposição.html#tirar-legendas"><i class="fa fa-check"></i><b>7.5.1</b> Tirar legendas</a></li>
+<li class="chapter" data-level="7.5.2" data-path="ansiedade-de-exposição.html"><a href="ansiedade-de-exposição.html#colocar-legendas-na-sua-língua-nativa"><i class="fa fa-check"></i><b>7.5.2</b> Colocar legendas na sua língua nativa</a></li>
+<li class="chapter" data-level="7.5.3" data-path="ansiedade-de-exposição.html"><a href="ansiedade-de-exposição.html#usar-apenas-material-que-já-entendo"><i class="fa fa-check"></i><b>7.5.3</b> Usar apenas material que já entendo</a></li>
+<li class="chapter" data-level="7.5.4" data-path="ansiedade-de-exposição.html"><a href="ansiedade-de-exposição.html#praticar-imersão-apenas-depois-de-estar-preparado"><i class="fa fa-check"></i><b>7.5.4</b> Praticar imersão apenas depois de “estar preparado”</a></li>
+<li class="chapter" data-level="7.5.5" data-path="ansiedade-de-exposição.html"><a href="ansiedade-de-exposição.html#usar-substitutos-à-imersão"><i class="fa fa-check"></i><b>7.5.5</b> Usar substitutos à imersão</a></li>
+<li class="chapter" data-level="7.5.6" data-path="ansiedade-de-exposição.html"><a href="ansiedade-de-exposição.html#usar-apenas-materiais-didáticos"><i class="fa fa-check"></i><b>7.5.6</b> Usar apenas materiais didáticos</a></li>
+</ul></li>
+</ul></li>
+<li class="chapter" data-level="8" data-path="sistemas-de-escrita.html"><a href="sistemas-de-escrita.html"><i class="fa fa-check"></i><b>8</b> Sistemas de escrita</a>
+<ul>
+<li class="chapter" data-level="8.1" data-path="sistemas-de-escrita.html"><a href="sistemas-de-escrita.html#alfabeto-cirílico"><i class="fa fa-check"></i><b>8.1</b> Alfabeto cirílico</a></li>
+<li class="chapter" data-level="8.2" data-path="sistemas-de-escrita.html"><a href="sistemas-de-escrita.html#árabe"><i class="fa fa-check"></i><b>8.2</b> Árabe</a></li>
+<li class="chapter" data-level="8.3" data-path="sistemas-de-escrita.html"><a href="sistemas-de-escrita.html#conclusão-1"><i class="fa fa-check"></i><b>8.3</b> Conclusão</a></li>
+</ul></li>
+<li class="chapter" data-level="" data-path="cursos-e-professores.html"><a href="cursos-e-professores.html"><i class="fa fa-check"></i>Cursos e professores</a>
+<ul>
+<li class="chapter" data-level="8.4" data-path="cursos-e-professores.html"><a href="cursos-e-professores.html#professores-particulares-e-tutores"><i class="fa fa-check"></i><b>8.4</b> Professores particulares e tutores</a></li>
+<li class="chapter" data-level="8.5" data-path="cursos-e-professores.html"><a href="cursos-e-professores.html#cursos"><i class="fa fa-check"></i><b>8.5</b> Cursos</a></li>
+<li class="chapter" data-level="8.6" data-path="cursos-e-professores.html"><a href="cursos-e-professores.html#resumo-7"><i class="fa fa-check"></i><b>8.6</b> Resumo</a></li>
+<li class="chapter" data-level="8.7" data-path="cursos-e-professores.html"><a href="cursos-e-professores.html#por-que-eu-deixei-a-gramática-por-último"><i class="fa fa-check"></i><b>8.7</b> Por que eu deixei a gramática por último</a>
+<ul>
+<li class="chapter" data-level="8.7.1" data-path="cursos-e-professores.html"><a href="cursos-e-professores.html#um-adendo"><i class="fa fa-check"></i><b>8.7.1</b> Um adendo</a></li>
+</ul></li>
+<li class="chapter" data-level="8.8" data-path="cursos-e-professores.html"><a href="cursos-e-professores.html#por-que-aprender-gramática"><i class="fa fa-check"></i><b>8.8</b> Por que aprender gramática</a></li>
+<li class="chapter" data-level="8.9" data-path="cursos-e-professores.html"><a href="cursos-e-professores.html#como-aprender-gramática"><i class="fa fa-check"></i><b>8.9</b> Como aprender gramática</a></li>
+<li class="chapter" data-level="8.10" data-path="cursos-e-professores.html"><a href="cursos-e-professores.html#resumo-8"><i class="fa fa-check"></i><b>8.10</b> Resumo</a></li>
+</ul></li>
+<li class="chapter" data-level="9" data-path="referências.html"><a href="referências.html"><i class="fa fa-check"></i><b>9</b> Referências</a>
+<ul>
+<li class="chapter" data-level="9.1" data-path="referências.html"><a href="referências.html#vídeos"><i class="fa fa-check"></i><b>9.1</b> Vídeos</a>
+<ul>
+<li class="chapter" data-level="9.1.1" data-path="referências.html"><a href="referências.html#vídeos-isolados"><i class="fa fa-check"></i><b>9.1.1</b> Vídeos isolados</a></li>
+<li class="chapter" data-level="9.1.2" data-path="referências.html"><a href="referências.html#canais-do-youtube"><i class="fa fa-check"></i><b>9.1.2</b> Canais do YouTube</a></li>
+</ul></li>
+<li class="chapter" data-level="9.2" data-path="referências.html"><a href="referências.html#livros-1"><i class="fa fa-check"></i><b>9.2</b> Livros</a></li>
+<li class="chapter" data-level="9.3" data-path="referências.html"><a href="referências.html#websites"><i class="fa fa-check"></i><b>9.3</b> Websites</a></li>
+<li class="chapter" data-level="9.4" data-path="referências.html"><a href="referências.html#textos"><i class="fa fa-check"></i><b>9.4</b> Textos</a>
+<ul>
+<li class="chapter" data-level="9.4.1" data-path="referências.html"><a href="referências.html#artigos"><i class="fa fa-check"></i><b>9.4.1</b> Artigos</a></li>
+<li class="chapter" data-level="9.4.2" data-path="referências.html"><a href="referências.html#páginas-da-internet"><i class="fa fa-check"></i><b>9.4.2</b> Páginas da internet</a></li>
+</ul></li>
+</ul></li>
+<li class="chapter" data-level="" data-path="sobre.html"><a href="sobre.html"><i class="fa fa-check"></i>Sobre</a>
+<ul>
+<li class="chapter" data-level="9.5" data-path="sobre.html"><a href="sobre.html#sobre-este-site"><i class="fa fa-check"></i><b>9.5</b> Sobre este site</a>
+<ul>
+<li class="chapter" data-level="9.5.1" data-path="sobre.html"><a href="sobre.html#sobre-o-nome-do-site"><i class="fa fa-check"></i><b>9.5.1</b> Sobre o nome do site</a></li>
+</ul></li>
+<li class="chapter" data-level="9.6" data-path="sobre.html"><a href="sobre.html#sobre-o-autor"><i class="fa fa-check"></i><b>9.6</b> Sobre o autor</a></li>
+</ul></li>
+</ul>
+
+      </nav>
+    </div>
+
+    <div class="book-body">
+      <div class="body-inner">
+        <div class="book-header" role="navigation">
+          <h1>
+            <i class="fa fa-circle-o-notch fa-spin"></i><a href="./">Irídula</a>
+          </h1>
+        </div>
+
+        <div class="page-wrapper" tabindex="-1" role="main">
+          <div class="page-inner">
+
+            <section class="normal" id="section-">
+<div id="anki-customização-de-baralhos" class="section level1 hasAnchor" number="6">
+<h1><span class="header-section-number">6</span> Anki: customização de baralhos<a href="anki-customização-de-baralhos.html#anki-customização-de-baralhos" class="anchor-section" aria-label="Anchor link to header"></a></h1>
+<p>Há certas palavras que possuem muitos significados, e que só o contexto vai poder nos dizer com segurança qual deles deve ser considerado. Há também algumas que talvez possuam um só significado, mas que podem ser especialmente difíceis de memorizar, seja por ser rara, seja por parecer com outras, seja por não se conectar muito bem com o nosso mundo pessoal.</p>
+<p>O aprendizado é facilitado pela conexão entre as ideias. Talvez seja possível afirmar até que não haja aprendizado sem conexão. Quando você consegue conectar um conceito a uma aplicação, não só é mais fácil memorizá-lo, como é possível que você não tenha nem que se preocupar com “decoreba”. Quando você gosta de um assunto, aprendê-lo é mais fácil. Uma das explicações para disso é que os conceitos que compõem esse assunto são importantes para a sua vida, então eles estabelecem conexões com áreas do seu interesse. É por isso que é importante criar memórias carregadas de emoção no nosso processo de aprender uma língua.</p>
+<p>Estudar com uma pessoa ou em um lugar específico também pode nos ajudar a aprender. A associação não se dá apenas com ideias, mas com pessoas, locais, cheiros, sons e qualquer outro tipo de coisa. Porém, isso pode não ser perfeitamente factível quando estamos querendo aprender uma língua. Talvez não conheçamos outras pessoas que querem aprendê-la conosco, ou não temos (ou podemos ter) um lugar específico para nos dirigirmos só para estudá-la.</p>
+<p>A proposição continua de pé, entretanto: quanto mais conexões conseguimos fazer entre as informações, mais fácil se torna o processo de aprendê-las. Um flashcard que contenha apenas uma palavra na <code>Frente</code> e a sua tradução no <code>Verso</code> não é algo muito estimulante. Com frequência vai ser algo pouco memorável, podendo ser chato, e facilmente esquecível. É preciso então considerar como incluir mais informação nesse baralho.</p>
+<p>É claro, podemos simplesmente ir inserindo informação nos campos de <code>Frente</code> e <code>Verso</code> na hora de criarmos as nossas cartas, mas isso pode facilmente virar uma bagunça. Uma forma de evitarmos esse tipo de confusão é criar novos campos para as nossas cartas. Para não alterar de forma indesejável as cartas que já existem, vamos criar um tipo novo de carta.</p>
+<div id="criando-diferentes-tipos-de-notas" class="section level2 hasAnchor" number="6.1">
+<h2><span class="header-section-number">6.1</span> Criando diferentes tipos de notas<a href="anki-customização-de-baralhos.html#criando-diferentes-tipos-de-notas" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<p>A primeira coisa que deve ser feita é abrir o menu de edição de notas, sinalizado pelo título “Gerenciar Tipos de Notas”:</p>
+<p><img src="img/tut31.png" /></p>
+<p>Você será recebido com um menu que contém diferentes opções e que expõe quais tipos de cartas já estão disponíveis. Você provavelmente verá os seguintes tipos:
+- Básico
+- Básico (cartão invertido opcional)
+- Básico (digite a resposta)
+- Básico (e cartão invertido)
+- Omissão de palavras</p>
+<p>Se você tiver baixado algum baralho no <em>AnkiWeb Shared Decks</em>, você provavelmente verá um ou mais tipos diferentes nesta lista. No lado direito, cliquemos em <code>Adicionar</code>.</p>
+<p><img src="img/tut32.png" /></p>
+<p>Escolha “Adicionar: Básico”. O programa pedirá que você escolha um nome. Aqui eu colocarei o nome de “Básico com exemplos”. Sugiro que você faça o mesmo, pelo menos ao longo dessas instruções. Feito isso, você verá um novo tipo de carta aparecer na lista. Selecione o tipo recém-criado e depois clique em <code>Campos</code>.</p>
+<p><img src="img/tut33.png" /></p>
+<p>Você perceberá que tal como antes esse tipo de cartão só tem os mesmos dois campos de antes: <code>Frente</code> e <code>Verso</code>. Agora nós vamos criar nos campos.</p>
+<p>Clique em adicionar e, um de cada vez, crie os seguintes campos (sem as aspas):
+- “Exemplo”
+- “Tradução do exemplo”
+- “Áudio”</p>
+<p>O nome que você coloca fará diferença daqui a pouco, portanto seja consistente. Se você for colocar nomes diferentes, ou se for colocar tudo em maiúsculo, ou tudo em minúsculo, ou se vai capitalizar as iniciais de cada palavra, tenha isso em mente. Você deve ter a seguinte tela como resultado:</p>
+<p><img src="img/tut34.png" /></p>
+<p>Clique em <code>Salvar</code> e <em>voilà</em>, você criou novos campos para esse tipo de <em>flashcard</em>.</p>
+<p>Por ora, entretanto, isso não vai mudar nada nas nossas vidas. Nós criamos novos possíveis campos para o nosso “Tipo de carta” que nomeamos “Básico com exemplos”. Agora precisamos adicionar estes campos ao cartão.</p>
+</div>
+<div id="editando" class="section level2 hasAnchor" number="6.2">
+<h2><span class="header-section-number">6.2</span> Editando<a href="anki-customização-de-baralhos.html#editando" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<p>Para fazer essa adição, ainda selecionado o nosso tipo de cartão recém criado (“Básico com exemplos”), clique em <code>Cartões</code>. Você verá algo parecido com a seguinte tela:</p>
+<p><img src="img/tut35.png" /></p>
+<p>Esse é um modelo desse tipo de <em>flashcard</em>. Ele serve de molde para todos os cartões desse tipo que você criar.</p>
+<p>Do lado esquerdo dessa tela, você verá as opções <code>Modelo da Frente</code> e <code>Modelo do Verso</code>. No lado esquerdo você verá também um campo para digitação em que está escrito “{{Frente}}”. Tudo o que você elaborar neste campo comporá a parte da <code>Frente</code> do seu cartão. Se ao lado do “{{Frente}}” eu inserir os caracteres “——– exemplo”, eles serão renderizados ao lado. Veja:</p>
+<p><img src="img/tut36.png" /></p>
+<p>Mas do que vale esses dizeres, “{{Frente}}”? Tudo o que fizer parte do seu campo da <code>Frente</code> aparecerá aí. Por exemplo, se eu tenho um <em>flashcard</em> cuja <code>Frente</code> é “Alright”, se neste modelo estiver escrito “{{Frente}} ——— exemplo”, na hora do meu estudo eu verei “Alright ———– exemplo”.</p>
+<p>O que quer dizer que o que eu colocar no campo “{{Exemplo}}” (entre colchetes) aparecerá no mesmo lugar na hora do estudo. Vamos editar o campo da frente, então, para deixá-lo da seguinte forma:</p>
+<p><img src="img/tut37.png" /></p>
+<p>Os nomes para os campos que criamos em <a href="anki-customização-de-baralhos.html#criando-diferentes-tipos-de-notas">Criando diferentes tipos de notas</a> são os nomes que precisamos considerar aqui. Se inserirmos um nome que não definirmos previamente, seremos recebidos com um erro do lado. Por exemplo, se o campo que tivermos criado no menu <code>Campos</code> tiver sido “Exemplo” mas aqui escrevermos “Exemplos”, no plural, o programa não entenderá o que você quer dizer e apresentará um erro. É necessário ser exato e colocar aqui exatamente o que você inseriu no menu <code>Campos</code>.</p>
+<p>Você pode estar estranhando por que nós inserimos esses “&lt;br&gt;&lt;br&gt;” entre “{{Frente}}” e “{{Exemplo}}”. Essas são <em>tags</em> HTML. Não nos aprofundaremos nisso, mas nós iremos abordá-las brevemente na última seção deste capítulo, caso você queira se familiarizar mais com as possibilidades deste menu. Em essência, entretanto, essas <em>tags</em> “&lt;br&gt;&lt;br&gt;” servem para pular a linha, para que o conteúdo dos campos “{{Frente}}” e “{{Exemplo}}” não fique na mesma linha.</p>
+<p>Vamos fazer o seguinte. Vamos inserir também o campo “{{Áudio}}” nessa mesma parte do flashcard, logo acima do campo “{{Frente}}”:</p>
+<p><img src="img/tut38.png" /></p>
+<p>O motivo de só termos inserido apenas uma tag “&lt;br&gt;” agora é puramente estético. Feito isso, a parte da frente do nosso cartão está pronta. Clique agora em <code>Modelo do Verso</code>.</p>
+<p><img src="img/tut39.png" /></p>
+<p>Você deve ver, do lado direito, uma cópia do que você criou na parte anterior deste menu, adicionada de uma linha que a separa na metade e o campo “{{Verso}}”. Do lado esquerdo, há o campo “{{FrontSide}}”, que representa o lado da <code>Frente</code> que você editou anteriormente, com todas as coisas que você acrescentou, incluindo os campos “{{Áudio}}”, “{{Frente}}”, “{{Exemplo}}” e as tags HTML para pular de linha.<a href="#fn14" class="footnote-ref" id="fnref14"><sup>14</sup></a></p>
+<p>Vamos agora fazer uma breve edição: vamos apenas adicionar o campo “{{Tradução do exemplo}}” ao <code>Modelo do Verso</code>, da seguinte forma:</p>
+<p><img src="img/tut40.png" /></p>
+<p>Feito isso, podemos clicar em <code>Salvar</code>, no campo inferior direito deste menu. A seção <code>Estilo</code> nós veremos na última parte deste capítulo, logo após abordarmos a interação desta funcionalidade com as planilhas.</p>
+<p>Estaremos de volta ao menu dos <code>Tipos de Nota</code>. Fechemos este menu também. Agora vamos clicar em <code>Adicionar</code> para inserir cartas novas como vimos no capítulo <a href="anki-primeiros-passos.html#anki-primeiros-passos">Anki: primeiros passos</a>. Precisamos alterar o tipo de cartas que estamos utilizando. Clique em <code>Tipo</code> e selecione o <code>Tipo</code> que criamos anteriormente:</p>
+<div class="float">
+<img src="img/tut41.png" alt="Este cartão será adicionado ao baralho “Padrão”, tal como está assinalado no campo Baralho." />
+<div class="figcaption">Este cartão será adicionado ao baralho “Padrão”, tal como está assinalado no campo <code>Baralho</code>.</div>
+</div>
+<p>Você verá agora uma multiplicidade de campos. Podemos então preenchê-los da seguinte forma, por exemplo:</p>
+<p><img src="img/tut42.png" /></p>
+<p>Vou deixar o campo de <code>Áudio</code> vazio de propósito neste momento. Tal como no <a href="anki-plugins-e-awesometts.html#anki-plugins-e-awesometts">capítulo anterior</a>, nós podemos acrescentar áudio a este campo com base no conteúdo de outros campos:</p>
+<div class="float">
+<img src="img/tut43.png" alt="Aqui nós estamos utilizando o conteúdo do campo Frente (“take notes”) e criando um arquivo de áudio que será armazenado no campo Áudio. Isso deixa nossos baralhos mais organizados." />
+<div class="figcaption">Aqui nós estamos utilizando o conteúdo do campo <code>Frente</code> (“<em>take notes</em>”) e criando um arquivo de áudio que será armazenado no campo <code>Áudio</code>. Isso deixa nossos baralhos mais organizados.</div>
+</div>
+<p>Ao estudarmos os nossos cartões, veremos o cartão que criamos da seguinte forma:</p>
+<div class="float">
+<img src="img/tut44.png" alt="Repare como o arquivo de som (se você inseriu o áudio a ele utilizando o AwesomeTTS (como demonstrado no capítulo passado) está na parte acima do conteúdo da “{{Frente}}” (que é “Take notes”). O “{{Exemplo}}” está logo abaixo." />
+<div class="figcaption">Repare como o arquivo de som (se você inseriu o áudio a ele utilizando o AwesomeTTS (como demonstrado no capítulo passado) está na parte acima do conteúdo da “{{Frente}}” (que é “Take notes”). O “{{Exemplo}}” está logo abaixo.</div>
+</div>
+<p>Ao clicarmos para ver o <code>Verso</code> da carta, veremos também o campo “{{Tradução do exemplo}}”:</p>
+<p><img src="img/tut45.png" /></p>
+<p>Está feito! A inserção de diferentes campos pode nos ajudar a colocar informações diferentes, conforme nosso desejo e necessidade e de forma organizada, nos nossos cartões. Pode-se adicionar diferentes campos, por exemplo, um para imagens, outro para classe gramatical… Enfim! Aqui, as diretrizes são a necessidade e a criatividade.</p>
+<p>Mas dito isso, pode ser útil considerar como podemos organizar planilhas para criar cartas com esses múltiplos novos campos. Veremos isso agora.</p>
+</div>
+<div id="usando-planilhas-para-criar-cartas-com-múltiplos-campos" class="section level2 hasAnchor" number="6.3">
+<h2><span class="header-section-number">6.3</span> Usando planilhas para criar cartas com múltiplos campos<a href="anki-customização-de-baralhos.html#usando-planilhas-para-criar-cartas-com-múltiplos-campos" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<p>A princípio, a ordem dos campos (definida no menu <code>Campos</code> na hora de criá-los) é a ordem das colunas da planilha, da seguinte forma:</p>
+<div class="float">
+<img src="img/tut46.png" alt="Como você pode ver, a coluna A (ou coluna 1) da planilha corresponde ao campo 1, a coluna B (ou 2) ao campo 2, a coluna C (ou 3) ao campo 3, e assim por diante. Nesse exemplo, apenas a linha 1 da planilha está representada; cada linha da planilha se tornará uma carta diferente." />
+<div class="figcaption">Como você pode ver, a coluna A (ou coluna 1) da planilha corresponde ao campo 1, a coluna B (ou 2) ao campo 2, a coluna C (ou 3) ao campo 3, e assim por diante. Nesse exemplo, apenas a linha 1 da planilha está representada; cada linha da planilha se tornará uma carta diferente.</div>
+</div>
+<p>Assim, basta organizarmos a ordem das colunas para que correspondam à ordem dos campos que criamos e populá-las de acordo – lembrando que costuma ser mais eficiente deixarmos para popular os campos de áudio usando o AwesomeTTS em vez de tentarmos preenchê-lo manualmente. Feito isso, basta salvarmos em formato .csv em importar normalmente como faríamos.</p>
+<p>Contudo, caso tenhamos mudado a ordem de alguma coisa (seja a ordem dos nosso campos no menu <code>Campos</code>, seja a ordem dos conteúdos nas colunas) nós podemos remediar essa situação na hora de importar o conteúdo da planilha para o nosso baralho. Basta parearmos a ordem da planilha com o dos campos na hora da importação:</p>
+<div class="float">
+<img src="img/tut47.png" alt="Clicando em “Alterar” ao lado do nome do campo, podemos alterar a correspondência entre as colunas da planilha e os campos das nossas cartas. O campo 1 corresponde à coluna 1 (ou A) da nossa planilha, o campo 2 à coluna 2 (ou B) da nossa planilha, e assim por diante." />
+<div class="figcaption">Clicando em “Alterar” ao lado do nome do campo, podemos alterar a correspondência entre as colunas da planilha e os campos das nossas cartas. O campo 1 corresponde à coluna 1 (ou A) da nossa planilha, o campo 2 à coluna 2 (ou B) da nossa planilha, e assim por diante.</div>
+</div>
+<p>E está feito.</p>
+<hr />
+<p>Não precisaremos saber de mais do que isso para estudarmos e elaborarmos material de estudo no Anki. Verdadeiramente, esse é o essencial. Contudo, o Anki pode ter uma aparência um tanto simples. Além disso, pelas planilhas nós não podemos fazer edições na aparência do conteúdo das nossas cartas – caso queiramos, por exemplo, deixar uma palavra ou outra em negrito.</p>
+<p>Podemos deixar as nossas cartas mais atraentes ou mais didáticas utilizando HTML e CSS. O resultado aqui é puramente estético, mas pode valer a pena deixar as cartas que vamos estudar por meses a fio um pouco mais agradáveis de se olhar.</p>
+<p>Contudo, HTML e CSS são um assunto bem técnico e especializado – sendo sobretudo parte da ocupação de desenvolvedores e designers de websites. Não entraremos a fundo – apenas veremos o básico do básico, para termos noção do que é possível. Caso você queira se aprofundar neste tema, há múltiplos recursos. Um que eu recomendo é a trilha de HTML e CSS do <a href="https://pt.khanacademy.org/computing/computer-programming/html-css">Khan Academy</a>.</p>
+</div>
+<div id="html-e-css" class="section level2 hasAnchor" number="6.4">
+<h2><span class="header-section-number">6.4</span> HTML e CSS<a href="anki-customização-de-baralhos.html#html-e-css" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<p>Esta seção é puramente técnica e estética. Se você não aguenta mais ficar olhando para a tela branca do seu baralho do Anki, você pode usar o conteúdo que você vai aprender aqui Se editar mexer com código de computador te causa ansiedade, saiba que deixar esse capítulo de lado não vai impedir você de aproveitar este método. Dito isso, se você seguir adiante e lê-lo, perceberá que não é tão difícil quanto parece.</p>
+<div id="html-no-conteúdo-das-cartas" class="section level3 hasAnchor" number="6.4.1">
+<h3><span class="header-section-number">6.4.1</span> HTML no conteúdo das cartas<a href="anki-customização-de-baralhos.html#html-no-conteúdo-das-cartas" class="anchor-section" aria-label="Anchor link to header"></a></h3>
+<p>Como é que o Anki faz com que certas palavras ou frases fiquem em negrito, itálico ou colorido? Ele usa HTML.</p>
+<p>Se você for no menu <code>Painel</code>, você pode visualizar uma das suas cartas que têm algum caractere em negrito. Exemplo:</p>
+<p><img src="img/tut48.png" /></p>
+<p>No canto superior direito de cada um desses campos, você tem um símbolo que parece com um olho, e logo ao lado um símbolo que representa o código em HTML utilizado para renderizar o texto dessa forma (“&lt;/&gt;”). Clicando nele, você pode ver o HTML que faz parte desse texto:</p>
+<p><img src="img/tut49.png" /></p>
+<p>O código HTML presente ali é este:</p>
+<div class="sourceCode" id="cb1"><pre class="sourceCode html"><code class="sourceCode html"><span id="cb1-1"><a href="anki-customização-de-baralhos.html#cb1-1" tabindex="-1"></a>nbsp;<span class="kw">&lt;b&gt;</span>taking notes<span class="kw">&lt;/b&gt;</span>nbsp;</span></code></pre></div>
+<p>A parte que nos é de interesse é especialmente a da tag <code>&lt;b&gt;&lt;/b&gt;</code>. A primeira parte desse código (<code>&lt;b&gt;</code>) abre a função “negrito” (o “b” representa “bold”, inglês para “negrito”), e a segunda (<code>&lt;/b&gt;</code>) a fecha. Qualquer palavra ou conjunto de palavras entre essas duas partes será renderizada em negrito. Toda tag HTML é composta de <code>&lt;&gt;</code> e é fechada com <code>&lt;/&gt;</code>. Assim, nós temos:</p>
+<ul>
+<li><code>&lt;b&gt;</code> e <code>&lt;/b&gt;</code>, para deixar o texto em <strong>negrito</strong>;</li>
+<li><code>&lt;i&gt;</code> e <code>&lt;/i&gt;</code> para deixar o texto em <em>itálico</em></li>
+<li><code>&lt;div&gt;</code> e <code>&lt;/div&gt;</code> para criar divisórias na página.</li>
+</ul>
+<p>E assim por diante. É aqui que entra o valor da função <code>Permitir HTML em campos</code> na janela de importação do Anki: como você não pode importar texto em negrito das planilhas, você precisa incluir as tags HTML nelas caso você deseje que elas fiquem em negrito, itálico ou de algum outro modo editadas. Por exemplo:</p>
+<div class="float">
+<img src="img/tut50.png" alt="Não é possível inserir negrito, itálico e outros detalhes visuais nas planilhas .csv que o Anki utiliza sem usar HTML. Veja como para deixar as palavras em negrito é necessário circundas as palavras de interesse com as tags HTML." />
+<div class="figcaption">Não é possível inserir negrito, itálico e outros detalhes visuais nas planilhas .csv que o Anki utiliza sem usar HTML. Veja como para deixar as palavras em negrito é necessário circundas as palavras de interesse com as tags HTML.</div>
+</div>
+<p>Porém não é apenas o conteúdo do texto que pode ser editado usando HTML. Você pode editar a própria aparência da carta utilizando-o.</p>
+</div>
+<div id="html-na-estrutura-das-cartas" class="section level3 hasAnchor" number="6.4.2">
+<h3><span class="header-section-number">6.4.2</span> HTML na estrutura das cartas<a href="anki-customização-de-baralhos.html#html-na-estrutura-das-cartas" class="anchor-section" aria-label="Anchor link to header"></a></h3>
+<p>Vamos voltar ao campo <code>Cartões</code> do menu de edição do tipo de nota. Selecione o <code>Tipo</code> “Básico com Exemplos” e clique em <code>Cartões</code>. Você será recebido com o modelo de carta que criamos anteriormente.</p>
+<p>Eis o que faremos com essas cartas:
+- Alteraremos a cor do plano de fundo para algo menos intenso que esse branco (talvez um amarelo-palha, talvez um azul claro);
+- Colocaremos os campos “{{Exemplo}}” e “{{Tradução do exemplo}}” em uma caixa separada, mais escura, e mudaremos a cor da fonte para uma cor mais clara.</p>
+<p>Mãos à obra.</p>
+<div id="alteração-do-plano-de-fundo" class="section level4 hasAnchor" number="6.4.2.1">
+<h4><span class="header-section-number">6.4.2.1</span> Alteração do plano de fundo<a href="anki-customização-de-baralhos.html#alteração-do-plano-de-fundo" class="anchor-section" aria-label="Anchor link to header"></a></h4>
+<p>Clique em <code>Estilo</code>. Você está vendo um pedaço de código CSS.</p>
+<p><img src="img/tut51.png" /></p>
+<p>Eis o que esse código significa:</p>
+<ul>
+<li><strong>.card</strong>: o objeto a ser editado faz parte da classe “card”. Essa classe foi definida pelo próprio Anki. Os colchetes abertos dizem que os próximos comandos são referentes à edição deste objeto.</li>
+<li><strong>font-family</strong>: define que a fonte a ser utilizada deve ser “arial”. O ponto e vírgula (<code>;</code>) encerra a edição desta propriedade para que possamos editar a próxima. <em>É necessário encerrar toda e qualquer edição de propriedades CSS com ponto e vírgula</em>.</li>
+<li><strong>font-size</strong>: define que o tamanho da fonte deve ser de 20px (ou “20 pixels”).</li>
+<li><strong>text-align</strong>: define que o texto deve ser centralizado. Ele poderia estar alinhado à esquerda ou à direita, mas ele está centralizado.</li>
+<li><strong>color</strong>: define que a cor do texto deve ser preto.</li>
+<li><strong>background-color</strong>: define que a cor do plano de fundo deve ser branco. Nós editaremos esse primeiro.</li>
+</ul>
+<p>Mas que cor usaremos? Se escrevermos “yellow” no lugar de “white” vai funcionar muito bem, mas ficará simplesmente horrível. Vamos, faça o teste.</p>
+<div class="float">
+<img src="img/tut52.png" alt="Eu sei que gosto não se discute, mas acredito que rejeitar esse tipo de cor pro plano de fundo não seja nem questão de gosto, mas de saúde." />
+<div class="figcaption">Eu sei que gosto não se discute, mas acredito que rejeitar esse tipo de cor pro plano de fundo não seja nem questão de gosto, mas de saúde.</div>
+</div>
+<p>O que nós precisamos fazer é usar um <em>código hexadecimal</em> para colocar a cor que desejamos. Isso pode ser feito facilmente utilizando o <em>Colour Picker</em> do Google. Se você pesquiasr “Colour Picker” no Google você será recebido com esse painel:</p>
+<div class="float">
+<img src="img/tut53.png" alt="Se você for mexendo nas barras e clicando nas cores, você perceberá o código “Hex” logo abaixo do painel de cores vai mudando. É esse código que nós queremos." />
+<div class="figcaption">Se você for mexendo nas barras e clicando nas cores, você perceberá o código “Hex” logo abaixo do painel de cores vai mudando. É esse código que nós queremos.</div>
+</div>
+<p>Depois de selecionar uma cor que te agrada, copie o código hexadecimal gerado e cole-o no lugar da propriedade <code>background-color</code>. Eu escolhi o código <code>#f0eac2</code>, que é um amarelo bem claro. Se você estiver interessado em entender melhor como esses códigos de cores funcionam, talvez você precise se aprofundar um pouco mais em HTML e CSS do que compete o escopo desse site, e para isso eu recomendo o <a href="https://pt.khanacademy.org/computing/computer-programming/html-css">Khan Academy</a>.</p>
+<p>Sigamos em frente.</p>
+<p><img src="img/tut54.png" /></p>
+<p>Depois de editar a cor do plano de fundo, nós vamos agora envolver os nosso campos “{{Exemplo}}” e “{{Tradução do exemplo}}” em uma divisória mais escura, apenas para separá-la do resto da carta. Para isso, precisamos voltar na seção <code>Modelo da Frente</code> e fazer uma pequena edição. No campo de edição do <code>Modelo da Frente</code> você deve ter um código mais ou menos assim, se você seguiu as edições que fizemos nas seções anteriores desta capítulo:</p>
+<div class="sourceCode" id="cb2"><pre class="sourceCode html"><code class="sourceCode html"><span id="cb2-1"><a href="anki-customização-de-baralhos.html#cb2-1" tabindex="-1"></a>{{Áudio}}</span>
+<span id="cb2-2"><a href="anki-customização-de-baralhos.html#cb2-2" tabindex="-1"></a><span class="kw">&lt;br&gt;</span></span>
+<span id="cb2-3"><a href="anki-customização-de-baralhos.html#cb2-3" tabindex="-1"></a>{{Frente}}</span>
+<span id="cb2-4"><a href="anki-customização-de-baralhos.html#cb2-4" tabindex="-1"></a><span class="kw">&lt;br&gt;&lt;br&gt;</span></span>
+<span id="cb2-5"><a href="anki-customização-de-baralhos.html#cb2-5" tabindex="-1"></a>{{Exemplo}}</span></code></pre></div>
+<p>O que nós vamos fazer é criar uma tag <code>&lt;div&gt;</code> (que cria uma “divisória”) ao redor do {{Exemplo}} e atribuir a ela uma classe chamada “exemplos”:</p>
+<div class="sourceCode" id="cb3"><pre class="sourceCode html"><code class="sourceCode html"><span id="cb3-1"><a href="anki-customização-de-baralhos.html#cb3-1" tabindex="-1"></a>{{Áudio}}</span>
+<span id="cb3-2"><a href="anki-customização-de-baralhos.html#cb3-2" tabindex="-1"></a><span class="kw">&lt;br&gt;</span></span>
+<span id="cb3-3"><a href="anki-customização-de-baralhos.html#cb3-3" tabindex="-1"></a>{{Frente}}</span>
+<span id="cb3-4"><a href="anki-customização-de-baralhos.html#cb3-4" tabindex="-1"></a><span class="kw">&lt;br&gt;&lt;br&gt;</span></span>
+<span id="cb3-5"><a href="anki-customização-de-baralhos.html#cb3-5" tabindex="-1"></a><span class="kw">&lt;div</span> <span class="er">class</span><span class="ot">=</span><span class="st">&quot;exemplos&quot;</span><span class="kw">&gt;</span></span>
+<span id="cb3-6"><a href="anki-customização-de-baralhos.html#cb3-6" tabindex="-1"></a>    {{Exemplo}}</span>
+<span id="cb3-7"><a href="anki-customização-de-baralhos.html#cb3-7" tabindex="-1"></a><span class="kw">&lt;/div&gt;</span></span></code></pre></div>
+<p>Essa propriedade <code>class</code> (classe) serve para que possamos editar todos os objetos que tenham essa mesma classe de uma vez só, sem precisarmos editar um por um. Esse mesmo tipo de edição deve ser feito no <code>Modelo do Verso</code>, deixando-o assim:</p>
+<div class="sourceCode" id="cb4"><pre class="sourceCode html"><code class="sourceCode html"><span id="cb4-1"><a href="anki-customização-de-baralhos.html#cb4-1" tabindex="-1"></a>{{FrontSide}}</span>
+<span id="cb4-2"><a href="anki-customização-de-baralhos.html#cb4-2" tabindex="-1"></a></span>
+<span id="cb4-3"><a href="anki-customização-de-baralhos.html#cb4-3" tabindex="-1"></a><span class="kw">&lt;hr</span> <span class="er">id</span><span class="ot">=</span><span class="st">answer</span><span class="kw">&gt;</span></span>
+<span id="cb4-4"><a href="anki-customização-de-baralhos.html#cb4-4" tabindex="-1"></a></span>
+<span id="cb4-5"><a href="anki-customização-de-baralhos.html#cb4-5" tabindex="-1"></a>{{Verso}}</span>
+<span id="cb4-6"><a href="anki-customização-de-baralhos.html#cb4-6" tabindex="-1"></a><span class="kw">&lt;br&gt;&lt;br&gt;</span></span>
+<span id="cb4-7"><a href="anki-customização-de-baralhos.html#cb4-7" tabindex="-1"></a><span class="kw">&lt;div</span> <span class="er">class</span><span class="ot">=</span><span class="st">&quot;exemplos&quot;</span><span class="kw">&gt;</span></span>
+<span id="cb4-8"><a href="anki-customização-de-baralhos.html#cb4-8" tabindex="-1"></a>    {{Tradução do exemplo}}</span>
+<span id="cb4-9"><a href="anki-customização-de-baralhos.html#cb4-9" tabindex="-1"></a><span class="kw">&lt;/div&gt;</span></span></code></pre></div>
+<p>Circundamos o <code>Campo</code> “{{Tradução do exemplo}}” com a tag <code>&lt;div&gt;</code>, que tem a <code>class</code> “exemplos”.</p>
+<p>Agora nós editaremos os dois campos de uma só vez. Se nós formos agora para a seção <code>Estilo</code> podemos acrescentar o seguinte código ao campo de edição:</p>
+<div class="sourceCode" id="cb5"><pre class="sourceCode css"><code class="sourceCode css"><span id="cb5-1"><a href="anki-customização-de-baralhos.html#cb5-1" tabindex="-1"></a><span class="fu">.exemplos</span> {</span>
+<span id="cb5-2"><a href="anki-customização-de-baralhos.html#cb5-2" tabindex="-1"></a>    <span class="kw">background-color</span>: <span class="cn">#21212166</span><span class="op">;</span></span>
+<span id="cb5-3"><a href="anki-customização-de-baralhos.html#cb5-3" tabindex="-1"></a>    <span class="kw">width</span>: <span class="dv">80</span><span class="dt">%</span><span class="op">;</span></span>
+<span id="cb5-4"><a href="anki-customização-de-baralhos.html#cb5-4" tabindex="-1"></a>    <span class="kw">margin</span>: <span class="bu">auto</span><span class="op">;</span></span>
+<span id="cb5-5"><a href="anki-customização-de-baralhos.html#cb5-5" tabindex="-1"></a>    <span class="kw">padding</span>: <span class="dv">7</span><span class="dt">px</span><span class="op">;</span></span>
+<span id="cb5-6"><a href="anki-customização-de-baralhos.html#cb5-6" tabindex="-1"></a>    <span class="kw">border-radius</span>: <span class="dv">5</span><span class="dt">px</span><span class="op">;</span></span>
+<span id="cb5-7"><a href="anki-customização-de-baralhos.html#cb5-7" tabindex="-1"></a>    <span class="kw">text-align</span>: <span class="dv">left</span><span class="op">;</span></span>
+<span id="cb5-8"><a href="anki-customização-de-baralhos.html#cb5-8" tabindex="-1"></a>    <span class="kw">color</span>: <span class="cn">#fafafa</span><span class="op">;</span></span>
+<span id="cb5-9"><a href="anki-customização-de-baralhos.html#cb5-9" tabindex="-1"></a>    <span class="kw">font-size</span>: <span class="dv">16</span><span class="dt">px</span><span class="op">;</span></span>
+<span id="cb5-10"><a href="anki-customização-de-baralhos.html#cb5-10" tabindex="-1"></a>}</span></code></pre></div>
+<style type="text/css">
+.exemplos {
+    background-color: #21212166;
+    width: 80%;
+    margin: auto;
+    padding: 7px;
+    border-radius: 5px;
+    text-align: left;
+    color: #fafafa;
+    font-size: 16px;
+}
+</style>
+<p>Assim, tanto {{Exemplo}} quanto a {{Tradução do exemplo}} ficarão semelhantes entre si e diferentes do resto do conteúdo. Não copie e cole: vá fazendo essas edições uma a uma, e você entenderá o que cada uma dessas linhas quer dizer. Dito isso, vamos desmembrá-las:</p>
+<ul>
+<li><strong>background-color</strong>: como vimos anteriormente, altera a cor do plano de fundo. Eu escolhi <code>#21212166</code>, que é um cinza escuro com um pouco de transparência.</li>
+<li><strong>width</strong>: É a largura da divisória. Escolhi “80%” para fazer com que essa divisória ocupe 80% da página.</li>
+<li><strong>margin</strong>: é a distância que a divisória tem das margens da página. O valor <code>auto</code> representa “automático”, que por padrão coloca a divisória no meio da página.</li>
+<li><strong>padding</strong>: dá uma “inchada” na divisória, para que ela dê espaço para que o texto respire.</li>
+<li><strong>border-radius</strong>: é o “raio da borda”, ou seja, o quanto as quatro pontas da divisória são curvas.</li>
+<li><strong>text-align</strong>: alinha o texto em alguma direção. O padrão do Anki é “center”, o que resulta em texto centralizado. Quis alinhar à esquerda os exemplos para diferenciá-los, então dei o valor “left”.</li>
+<li><strong>color</strong>: muda a cor <em>do texto</em>. O valor <code>#fafafa</code> é um cinza bem claro, quase branco.</li>
+<li><strong>font-size</strong>: define o tamanho do texto dos exemplos dentro da divisória. Escolhi 16px (16 pixels) porque queria que esse texto fosse menor do que os da {{Frente}} e do {{Verso}}.</li>
+</ul>
+<p>O resultado é este:</p>
+<p><img src="img/tut55.png" /></p>
+<p>Que ao salvarmos (clicando em <code>Salvar</code>) e vermos sendo utilizado de fato em uma das notas que criamos, resultará nessa forma de representar nossos <em>flashcards</em>:</p>
+<div class="float">
+<img src="img/tut56.png" alt="Isso só se aplica aos flashcards que sejam do Tipo “Básico com exemplos”. Outros flashcards que não sejam desse tipo continuarão como antes." />
+<div class="figcaption">Isso só se aplica aos flashcards que sejam do <code>Tipo</code> “Básico com exemplos”. Outros flashcards que não sejam desse tipo continuarão como antes.</div>
+</div>
+<p>E claro, a forma como fazer isso é questão de gosto. Você pode preferir outras cores, ou mudar a ordem dos elementos, ou deixar uma coisa maior do que a outra, ou o que quer que seja. O que importa é que você saiba que, caso você queira, você pode editar a aparência das suas cartas para a forma que você quiser.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="footnotes">
+<hr />
+<ol start="14">
+<li id="fn14"><p>Atenção! o campo “{{FrontSide}}” não representa apenas o campo da “{{Frente}}”, mas todo o <em>lado</em> da frente do seu flashcard, contendo todos os campos que você inseriu no lado da frente, não apenas o campo que tem esse mesmo nome.<a href="anki-customização-de-baralhos.html#fnref14" class="footnote-back">↩︎</a></p></li>
+</ol>
+</div>
+            </section>
+
+          </div>
+        </div>
+      </div>
+<a href="anki-plugins-e-awesometts.html" class="navigation navigation-prev " aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
+<a href="anki-conclusão.html" class="navigation navigation-next " aria-label="Next page"><i class="fa fa-angle-right"></i></a>
+    </div>
+  </div>
+<script src="libs/gitbook-2.6.7/js/app.min.js"></script>
+<script src="libs/gitbook-2.6.7/js/clipboard.min.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-search.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-sharing.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-fontsettings.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-bookdown.js"></script>
+<script src="libs/gitbook-2.6.7/js/jquery.highlight.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-clipboard.js"></script>
+<script>
+gitbook.require(["gitbook"], function(gitbook) {
+gitbook.start({
+"sharing": {
+"github": false,
+"facebook": true,
+"twitter": true,
+"linkedin": false,
+"weibo": false,
+"instapaper": false,
+"vk": false,
+"whatsapp": false,
+"all": ["facebook", "twitter", "linkedin", "weibo", "instapaper"]
+},
+"fontsettings": {
+"theme": "white",
+"family": "sans",
+"size": 2
+},
+"edit": {
+"link": null,
+"text": null
+},
+"history": {
+"link": null,
+"text": null
+},
+"view": {
+"link": null,
+"text": null
+},
+"download": null,
+"search": {
+"engine": "fuse",
+"options": null
+},
+"toc": {
+"collapse": "subsection"
+}
+});
+});
+</script>
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    var src = "true";
+    if (src === "" || src === "true") src = "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.9/latest.js?config=TeX-MML-AM_CHTML";
+    if (location.protocol !== "file:")
+      if (/^https?:/.test(src))
+        src = src.replace(/^https?:/, '');
+    script.src = src;
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+</body>
+
+</html>
