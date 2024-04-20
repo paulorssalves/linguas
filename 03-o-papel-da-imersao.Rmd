@@ -3,13 +3,14 @@ output:
   pdf_document: default
   html_document: default
 ---
+
 # Como adquirir uma língua
 
 Para adquirir uma língua, você deve passar tempo com ela. Não pense na língua como uma ferramenta que você tem que dominar. Língua não é matemática, e ficar fazendo exercícios de gramática não vai te levar muito longe. Caso isso soe estranho, ou mesmo ultrajante, recomendo a leitura da página sobre [o papel da gramática][O papel da gramática].
 
-Pense na língua como água, e você tem que se imergir nela. Você precisa passar a maior quantidade de tempo possível nela, de modo que você se sinta confortável com essa imersão. Isso _leva tempo_, e é necessário motivação e constância. 
+Pense na língua como água, e você tem que se imergir nela. Você precisa passar a maior quantidade de tempo possível nela, de modo que você se sinta confortável com essa imersão. Isso *leva tempo*, e é necessário motivação e constância.
 
-Você precisa, sobretudo, _criar memórias_. Raiva, alegria, tristeza, maravilhamento, curiosidade, epifanias: é crucial que você tenha experiências com essas emoções e sensações na sua L2. 
+Você precisa, sobretudo, *criar memórias*. Raiva, alegria, tristeza, maravilhamento, curiosidade, epifanias: é crucial que você tenha experiências com essas emoções e sensações na sua L2.
 
 E isso é tudo. Mas... pra você ter a capacidade de ter essas experiências você precisa entender alguma coisa, certo? Certo. Esse é o próximo ponto.
 
@@ -17,35 +18,37 @@ Para falar a língua é necessário compreender a língua, e para compreender a 
 
 A Internet e a tecnologia nos fornece uma série de recursos que facilita o nosso processo de aprendizado. Temos acesso a tanto material -- tanto os que são didáticos como os que não são -- que nós podemos nos dar o luxo de aprender por imersão sem sair de casa. No passado, aprender por imersão só seria possível (salvo em alguns casos) viajando para um lugar onde se fala a língua desejada.
 
-O processo, então, é o seguinte: ouça muito e assista muito -- não importa se você entende -- na sua L2. Ler, assistir, ouvir: esses são os nossos meios de aprendizado. Mais do que todos, _assistir_ é a mais útil, principalmente no começo. O visual oferece contexto para o que você ouve: não apenas as vozes e a legenda juntas fazem com que o som e as letras trabalhem mutuamente para aprimorar nossas habilidades de leitura e audição, como também as próprias cenas nos auxiliam nesse propósito. Um gesto que um personagem faz, uma palavra que sempre aparece em um determinado local, e assim por diante.
+O processo, então, é o seguinte: ouça muito e assista muito -- não importa se você entende -- na sua L2. Ler, assistir, ouvir: esses são os nossos meios de aprendizado. Mais do que todos, *assistir* é a mais útil, principalmente no começo. O visual oferece contexto para o que você ouve: não apenas as vozes e a legenda juntas fazem com que o som e as letras trabalhem mutuamente para aprimorar nossas habilidades de leitura e audição, como também as próprias cenas nos auxiliam nesse propósito. Um gesto que um personagem faz, uma palavra que sempre aparece em um determinado local, e assim por diante.
 
-Dessa forma, mesmo estando "do lado de fora do círculo" num primeiro momento, o contexto das cenas nos ajuda a entender não apenas o que está acontecendo _a despeito de não entendermos as palavras_, como com esse entendimento nos ajuda a compreender as próprias palavras. Vejamos um alguns exemplos. Com o apoio de [certas ferramentas][O uso de aplicativos] para amplificarmos o nosso vocabulário sem dependermos totalmente da imersão, esse "círculo" vai se tornando cada vez mais permeável.
+Dessa forma, mesmo estando "do lado de fora do círculo" num primeiro momento, o contexto das cenas nos ajuda a entender não apenas o que está acontecendo *a despeito de não entendermos as palavras*, como com esse entendimento nos ajuda a compreender as próprias palavras. Vejamos um alguns exemplos. Com o apoio de [certas ferramentas][O uso de aplicativos] para amplificarmos o nosso vocabulário sem dependermos totalmente da imersão, esse "círculo" vai se tornando cada vez mais permeável.
 
-Abordaremos as ferramentas auxiliares em páginas futuras. Tratemos primeira da imersão. 
+Abordaremos as ferramentas auxiliares em páginas futuras. Tratemos primeira da imersão.
 
----
+------------------------------------------------------------------------
 
-Digamos que você esteja assistindo um filme. Você lê e ouve a frase: "get in the car";^[Para fins didáticos, se você sabe inglês, imagine que não sabe.] ela aparece em uma cena de desespero. As pessoas estão nervosas e anseiam para fugir, e estão correndo para entrar em um carro. "Get in!", um homem amedrontado diz. "Get in the car! Now!".
+Digamos que você esteja assistindo um filme. Você lê e ouve a frase: "get in the car";[^03-o-papel-da-imersao-1] ela aparece em uma cena de desespero. As pessoas estão nervosas e anseiam para fugir, e estão correndo para entrar em um carro. "Get in!", um homem amedrontado diz. "Get in the car! Now!".
 
-Ora, se você é um falante de português, você já sabe que "car" é "carro", muito provavelmente. Talvez você não saiba o que "_get in_" significa, mas essa cena te dá alguma ideia.
+[^03-o-papel-da-imersao-1]: Para fins didáticos, se você sabe inglês, imagine que não sabe.
+
+Ora, se você é um falante de português, você já sabe que "car" é "carro", muito provavelmente. Talvez você não saiba o que "*get in*" significa, mas essa cena te dá alguma ideia.
 
 Pois bem. Igualmente desesperadas, as pessoas chegam aonde queriam, mas percebem que as coisas lá não são tão boas como esperavam. Ainda estão em perigo, e portanto gritam: "get out! Get out of the car! Out! Now!"
 
 "Get in", "get out". Ambas essas frase se relacionam com o carro de algum modo. Em outras cenas você pode ver a frase "get in" sendo empregada quando se convida alguém para entrar em casa, e "get out" para expulsar um visitante indesejado. É possível intuir que essas frases têm algo a ver com "entrar" e "sair". Analogamente, a palavra "cash" sempre aparece em meio a discussões que envolvem números, quantidades, preços; subornos, bancos, economias escondidas; dívidas, tráfico de drogas, compra e venda. "Cash" tem algo a ver com dinheiro, mas não é a mesma coisa que "money". Com o tempo, o significado vai ficando mais claro: "cash" é o dinheiro vivo, em papel, em mãos.
 
-Não é necessário procurar por traduções. Apenas de vê-las aparecerem repetidas vezes, em cenas diferentes, mas em contextos mais ou menos semelhantes, faz com que entendamos _pra que servem_ as palavras e as frases, _como_ elas são usadas. A partir disso, nós podemos ter uma noção do que elas significam. [Este vídeo aqui](https://youtu.be/J_EQDtpYSNM) ilustra muito bem isso.
+Não é necessário procurar por traduções. Apenas de vê-las aparecerem repetidas vezes, em cenas diferentes, mas em contextos mais ou menos semelhantes, faz com que entendamos *pra que servem* as palavras e as frases, *como* elas são usadas. A partir disso, nós podemos ter uma noção do que elas significam. [Este vídeo aqui](https://youtu.be/J_EQDtpYSNM) ilustra muito bem isso.
 
-"Mas como eu vou saber se ela representa mesmo o que eu acho?" Ora, aí que é necessário estar aberto ao erro. Você vai errar, e vai fazer inferências equivocadas. Entretanto, o próprio processo de imersão, a longo prazo, vai corrigir os erros que são cometidos ao longo dele. Você pode achar que uma palavra significa X, mas em uma cena futura você percebe que X não encaixa bem: ou o significado dessa palavra _não_ é X, ou ela tem mais de um significado.
+"Mas como eu vou saber se ela representa mesmo o que eu acho?" Ora, aí que é necessário estar aberto ao erro. Você vai errar, e vai fazer inferências equivocadas. Entretanto, o próprio processo de imersão, a longo prazo, vai corrigir os erros que são cometidos ao longo dele. Você pode achar que uma palavra significa X, mas em uma cena futura você percebe que X não encaixa bem: ou o significado dessa palavra *não* é X, ou ela tem mais de um significado.
 
-E é assim que se procede para _todo o resto da língua_. Só que como entendemos muito pouco do que estamos ouvindo, isso pode causar muita ansiedade; podemos querer entender tudo, e podemos cair no vício de ficar pausando pra ficar traduzindo. Isso não deve ser feito. Exponho um pouco mais acerca disso em [Ansiedade de exposição].
+E é assim que se procede para *todo o resto da língua*. Só que como entendemos muito pouco do que estamos ouvindo, isso pode causar muita ansiedade; podemos querer entender tudo, e podemos cair no vício de ficar pausando pra ficar traduzindo. Isso não deve ser feito. Exponho um pouco mais acerca disso em [Ansiedade de exposição].
 
 No próximo capítulo será trabalhado quais são os melhores tipos de conteúdo a se utilizar para aprender línguas.
 
 ## Resumo
 
-1. O essencial para o aprendizado da sua L2 é a criação de memórias na língua. Isso não é sinônimo de "memorizar a língua", mas de _cultivar experiências nela_. Você precisa sentir alegria, raiva, tristeza, medo -- tudo isso em contextos associados à língua que você está aprendendo. 
-2. O processo de aprendizado de línguas é circular: para aprender uma língua é necessário compreendê-la, e para compreendê-la é necessário compreendê-la.
-3. Em um primeiro momento, a circularidade do processo do aprendizado de línguas parece uma parede. Porém, a prática da imersão e o uso de certas ferramentas auxiliares possibilita com que nós sejamos capaz de entender a língua mesmo sem ter conhecimento prévio dela. Esse entendimento é a margem de que necessitamos para adentrar esse círculo, e assim podemos aprender.
-4. Durante a imersão, o contexto das cenas -- supondo conteúdo audiovisual -- vai fazer com que  sejamos capaz de entender o significado das palavras e das frases. 
-5. Não é necessário procurar por traduções. Permita-se _não entender tudo_. Mesmo assim você estará aprendendo.
-6. Como o processo de aprendizado de línguas é circular, essa mesma prática (imersão) que serve para você dar os primeiros passos na língua também te ajudará a desenvolver uma compreensão cada vez mais aprofundada dela.
+1.  O essencial para o aprendizado da sua L2 é a criação de memórias na língua. Isso não é sinônimo de "memorizar a língua", mas de *cultivar experiências nela*. Você precisa sentir alegria, raiva, tristeza, medo -- tudo isso em contextos associados à língua que você está aprendendo.
+2.  O processo de aprendizado de línguas é circular: para aprender uma língua é necessário compreendê-la, e para compreendê-la é necessário compreendê-la.
+3.  Em um primeiro momento, a circularidade do processo do aprendizado de línguas parece uma parede. Porém, a prática da imersão e o uso de certas ferramentas auxiliares possibilita com que nós sejamos capaz de entender a língua mesmo sem ter conhecimento prévio dela. Esse entendimento é a margem de que necessitamos para adentrar esse círculo, e assim podemos aprender.
+4.  Durante a imersão, o contexto das cenas -- supondo conteúdo audiovisual -- vai fazer com que sejamos capaz de entender o significado das palavras e das frases.
+5.  Não é necessário procurar por traduções. Permita-se *não entender tudo*. Mesmo assim você estará aprendendo.
+6.  Como o processo de aprendizado de línguas é circular, essa mesma prática (imersão) que serve para você dar os primeiros passos na língua também te ajudará a desenvolver uma compreensão cada vez mais aprofundada dela.
