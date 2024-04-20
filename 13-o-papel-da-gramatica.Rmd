@@ -1,4 +1,4 @@
-"# O papel da gramática {-}
+# O papel da gramática {-}
 
 ## Por que eu deixei a gramática por último {-}
 
