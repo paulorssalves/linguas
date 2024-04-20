@@ -7,7 +7,7 @@ output:
 documentclass: book
 ---
 
-# Bem vindo(a)!
+# Bem vindo(a)! {-}
 
 Neste site você encontrará toda a informação necessária para aprender línguas. Aqui você não apredenderá uma língua específica (como inglês, espanhol, mandarim etc.), mas sim como aprender idiomas no geral. 
 
